@@ -1,0 +1,5 @@
+Copy these CSV files into this folder:
+1. batch_task_20000_with_headers.csv
+2. machine_meta_with_headers.csv
+3. cloud_pricing_large.csv
+4. latency_availability_large_5000.csv

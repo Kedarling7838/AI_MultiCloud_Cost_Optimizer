@@ -1,0 +1,301 @@
+provider,region,vm_type,cpu_cores,memory_gb,hourly_vm_cost_usd,storage_cost_gb_month_usd,data_transfer_cost_gb_usd
+GCP,us-central1,small,8,16,0.135,0.034,0.117
+GCP,us-central1,2xlarge,16,32,0.2463,0.023,0.105
+AWS,ap-southeast-1,medium,32,128,0.4949,0.031,0.127
+AWS,us-west-2,xlarge,8,32,0.132,0.039,0.094
+AWS,ap-south-1,small,8,32,0.1522,0.036,0.121
+GCP,us-central1,xlarge,2,8,0.0723,0.032,0.13
+GCP,us-east1,small,2,4,0.0698,0.04,0.13
+AWS,ap-south-1,large,16,64,0.2523,0.026,0.117
+GCP,us-central1,2xlarge,4,8,0.0724,0.026,0.139
+GCP,asia-east1,medium,8,16,0.1353,0.019,0.092
+Azure,East US,medium,32,128,0.4946,0.029,0.132
+GCP,asia-south1,medium,8,16,0.1361,0.03,0.088
+GCP,asia-south1,2xlarge,16,64,0.2549,0.04,0.106
+AWS,us-east-1,small,4,8,0.1006,0.027,0.074
+Azure,Australia East,xlarge,32,128,0.5287,0.037,0.071
+GCP,us-central1,2xlarge,8,32,0.13,0.028,0.102
+GCP,europe-west1,2xlarge,4,8,0.1042,0.025,0.115
+GCP,us-east1,medium,8,16,0.1493,0.035,0.107
+AWS,ap-southeast-1,large,16,32,0.25,0.026,0.139
+Azure,West Europe,small,4,8,0.0689,0.029,0.075
+GCP,us-east1,medium,16,32,0.2569,0.037,0.1
+AWS,ap-southeast-1,medium,8,32,0.1698,0.032,0.101
+GCP,asia-south1,small,4,8,0.0679,0.018,0.109
+GCP,us-east1,small,2,4,0.0453,0.038,0.13
+AWS,ap-southeast-1,medium,8,32,0.1346,0.021,0.135
+GCP,asia-east1,xlarge,4,16,0.1013,0.022,0.077
+Azure,Central India,xlarge,16,64,0.2839,0.019,0.116
+GCP,us-central1,small,16,64,0.281,0.02,0.083
+GCP,asia-south1,medium,16,32,0.2575,0.023,0.135
+Azure,Australia East,small,2,4,0.0786,0.038,0.129
+AWS,ap-south-1,xlarge,16,32,0.2839,0.038,0.082
+AWS,ap-south-1,large,16,64,0.264,0.039,0.14
+GCP,asia-south1,medium,4,16,0.0748,0.019,0.122
+AWS,eu-west-1,small,2,8,0.0576,0.037,0.081
+GCP,us-central1,medium,2,4,0.0654,0.023,0.078
+GCP,us-east1,2xlarge,32,64,0.5129,0.027,0.111
+GCP,europe-west1,large,4,16,0.0757,0.027,0.117
+Azure,Southeast Asia,large,2,4,0.0556,0.04,0.14
+AWS,ap-southeast-1,medium,32,128,0.491,0.026,0.075
+AWS,eu-west-1,large,4,16,0.1025,0.033,0.113
+GCP,asia-east1,small,32,128,0.5269,0.02,0.131
+Azure,East US,small,32,64,0.4973,0.031,0.12
+AWS,eu-west-1,2xlarge,16,64,0.2857,0.037,0.076
+Azure,Central India,small,2,8,0.0697,0.032,0.088
+GCP,asia-south1,2xlarge,16,32,0.25,0.039,0.118
+AWS,ap-southeast-1,small,8,16,0.1443,0.019,0.096
+AWS,eu-west-1,medium,4,8,0.0809,0.03,0.131
+GCP,us-east1,medium,4,8,0.1047,0.019,0.122
+Azure,Southeast Asia,medium,8,16,0.1604,0.02,0.131
+Azure,West Europe,medium,16,64,0.2587,0.035,0.086
+AWS,us-west-2,xlarge,8,32,0.1639,0.039,0.09
+GCP,asia-east1,xlarge,32,128,0.5273,0.021,0.138
+AWS,ap-southeast-1,large,2,4,0.0618,0.026,0.125
+Azure,Australia East,2xlarge,2,8,0.0755,0.022,0.073
+Azure,East US,2xlarge,32,64,0.5014,0.02,0.116
+Azure,Australia East,large,2,8,0.0578,0.033,0.093
+GCP,europe-west1,2xlarge,4,8,0.0839,0.039,0.117
+AWS,ap-southeast-1,2xlarge,8,32,0.1497,0.018,0.09
+Azure,Australia East,2xlarge,8,32,0.1449,0.033,0.106
+GCP,us-east1,small,8,32,0.1292,0.039,0.086
+Azure,West Europe,medium,4,8,0.0671,0.04,0.113
+AWS,ap-south-1,xlarge,32,64,0.5173,0.026,0.098
+AWS,us-east-1,small,16,32,0.2529,0.039,0.106
+AWS,ap-southeast-1,medium,2,8,0.041,0.028,0.107
+GCP,asia-east1,large,16,64,0.2824,0.03,0.133
+GCP,asia-south1,xlarge,8,16,0.1628,0.024,0.124
+Azure,West Europe,large,16,32,0.2771,0.023,0.094
+GCP,us-central1,medium,4,8,0.0822,0.021,0.085
+Azure,Southeast Asia,large,32,128,0.5037,0.023,0.099
+GCP,us-central1,2xlarge,16,64,0.2453,0.026,0.123
+Azure,Australia East,2xlarge,32,64,0.507,0.024,0.104
+Azure,Central India,xlarge,4,16,0.1064,0.04,0.107
+Azure,Australia East,2xlarge,2,4,0.0639,0.021,0.102
+AWS,eu-west-1,xlarge,8,16,0.1455,0.025,0.132
+Azure,Southeast Asia,large,2,8,0.0359,0.03,0.14
+Azure,West Europe,small,2,4,0.0777,0.022,0.071
+AWS,us-west-2,medium,16,32,0.2704,0.023,0.119
+Azure,West Europe,2xlarge,32,64,0.52,0.022,0.092
+GCP,us-central1,large,32,128,0.5028,0.034,0.075
+GCP,us-east1,small,8,16,0.1608,0.03,0.073
+GCP,asia-south1,large,2,8,0.0356,0.027,0.104
+Azure,Central India,xlarge,4,16,0.0729,0.029,0.116
+GCP,asia-east1,xlarge,16,64,0.2822,0.031,0.093
+AWS,us-east-1,large,16,32,0.2788,0.031,0.117
+Azure,East US,xlarge,8,16,0.1469,0.026,0.088
+Azure,Australia East,large,32,64,0.5082,0.022,0.087
+Azure,Southeast Asia,2xlarge,4,16,0.0941,0.029,0.126
+AWS,eu-west-1,medium,16,32,0.2588,0.031,0.103
+GCP,europe-west1,xlarge,32,128,0.5008,0.028,0.091
+AWS,us-east-1,medium,8,16,0.1584,0.039,0.118
+AWS,us-west-2,xlarge,8,32,0.1691,0.036,0.091
+Azure,West Europe,large,2,4,0.0473,0.039,0.109
+GCP,us-east1,xlarge,2,4,0.0608,0.028,0.101
+AWS,us-east-1,large,16,32,0.282,0.027,0.075
+GCP,us-central1,medium,4,16,0.0688,0.023,0.109
+Azure,Australia East,2xlarge,32,64,0.5199,0.026,0.134
+Azure,Australia East,xlarge,8,16,0.1524,0.034,0.136
+AWS,us-west-2,large,2,4,0.0458,0.03,0.081
+Azure,Southeast Asia,2xlarge,16,64,0.2465,0.024,0.09
+Azure,East US,medium,8,16,0.1441,0.03,0.115
+Azure,West Europe,small,2,4,0.0707,0.031,0.128
+Azure,Southeast Asia,small,16,64,0.2765,0.039,0.105
+Azure,Southeast Asia,small,32,64,0.525,0.034,0.112
+AWS,us-east-1,medium,32,64,0.53,0.033,0.089
+AWS,us-west-2,xlarge,32,128,0.5262,0.022,0.111
+GCP,asia-south1,small,16,64,0.2634,0.025,0.077
+AWS,eu-west-1,xlarge,16,64,0.2748,0.027,0.123
+AWS,ap-south-1,small,8,32,0.1395,0.039,0.098
+GCP,us-central1,2xlarge,16,64,0.2474,0.029,0.114
+Azure,Southeast Asia,small,4,16,0.0897,0.038,0.101
+GCP,asia-south1,small,2,4,0.0669,0.025,0.071
+Azure,East US,medium,2,8,0.0776,0.032,0.081
+GCP,europe-west1,2xlarge,8,32,0.1626,0.04,0.087
+GCP,us-east1,xlarge,4,8,0.1039,0.024,0.125
+Azure,Central India,2xlarge,8,16,0.1377,0.025,0.111
+GCP,asia-south1,medium,16,64,0.2605,0.03,0.108
+Azure,Central India,medium,4,16,0.0755,0.035,0.073
+GCP,asia-south1,xlarge,16,32,0.2673,0.019,0.105
+GCP,europe-west1,small,16,32,0.2687,0.028,0.121
+Azure,West Europe,small,16,64,0.2602,0.033,0.115
+Azure,Australia East,xlarge,8,32,0.1643,0.019,0.075
+GCP,europe-west1,medium,2,8,0.079,0.035,0.119
+AWS,ap-south-1,medium,8,16,0.1271,0.036,0.091
+Azure,Southeast Asia,medium,4,16,0.0905,0.035,0.082
+AWS,ap-southeast-1,xlarge,32,64,0.5074,0.031,0.086
+GCP,europe-west1,xlarge,8,16,0.1655,0.028,0.09
+GCP,us-east1,small,16,64,0.2894,0.025,0.137
+GCP,europe-west1,xlarge,8,16,0.17,0.037,0.077
+Azure,Australia East,large,32,128,0.5297,0.024,0.138
+GCP,asia-south1,large,2,4,0.076,0.034,0.128
+Azure,West Europe,2xlarge,8,16,0.1536,0.032,0.117
+GCP,us-east1,small,2,8,0.0705,0.019,0.096
+AWS,us-east-1,large,8,32,0.1329,0.021,0.108
+Azure,Australia East,2xlarge,8,16,0.1366,0.036,0.104
+Azure,Central India,small,16,32,0.2513,0.039,0.13
+GCP,asia-south1,2xlarge,8,16,0.1606,0.018,0.108
+Azure,Central India,large,32,128,0.522,0.039,0.078
+AWS,ap-south-1,small,32,128,0.5262,0.023,0.074
+Azure,Central India,xlarge,2,4,0.037,0.019,0.14
+AWS,us-east-1,medium,32,64,0.5025,0.026,0.136
+GCP,asia-east1,xlarge,32,64,0.5248,0.032,0.128
+GCP,asia-south1,large,2,8,0.0448,0.028,0.087
+Azure,East US,large,32,128,0.4877,0.024,0.138
+Azure,East US,medium,32,64,0.4873,0.025,0.139
+GCP,us-east1,small,32,64,0.5114,0.036,0.086
+AWS,ap-southeast-1,small,8,16,0.1694,0.03,0.126
+AWS,us-east-1,medium,2,8,0.0705,0.023,0.093
+AWS,eu-west-1,small,4,16,0.0887,0.034,0.103
+Azure,Australia East,2xlarge,2,8,0.0577,0.039,0.073
+GCP,asia-east1,large,16,32,0.2477,0.029,0.098
+GCP,us-central1,xlarge,16,32,0.2855,0.025,0.08
+AWS,eu-west-1,2xlarge,32,128,0.5021,0.031,0.091
+GCP,asia-east1,xlarge,2,4,0.0734,0.032,0.124
+GCP,us-east1,xlarge,16,32,0.2636,0.036,0.098
+GCP,us-central1,large,16,64,0.2749,0.026,0.081
+Azure,East US,small,2,4,0.0544,0.034,0.096
+AWS,ap-southeast-1,small,32,128,0.5152,0.027,0.131
+Azure,East US,large,32,128,0.5008,0.031,0.085
+GCP,asia-south1,medium,2,8,0.073,0.026,0.123
+GCP,us-east1,xlarge,32,64,0.5124,0.032,0.119
+AWS,us-west-2,large,8,32,0.1408,0.022,0.08
+GCP,asia-south1,small,4,8,0.0691,0.03,0.096
+Azure,Central India,medium,8,32,0.1575,0.035,0.11
+AWS,us-east-1,medium,4,8,0.0953,0.024,0.116
+Azure,Australia East,xlarge,16,64,0.2547,0.029,0.094
+AWS,eu-west-1,2xlarge,16,64,0.247,0.027,0.112
+AWS,us-west-2,large,4,8,0.0994,0.024,0.078
+Azure,Southeast Asia,medium,4,16,0.089,0.023,0.109
+GCP,europe-west1,small,16,32,0.2646,0.028,0.075
+Azure,Australia East,xlarge,32,128,0.5169,0.027,0.078
+AWS,eu-west-1,medium,32,128,0.5224,0.038,0.076
+AWS,us-west-2,xlarge,32,128,0.5086,0.027,0.092
+Azure,West Europe,large,4,8,0.088,0.021,0.106
+Azure,Central India,medium,4,8,0.0716,0.022,0.112
+GCP,us-central1,medium,16,64,0.279,0.035,0.101
+GCP,asia-east1,large,8,16,0.1448,0.028,0.114
+Azure,Australia East,small,8,16,0.139,0.028,0.074
+Azure,East US,small,32,128,0.5058,0.03,0.125
+AWS,ap-south-1,2xlarge,4,16,0.0922,0.029,0.137
+Azure,East US,large,2,4,0.0368,0.034,0.139
+GCP,asia-east1,2xlarge,4,16,0.0818,0.024,0.099
+Azure,Australia East,small,8,16,0.1398,0.03,0.097
+Azure,Australia East,medium,8,16,0.1512,0.021,0.094
+GCP,asia-south1,medium,32,64,0.4989,0.026,0.125
+AWS,ap-southeast-1,small,16,64,0.2458,0.025,0.137
+Azure,Southeast Asia,medium,4,8,0.072,0.025,0.125
+GCP,asia-east1,2xlarge,2,8,0.0744,0.032,0.112
+AWS,us-west-2,medium,32,64,0.5175,0.019,0.096
+GCP,us-east1,xlarge,32,128,0.5189,0.035,0.086
+AWS,eu-west-1,xlarge,4,16,0.0955,0.031,0.101
+Azure,Southeast Asia,2xlarge,32,128,0.5285,0.036,0.126
+AWS,eu-west-1,small,16,64,0.27,0.02,0.129
+AWS,eu-west-1,small,4,16,0.0852,0.029,0.128
+AWS,us-west-2,xlarge,8,16,0.1437,0.027,0.096
+Azure,East US,large,4,8,0.0793,0.02,0.12
+Azure,West Europe,medium,2,8,0.0763,0.028,0.128
+GCP,asia-south1,xlarge,32,64,0.5258,0.018,0.085
+AWS,ap-southeast-1,2xlarge,32,128,0.49,0.024,0.091
+AWS,us-west-2,xlarge,32,128,0.4878,0.036,0.105
+GCP,us-central1,2xlarge,32,64,0.5173,0.024,0.07
+Azure,West Europe,2xlarge,16,32,0.2749,0.02,0.138
+AWS,ap-southeast-1,2xlarge,32,64,0.5026,0.028,0.114
+Azure,Central India,small,8,16,0.1405,0.034,0.114
+GCP,europe-west1,medium,2,8,0.0596,0.036,0.082
+GCP,asia-south1,xlarge,4,8,0.0678,0.035,0.102
+Azure,West Europe,small,4,8,0.0792,0.025,0.098
+GCP,asia-south1,large,2,4,0.0479,0.037,0.073
+GCP,europe-west1,large,2,8,0.0547,0.027,0.101
+Azure,Central India,medium,16,64,0.2615,0.036,0.089
+AWS,ap-south-1,small,16,32,0.2695,0.025,0.076
+GCP,europe-west1,large,16,64,0.2525,0.028,0.101
+GCP,europe-west1,2xlarge,16,64,0.2738,0.035,0.074
+GCP,asia-south1,large,32,64,0.5279,0.021,0.113
+Azure,East US,medium,2,4,0.07,0.026,0.097
+GCP,us-central1,2xlarge,4,16,0.1077,0.026,0.123
+GCP,us-east1,2xlarge,8,32,0.1391,0.024,0.137
+AWS,us-west-2,xlarge,32,128,0.5261,0.021,0.124
+GCP,asia-south1,medium,32,128,0.5162,0.04,0.084
+AWS,us-east-1,xlarge,4,16,0.1099,0.036,0.138
+Azure,Central India,small,32,128,0.5251,0.037,0.12
+GCP,us-east1,large,32,64,0.4905,0.022,0.08
+Azure,East US,large,32,128,0.506,0.04,0.079
+AWS,us-east-1,large,16,64,0.2687,0.035,0.128
+AWS,us-west-2,large,2,8,0.056,0.029,0.079
+GCP,asia-east1,medium,4,16,0.0876,0.037,0.128
+GCP,us-east1,large,4,8,0.0795,0.034,0.094
+GCP,europe-west1,small,8,16,0.1536,0.03,0.079
+Azure,Australia East,2xlarge,2,4,0.0616,0.031,0.082
+GCP,asia-east1,large,32,64,0.5221,0.019,0.073
+GCP,asia-east1,large,4,16,0.0928,0.019,0.132
+GCP,europe-west1,large,16,32,0.2812,0.033,0.091
+AWS,us-east-1,medium,16,64,0.2668,0.022,0.112
+Azure,Central India,large,16,32,0.2792,0.029,0.077
+AWS,ap-south-1,small,8,32,0.1362,0.02,0.09
+Azure,Australia East,xlarge,4,8,0.1016,0.039,0.12
+AWS,us-west-2,xlarge,32,128,0.5074,0.025,0.072
+Azure,Australia East,xlarge,4,8,0.0913,0.019,0.09
+GCP,asia-south1,large,32,64,0.5231,0.027,0.132
+GCP,europe-west1,xlarge,8,16,0.143,0.031,0.084
+GCP,europe-west1,small,16,64,0.2794,0.024,0.139
+GCP,asia-east1,small,4,8,0.0827,0.035,0.094
+Azure,West Europe,medium,32,128,0.5075,0.019,0.08
+Azure,Southeast Asia,2xlarge,16,32,0.2723,0.029,0.093
+GCP,europe-west1,medium,16,64,0.2717,0.029,0.106
+Azure,Australia East,large,16,32,0.2616,0.033,0.139
+GCP,europe-west1,small,32,128,0.4969,0.032,0.138
+GCP,asia-east1,medium,2,8,0.0427,0.032,0.113
+Azure,West Europe,medium,2,4,0.0436,0.028,0.099
+Azure,West Europe,xlarge,32,128,0.5243,0.034,0.074
+AWS,ap-southeast-1,medium,32,128,0.5299,0.029,0.096
+AWS,ap-south-1,2xlarge,8,32,0.1554,0.037,0.118
+GCP,europe-west1,2xlarge,16,32,0.2881,0.024,0.091
+Azure,Central India,medium,16,64,0.2666,0.03,0.135
+GCP,europe-west1,large,2,8,0.0753,0.027,0.094
+AWS,eu-west-1,small,8,16,0.1406,0.028,0.088
+Azure,West Europe,medium,32,128,0.527,0.033,0.08
+GCP,asia-east1,medium,4,8,0.0951,0.03,0.115
+AWS,us-east-1,xlarge,8,32,0.1295,0.035,0.07
+GCP,us-east1,xlarge,16,64,0.2743,0.035,0.09
+Azure,East US,small,32,64,0.5091,0.034,0.136
+AWS,ap-south-1,medium,2,8,0.0705,0.022,0.122
+Azure,East US,small,8,16,0.1668,0.025,0.102
+GCP,asia-east1,2xlarge,16,32,0.2833,0.028,0.083
+AWS,eu-west-1,medium,16,64,0.2773,0.018,0.094
+Azure,Australia East,medium,4,16,0.1022,0.029,0.076
+GCP,us-central1,medium,4,16,0.0796,0.023,0.088
+AWS,ap-south-1,large,8,32,0.1512,0.031,0.088
+Azure,West Europe,small,2,8,0.0488,0.027,0.105
+GCP,europe-west1,small,8,32,0.1527,0.023,0.079
+AWS,ap-south-1,2xlarge,8,32,0.1566,0.038,0.123
+GCP,us-east1,medium,32,64,0.5086,0.03,0.095
+GCP,us-central1,small,32,64,0.5108,0.021,0.093
+GCP,asia-south1,small,4,16,0.0691,0.029,0.127
+Azure,West Europe,2xlarge,16,64,0.2704,0.03,0.117
+Azure,East US,xlarge,8,16,0.1586,0.031,0.073
+Azure,East US,2xlarge,2,4,0.0794,0.028,0.09
+AWS,us-west-2,xlarge,8,32,0.1452,0.038,0.096
+AWS,ap-southeast-1,medium,8,16,0.133,0.03,0.107
+GCP,us-east1,small,2,8,0.0558,0.034,0.1
+Azure,West Europe,medium,16,64,0.252,0.022,0.131
+AWS,us-east-1,xlarge,32,64,0.4958,0.019,0.112
+Azure,Australia East,small,4,8,0.0831,0.023,0.085
+AWS,us-west-2,2xlarge,8,16,0.1617,0.034,0.092
+GCP,europe-west1,medium,8,16,0.1694,0.029,0.099
+Azure,East US,2xlarge,32,64,0.5132,0.027,0.105
+Azure,Southeast Asia,2xlarge,8,32,0.1434,0.025,0.083
+GCP,asia-south1,medium,4,16,0.1036,0.021,0.102
+AWS,ap-southeast-1,xlarge,16,32,0.2625,0.024,0.093
+AWS,ap-south-1,large,2,4,0.0373,0.026,0.112
+AWS,us-east-1,medium,32,64,0.5066,0.037,0.093
+AWS,us-west-2,medium,2,8,0.0761,0.033,0.119
+Azure,West Europe,2xlarge,8,32,0.1421,0.03,0.095
+Azure,Central India,2xlarge,16,64,0.2494,0.04,0.103
+Azure,West Europe,large,8,32,0.1271,0.037,0.122
+AWS,eu-west-1,2xlarge,32,128,0.4983,0.022,0.086
+GCP,us-east1,xlarge,32,128,0.4966,0.036,0.138
+GCP,asia-south1,xlarge,4,16,0.0726,0.034,0.104
+GCP,us-central1,2xlarge,2,4,0.0775,0.033,0.124
+Azure,West Europe,medium,2,4,0.0354,0.029,0.096
+GCP,asia-east1,xlarge,16,32,0.2453,0.03,0.071

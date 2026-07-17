@@ -1,0 +1,5001 @@
+provider,region,network_latency_ms,response_time_ms,availability_percent,resource_utilization_percent
+AWS,eu-west-1,21,57,99.926,93
+AWS,ap-south-1,78,123,99.933,94
+AWS,us-west-2,27,58,99.956,84
+AWS,us-west-2,10,47,99.977,78
+Azure,East US,10,40,99.972,46
+AWS,us-east-1,28,46,99.978,41
+Azure,Southeast Asia,71,97,99.946,42
+Azure,Central India,76,116,99.92,78
+GCP,asia-east1,50,60,99.939,89
+GCP,asia-east1,65,109,99.963,82
+GCP,asia-south1,76,112,99.937,42
+GCP,us-east1,20,61,99.965,50
+Azure,Central India,80,115,99.988,86
+Azure,Southeast Asia,53,64,99.919,45
+GCP,europe-west1,11,43,99.999,65
+GCP,asia-east1,17,67,99.928,71
+GCP,us-east1,79,119,99.997,49
+GCP,asia-south1,58,97,99.904,48
+Azure,West Europe,12,38,99.979,83
+Azure,Southeast Asia,63,73,99.911,44
+GCP,europe-west1,21,36,99.943,40
+GCP,asia-south1,19,63,99.969,65
+AWS,eu-west-1,43,83,99.903,75
+Azure,Southeast Asia,54,65,99.963,50
+Azure,East US,28,61,99.966,87
+AWS,us-east-1,76,110,99.953,49
+GCP,europe-west1,59,92,99.913,61
+GCP,us-central1,31,78,99.938,43
+GCP,us-east1,68,79,99.935,95
+GCP,asia-south1,48,85,99.978,41
+AWS,ap-southeast-1,51,94,99.951,48
+Azure,Australia East,23,67,99.972,54
+GCP,europe-west1,21,48,99.992,55
+AWS,eu-west-1,43,78,99.904,72
+AWS,us-west-2,74,96,99.975,41
+AWS,eu-west-1,39,54,99.959,45
+Azure,Australia East,78,96,99.992,91
+GCP,us-east1,71,112,99.972,89
+AWS,eu-west-1,72,103,99.939,54
+GCP,us-east1,10,58,99.96,71
+Azure,Australia East,25,38,99.936,69
+Azure,Southeast Asia,50,82,99.921,68
+Azure,West Europe,33,67,99.997,43
+Azure,Southeast Asia,74,100,99.982,51
+GCP,asia-south1,57,71,99.991,47
+Azure,Australia East,51,64,99.993,43
+GCP,asia-south1,48,64,99.946,88
+GCP,europe-west1,41,79,99.926,68
+GCP,asia-east1,54,79,99.994,69
+GCP,asia-east1,45,76,99.995,51
+AWS,us-east-1,64,105,99.973,70
+GCP,us-central1,70,114,99.914,95
+Azure,West Europe,14,53,99.95,78
+Azure,Australia East,11,41,99.972,54
+GCP,us-central1,42,70,99.917,66
+Azure,Southeast Asia,15,63,99.901,83
+AWS,us-west-2,15,42,99.952,88
+GCP,asia-east1,34,63,99.949,69
+AWS,eu-west-1,77,92,99.91,79
+GCP,asia-east1,45,67,99.952,44
+GCP,asia-south1,62,100,99.911,76
+Azure,Southeast Asia,76,108,99.915,48
+AWS,us-west-2,40,52,99.924,53
+AWS,ap-south-1,13,23,99.941,60
+GCP,us-central1,15,40,99.972,94
+Azure,Central India,33,62,99.911,82
+GCP,europe-west1,37,79,99.903,63
+AWS,ap-south-1,38,74,99.922,82
+Azure,Southeast Asia,34,68,99.908,71
+AWS,eu-west-1,27,67,99.972,46
+AWS,us-east-1,68,100,99.955,41
+Azure,Australia East,55,83,99.936,64
+AWS,us-east-1,75,91,99.959,60
+GCP,us-central1,36,70,99.918,48
+Azure,West Europe,10,30,99.978,45
+Azure,East US,22,41,99.922,67
+AWS,ap-south-1,17,30,99.915,69
+GCP,us-central1,27,39,99.936,91
+AWS,us-west-2,40,77,99.934,49
+AWS,us-east-1,47,77,99.966,62
+AWS,us-east-1,17,62,99.906,55
+Azure,West Europe,26,71,99.978,90
+GCP,asia-east1,43,79,99.997,75
+Azure,Central India,26,62,99.987,78
+Azure,Central India,50,60,99.979,72
+AWS,eu-west-1,20,54,99.971,79
+Azure,Southeast Asia,23,71,99.995,74
+AWS,ap-south-1,19,41,99.92,62
+Azure,Southeast Asia,46,91,99.997,50
+Azure,East US,43,54,99.976,80
+GCP,us-east1,34,67,99.918,48
+GCP,asia-east1,22,49,99.912,44
+Azure,East US,42,75,99.913,66
+AWS,ap-southeast-1,43,86,99.978,95
+AWS,ap-southeast-1,25,56,99.928,91
+GCP,europe-west1,66,91,99.901,93
+AWS,ap-southeast-1,22,60,99.983,92
+Azure,West Europe,26,60,99.9,53
+AWS,us-east-1,63,81,99.979,45
+AWS,ap-southeast-1,44,80,99.917,64
+Azure,East US,13,30,99.978,65
+Azure,Australia East,16,66,99.967,85
+AWS,eu-west-1,49,97,99.954,82
+Azure,East US,28,57,99.928,52
+Azure,West Europe,73,85,99.942,95
+AWS,us-west-2,16,61,99.922,93
+AWS,ap-south-1,34,69,99.956,92
+Azure,Australia East,56,70,99.994,95
+AWS,us-east-1,66,78,99.993,59
+GCP,us-central1,36,48,99.915,81
+GCP,us-central1,16,52,99.979,70
+GCP,asia-south1,52,73,99.964,65
+Azure,East US,21,33,99.921,82
+GCP,us-east1,48,81,99.951,85
+Azure,Central India,62,83,99.953,94
+GCP,asia-east1,21,31,99.988,78
+GCP,us-east1,76,124,99.993,78
+AWS,ap-south-1,41,91,99.979,75
+Azure,East US,57,85,99.98,69
+Azure,Central India,78,124,99.999,81
+Azure,West Europe,31,43,99.937,77
+AWS,ap-south-1,57,93,99.966,46
+GCP,asia-east1,19,43,99.957,48
+GCP,us-central1,72,115,99.975,80
+GCP,asia-south1,52,82,99.993,80
+Azure,Central India,53,93,99.917,46
+GCP,us-central1,76,95,99.937,42
+AWS,us-west-2,31,66,99.974,51
+GCP,us-east1,75,96,99.976,71
+GCP,us-central1,70,89,99.927,83
+GCP,asia-south1,38,52,99.942,94
+Azure,Southeast Asia,50,63,99.963,95
+Azure,East US,51,89,99.946,47
+AWS,eu-west-1,56,86,99.977,84
+GCP,asia-east1,70,117,99.969,82
+AWS,us-east-1,33,51,99.965,52
+GCP,asia-south1,64,114,99.983,62
+GCP,us-east1,44,76,99.954,83
+AWS,eu-west-1,36,49,99.912,48
+GCP,us-central1,72,114,99.942,85
+Azure,East US,34,55,99.935,61
+GCP,asia-south1,72,89,99.939,62
+GCP,asia-south1,23,45,99.925,84
+AWS,eu-west-1,32,54,99.908,44
+Azure,Southeast Asia,65,103,99.971,66
+AWS,us-east-1,48,90,99.939,93
+GCP,europe-west1,57,89,99.906,78
+AWS,us-east-1,13,51,99.939,60
+AWS,us-west-2,46,76,99.97,49
+Azure,Australia East,70,103,99.922,88
+AWS,ap-southeast-1,70,89,99.921,55
+GCP,asia-south1,38,67,99.99,50
+AWS,ap-south-1,71,102,99.947,68
+Azure,Central India,65,93,99.908,65
+Azure,East US,51,85,99.956,79
+GCP,us-east1,39,52,99.916,66
+GCP,asia-south1,44,92,99.923,58
+AWS,ap-southeast-1,40,76,99.98,45
+GCP,asia-south1,80,94,99.936,84
+GCP,us-east1,31,63,99.969,48
+AWS,eu-west-1,63,82,99.916,57
+GCP,us-east1,35,63,99.919,78
+AWS,eu-west-1,34,83,99.944,51
+AWS,eu-west-1,30,60,99.904,55
+AWS,eu-west-1,37,52,99.917,69
+Azure,West Europe,22,67,99.952,78
+GCP,us-east1,23,59,99.988,55
+GCP,europe-west1,31,69,99.976,77
+Azure,Southeast Asia,12,61,99.948,67
+Azure,Australia East,30,76,99.914,54
+Azure,Southeast Asia,74,93,99.998,77
+GCP,us-east1,30,73,99.917,71
+GCP,us-central1,22,51,99.962,84
+AWS,ap-south-1,61,85,99.955,91
+AWS,ap-southeast-1,65,79,99.978,56
+GCP,europe-west1,44,69,99.996,79
+AWS,us-west-2,11,26,99.941,59
+Azure,East US,33,72,99.932,44
+Azure,Australia East,49,65,99.975,80
+AWS,us-west-2,43,74,99.913,91
+GCP,asia-south1,48,65,99.969,70
+Azure,Central India,25,49,99.996,84
+Azure,Central India,77,92,99.91,81
+GCP,europe-west1,57,95,99.944,49
+AWS,us-west-2,32,63,99.92,68
+AWS,ap-southeast-1,41,78,99.937,50
+Azure,Australia East,56,91,99.953,67
+GCP,us-central1,39,79,99.922,78
+AWS,us-west-2,54,92,99.98,79
+Azure,East US,69,100,99.945,82
+AWS,us-west-2,12,38,99.913,57
+AWS,ap-south-1,33,53,99.924,48
+AWS,eu-west-1,61,106,99.947,64
+GCP,asia-south1,43,73,99.979,44
+AWS,ap-south-1,48,63,99.99,50
+Azure,Central India,68,112,99.974,79
+AWS,us-east-1,40,59,99.946,67
+AWS,us-east-1,76,117,99.904,94
+GCP,asia-east1,57,75,99.994,54
+AWS,us-east-1,19,61,99.953,70
+GCP,asia-south1,47,97,99.992,60
+Azure,West Europe,76,125,99.921,52
+AWS,ap-southeast-1,34,84,99.986,57
+Azure,Central India,27,71,99.981,60
+AWS,us-west-2,29,43,99.994,80
+AWS,eu-west-1,23,72,99.943,43
+GCP,us-central1,57,106,99.975,76
+AWS,ap-southeast-1,60,91,99.965,50
+GCP,us-east1,48,84,99.924,77
+GCP,europe-west1,35,82,99.933,70
+GCP,europe-west1,72,105,99.95,63
+AWS,ap-south-1,73,116,99.906,48
+AWS,ap-south-1,16,49,99.939,71
+GCP,us-east1,36,67,99.902,81
+AWS,us-west-2,26,52,99.925,48
+GCP,asia-east1,58,92,99.974,40
+AWS,ap-southeast-1,39,59,99.924,95
+Azure,Central India,53,76,99.967,65
+GCP,us-central1,78,107,99.964,64
+GCP,us-east1,64,85,99.932,62
+GCP,asia-east1,14,35,99.975,80
+Azure,Southeast Asia,24,35,99.949,79
+GCP,us-central1,61,75,99.916,46
+AWS,eu-west-1,34,60,99.924,88
+AWS,ap-south-1,12,24,99.907,53
+Azure,Central India,80,98,99.969,87
+Azure,Southeast Asia,40,57,99.942,69
+AWS,eu-west-1,19,38,99.991,77
+GCP,us-east1,27,52,99.922,50
+AWS,eu-west-1,49,65,99.924,40
+GCP,europe-west1,57,90,99.996,47
+AWS,ap-southeast-1,49,59,99.98,84
+GCP,europe-west1,20,63,99.965,73
+Azure,West Europe,57,88,99.991,95
+GCP,us-east1,65,106,99.904,90
+AWS,us-east-1,22,62,99.939,73
+GCP,asia-east1,11,56,99.972,53
+Azure,West Europe,26,72,99.916,95
+GCP,europe-west1,43,57,99.992,95
+Azure,East US,21,48,99.984,44
+Azure,Southeast Asia,69,100,99.912,69
+GCP,us-east1,78,126,99.961,74
+GCP,asia-east1,51,92,99.963,95
+GCP,europe-west1,31,53,99.977,90
+GCP,asia-south1,50,64,99.909,95
+AWS,ap-south-1,60,85,99.969,59
+Azure,Australia East,78,105,99.966,75
+GCP,asia-east1,12,55,99.911,83
+AWS,us-west-2,71,108,99.914,82
+Azure,East US,45,63,99.979,45
+AWS,ap-southeast-1,46,77,99.914,83
+Azure,Central India,20,45,99.991,95
+GCP,us-central1,77,112,99.937,89
+GCP,us-central1,43,67,99.929,82
+GCP,us-east1,68,82,99.921,95
+GCP,us-east1,75,104,99.913,51
+Azure,East US,61,93,99.981,66
+GCP,asia-south1,30,40,99.929,79
+AWS,us-west-2,66,103,99.917,58
+Azure,Central India,17,42,99.997,68
+AWS,us-east-1,15,48,99.929,49
+Azure,Australia East,18,40,99.976,93
+AWS,us-east-1,80,99,99.912,51
+GCP,asia-east1,78,121,99.901,45
+AWS,ap-south-1,71,114,99.951,51
+GCP,asia-south1,72,88,99.902,84
+GCP,europe-west1,37,87,99.938,80
+Azure,Australia East,12,56,99.918,52
+Azure,West Europe,73,84,99.94,48
+Azure,Australia East,73,117,99.946,58
+AWS,us-east-1,38,85,99.947,60
+AWS,us-west-2,57,68,99.92,71
+GCP,asia-south1,14,62,99.981,70
+Azure,West Europe,36,70,99.912,75
+GCP,asia-south1,54,70,99.965,52
+AWS,us-west-2,77,120,99.992,52
+AWS,eu-west-1,62,90,99.975,87
+GCP,us-east1,23,33,99.931,56
+Azure,East US,11,41,99.966,66
+GCP,asia-east1,54,100,99.931,69
+Azure,Southeast Asia,29,50,99.993,67
+GCP,us-central1,56,79,99.989,43
+GCP,us-central1,62,83,99.96,46
+AWS,eu-west-1,56,103,99.974,76
+AWS,eu-west-1,78,98,99.952,94
+GCP,us-central1,48,76,99.928,41
+GCP,us-central1,79,92,99.935,45
+Azure,East US,79,102,99.904,72
+GCP,asia-east1,68,111,99.904,58
+Azure,Central India,79,115,99.927,51
+GCP,us-east1,37,83,99.945,66
+AWS,us-east-1,31,58,99.941,71
+AWS,eu-west-1,46,89,99.971,52
+Azure,West Europe,56,88,99.937,95
+GCP,europe-west1,15,32,99.963,80
+GCP,us-east1,51,77,99.919,84
+Azure,West Europe,70,98,99.97,88
+GCP,asia-east1,38,68,99.968,88
+GCP,europe-west1,64,96,99.975,71
+AWS,ap-southeast-1,22,56,99.955,74
+Azure,Southeast Asia,18,45,99.928,47
+AWS,ap-south-1,55,74,99.995,80
+Azure,East US,37,69,99.908,47
+GCP,asia-south1,16,54,99.995,51
+GCP,us-east1,17,40,99.952,51
+AWS,us-east-1,80,100,99.977,55
+Azure,East US,78,103,99.947,64
+Azure,West Europe,51,64,99.914,55
+GCP,us-central1,44,93,99.986,89
+GCP,asia-east1,18,29,99.955,79
+AWS,eu-west-1,29,67,99.981,66
+Azure,East US,16,40,99.906,50
+AWS,ap-south-1,34,57,99.951,95
+AWS,eu-west-1,16,51,99.946,74
+Azure,Southeast Asia,49,64,99.913,71
+GCP,us-east1,24,72,99.991,62
+GCP,us-east1,58,88,99.935,62
+AWS,us-east-1,58,73,99.946,57
+GCP,europe-west1,50,91,99.981,44
+GCP,europe-west1,13,34,99.941,87
+GCP,asia-south1,67,110,99.928,88
+Azure,Australia East,71,95,99.957,61
+GCP,asia-south1,20,47,99.931,52
+AWS,us-west-2,80,111,99.957,95
+GCP,asia-south1,14,54,99.975,68
+Azure,East US,10,48,99.905,45
+Azure,Australia East,27,57,99.918,57
+GCP,us-east1,23,42,99.99,44
+Azure,Central India,76,98,99.96,64
+Azure,Central India,37,81,99.908,94
+Azure,West Europe,58,85,99.957,83
+AWS,us-east-1,25,49,99.961,91
+AWS,us-west-2,26,60,99.964,81
+GCP,us-central1,50,87,99.912,43
+AWS,ap-southeast-1,34,55,99.934,75
+Azure,Central India,55,102,99.934,79
+Azure,Central India,76,90,99.902,67
+Azure,East US,35,61,99.942,61
+Azure,Southeast Asia,26,44,99.917,61
+Azure,West Europe,62,100,99.952,92
+GCP,asia-east1,76,108,99.925,63
+GCP,asia-east1,40,53,99.973,63
+GCP,us-central1,32,71,99.904,81
+AWS,us-east-1,26,49,99.922,69
+AWS,us-east-1,39,83,99.988,42
+AWS,ap-southeast-1,76,94,99.917,47
+Azure,Australia East,38,87,99.92,51
+AWS,us-east-1,70,120,99.937,90
+AWS,us-east-1,58,94,99.936,79
+AWS,us-east-1,12,62,99.987,57
+GCP,asia-east1,71,98,99.903,70
+GCP,asia-east1,78,108,99.968,86
+AWS,eu-west-1,56,81,99.945,75
+Azure,West Europe,13,49,99.97,51
+Azure,East US,70,109,99.963,50
+Azure,Southeast Asia,56,105,99.981,70
+GCP,europe-west1,52,85,99.971,58
+GCP,europe-west1,79,109,99.952,95
+GCP,asia-south1,35,81,99.916,79
+AWS,us-west-2,50,66,99.977,90
+Azure,Central India,20,49,99.932,76
+AWS,eu-west-1,30,74,99.928,62
+AWS,ap-south-1,43,57,99.955,62
+AWS,ap-south-1,17,29,99.973,79
+Azure,East US,77,126,99.996,57
+AWS,us-west-2,36,62,99.947,84
+Azure,East US,10,50,99.961,71
+GCP,us-central1,67,115,99.921,60
+AWS,eu-west-1,18,68,99.992,78
+GCP,asia-south1,62,86,99.926,51
+AWS,eu-west-1,74,101,99.927,84
+Azure,West Europe,50,65,99.913,84
+AWS,eu-west-1,28,41,99.958,45
+Azure,East US,41,81,99.937,44
+AWS,ap-southeast-1,47,79,99.94,75
+AWS,ap-south-1,68,109,99.987,87
+GCP,asia-south1,38,75,99.983,89
+GCP,europe-west1,65,105,99.907,65
+Azure,Central India,38,56,99.97,81
+GCP,asia-south1,76,117,99.93,40
+Azure,Australia East,75,103,99.948,76
+AWS,eu-west-1,58,72,99.999,56
+AWS,us-east-1,13,30,99.931,52
+GCP,us-central1,28,76,99.991,43
+GCP,us-east1,69,119,99.909,60
+AWS,us-east-1,57,95,99.99,44
+AWS,us-west-2,14,45,99.974,87
+AWS,eu-west-1,24,46,99.931,58
+Azure,East US,23,46,99.966,61
+GCP,asia-south1,69,118,99.943,52
+AWS,eu-west-1,24,49,99.961,58
+AWS,us-west-2,15,52,99.937,89
+Azure,West Europe,65,93,99.937,78
+Azure,Australia East,36,77,99.918,88
+Azure,Southeast Asia,50,81,99.906,95
+Azure,Australia East,44,70,99.939,72
+AWS,us-west-2,24,58,99.986,48
+GCP,us-east1,31,71,99.934,54
+Azure,Central India,43,84,99.928,89
+Azure,Central India,70,117,99.974,90
+AWS,eu-west-1,25,71,99.985,73
+GCP,us-east1,16,63,99.975,54
+AWS,ap-south-1,19,59,99.901,91
+GCP,asia-east1,67,117,99.932,48
+GCP,europe-west1,79,92,99.971,62
+AWS,eu-west-1,10,46,99.925,57
+Azure,West Europe,73,85,99.957,57
+GCP,us-east1,28,54,99.912,67
+Azure,Australia East,80,110,99.916,55
+GCP,us-east1,70,118,99.976,40
+GCP,us-central1,37,84,99.942,62
+AWS,us-west-2,66,80,99.965,48
+GCP,asia-east1,51,87,99.97,55
+Azure,West Europe,41,68,99.963,90
+AWS,us-east-1,51,94,99.994,43
+Azure,Central India,11,25,99.962,81
+AWS,ap-south-1,30,65,99.927,51
+GCP,europe-west1,17,47,99.971,58
+AWS,us-west-2,57,67,99.986,90
+AWS,eu-west-1,26,40,99.983,62
+AWS,ap-southeast-1,27,50,99.996,89
+GCP,asia-east1,59,104,99.982,42
+GCP,asia-east1,53,65,99.942,82
+Azure,East US,38,72,99.971,75
+AWS,us-east-1,45,83,99.928,92
+AWS,ap-southeast-1,42,72,99.963,82
+AWS,ap-southeast-1,43,67,99.997,41
+GCP,asia-south1,22,45,99.947,46
+AWS,eu-west-1,77,108,99.943,51
+GCP,us-central1,27,51,99.949,91
+AWS,us-east-1,75,93,99.92,48
+GCP,europe-west1,40,65,99.961,91
+AWS,ap-southeast-1,47,60,99.903,70
+GCP,us-central1,47,58,99.975,56
+AWS,us-west-2,67,103,99.948,74
+GCP,us-central1,13,53,99.969,89
+GCP,asia-south1,23,35,99.925,85
+GCP,asia-east1,10,46,99.975,54
+AWS,ap-southeast-1,29,46,99.95,90
+Azure,Australia East,47,79,99.908,76
+Azure,Southeast Asia,22,45,99.989,60
+AWS,us-west-2,25,71,99.966,89
+Azure,Southeast Asia,36,73,99.952,45
+Azure,West Europe,28,72,99.939,91
+AWS,ap-south-1,12,50,99.906,54
+AWS,ap-south-1,17,62,99.994,56
+AWS,us-west-2,74,94,99.915,77
+GCP,asia-south1,26,72,99.971,79
+GCP,asia-south1,36,54,99.922,82
+AWS,ap-south-1,75,104,99.958,86
+AWS,us-east-1,32,48,99.92,49
+AWS,us-east-1,16,54,99.962,50
+GCP,us-central1,62,85,99.961,52
+GCP,asia-south1,17,30,99.903,63
+Azure,Southeast Asia,27,47,99.973,87
+AWS,ap-south-1,16,60,99.931,75
+AWS,ap-south-1,61,93,99.976,63
+GCP,asia-east1,11,27,99.951,72
+GCP,asia-east1,40,74,99.929,59
+AWS,ap-south-1,53,66,99.995,53
+Azure,Central India,49,79,99.978,75
+Azure,East US,14,26,99.956,43
+GCP,us-central1,58,101,99.998,45
+GCP,us-east1,76,90,99.914,62
+AWS,eu-west-1,37,77,99.974,77
+Azure,Southeast Asia,11,50,99.997,71
+AWS,us-east-1,28,63,99.91,76
+AWS,eu-west-1,55,70,99.952,94
+GCP,asia-south1,45,81,99.912,88
+Azure,Australia East,61,82,99.915,67
+GCP,us-central1,15,44,99.995,95
+Azure,Southeast Asia,58,106,99.932,69
+Azure,Southeast Asia,31,74,99.923,80
+AWS,us-east-1,17,30,99.995,60
+AWS,us-east-1,61,101,99.936,95
+Azure,Central India,61,104,99.953,40
+GCP,us-east1,29,78,99.917,76
+Azure,Australia East,10,22,99.915,92
+Azure,Australia East,61,90,99.909,85
+AWS,ap-southeast-1,74,122,99.973,68
+AWS,ap-southeast-1,62,98,99.927,80
+GCP,us-central1,15,65,99.936,52
+Azure,East US,75,108,99.903,44
+Azure,West Europe,21,58,99.934,48
+Azure,Central India,66,76,99.93,59
+Azure,Australia East,19,29,99.967,85
+GCP,us-east1,23,34,99.997,54
+Azure,East US,49,84,99.922,65
+AWS,us-east-1,66,96,99.911,52
+Azure,West Europe,31,73,99.916,78
+AWS,ap-south-1,12,57,99.969,54
+AWS,eu-west-1,14,31,99.913,95
+Azure,West Europe,38,67,99.954,74
+Azure,East US,30,72,99.955,63
+AWS,ap-southeast-1,36,63,99.941,69
+GCP,europe-west1,18,29,99.957,56
+Azure,East US,18,35,99.966,67
+GCP,us-central1,33,67,99.999,79
+AWS,us-east-1,16,57,99.912,57
+AWS,ap-south-1,12,52,99.944,81
+Azure,Southeast Asia,11,48,99.965,52
+GCP,us-central1,64,92,99.983,72
+Azure,Central India,40,70,99.933,90
+AWS,ap-south-1,52,70,99.904,41
+Azure,West Europe,11,55,99.969,65
+AWS,ap-south-1,31,75,99.988,43
+Azure,East US,38,49,99.992,64
+AWS,us-west-2,40,66,99.94,56
+Azure,Southeast Asia,79,103,99.952,84
+Azure,Southeast Asia,58,97,99.965,95
+GCP,asia-east1,67,77,99.916,51
+GCP,us-central1,44,83,99.979,77
+Azure,Central India,13,25,99.967,47
+GCP,us-east1,23,53,99.935,55
+Azure,Central India,21,62,99.999,92
+AWS,ap-south-1,23,64,99.917,51
+AWS,us-west-2,34,70,99.961,66
+GCP,asia-east1,69,84,99.919,76
+Azure,Australia East,44,85,99.906,74
+Azure,West Europe,46,85,99.99,49
+AWS,ap-southeast-1,11,51,99.987,69
+Azure,Central India,68,107,99.904,42
+AWS,ap-southeast-1,18,40,99.974,57
+AWS,eu-west-1,62,90,99.915,40
+Azure,Central India,77,110,99.989,93
+AWS,us-east-1,52,88,99.93,69
+Azure,Southeast Asia,22,43,99.979,57
+GCP,us-east1,27,41,99.936,57
+Azure,West Europe,33,45,99.939,60
+AWS,us-west-2,35,83,99.92,63
+Azure,West Europe,36,51,99.95,48
+AWS,ap-south-1,21,62,99.969,85
+GCP,asia-south1,21,68,99.977,67
+Azure,East US,67,79,99.955,52
+Azure,Central India,42,89,99.989,92
+GCP,us-east1,70,99,99.907,69
+AWS,ap-southeast-1,67,99,99.915,60
+Azure,Central India,57,78,99.953,66
+AWS,ap-south-1,47,63,99.977,58
+Azure,East US,33,62,99.904,66
+GCP,us-east1,50,93,99.97,47
+AWS,ap-southeast-1,38,59,99.968,44
+AWS,ap-south-1,36,72,99.917,42
+Azure,West Europe,32,63,99.987,86
+AWS,ap-south-1,69,85,99.939,44
+Azure,Central India,68,96,99.925,71
+AWS,ap-south-1,55,65,99.954,74
+GCP,asia-east1,24,53,99.902,91
+GCP,asia-east1,32,56,99.999,76
+GCP,asia-east1,54,103,99.957,42
+GCP,asia-east1,44,85,99.942,72
+Azure,Central India,36,83,99.944,44
+GCP,us-central1,68,109,99.933,52
+GCP,us-central1,34,75,99.901,61
+Azure,Central India,68,113,99.979,57
+AWS,ap-southeast-1,42,65,99.938,88
+Azure,East US,34,53,99.95,61
+GCP,asia-south1,19,67,99.938,82
+GCP,europe-west1,44,69,99.982,86
+Azure,Southeast Asia,77,98,99.947,87
+Azure,Australia East,77,117,99.945,85
+GCP,asia-east1,64,77,99.901,67
+AWS,us-west-2,12,40,99.911,91
+Azure,East US,16,31,99.92,94
+GCP,us-central1,77,90,99.947,76
+GCP,europe-west1,36,67,99.945,64
+AWS,ap-southeast-1,40,73,99.984,83
+GCP,asia-east1,74,84,99.975,81
+AWS,ap-south-1,37,58,99.955,79
+AWS,eu-west-1,10,56,99.926,40
+AWS,eu-west-1,13,54,99.925,53
+GCP,us-central1,67,98,99.962,46
+Azure,East US,73,117,99.998,83
+AWS,us-east-1,35,51,99.933,74
+Azure,Australia East,34,79,99.923,53
+Azure,East US,22,46,99.953,52
+GCP,asia-south1,65,111,99.976,42
+GCP,asia-east1,34,78,99.901,68
+GCP,asia-east1,11,45,99.924,68
+GCP,us-central1,23,64,99.943,74
+AWS,us-west-2,58,90,99.935,41
+Azure,Central India,43,59,99.961,88
+GCP,us-central1,72,113,99.912,85
+GCP,asia-south1,80,90,99.908,57
+Azure,Southeast Asia,64,105,99.986,51
+Azure,West Europe,66,82,99.917,55
+AWS,us-west-2,67,90,99.942,47
+Azure,West Europe,43,69,99.946,50
+GCP,us-central1,67,87,99.93,95
+GCP,europe-west1,45,81,99.914,69
+GCP,asia-south1,31,60,99.963,63
+GCP,us-central1,58,99,99.993,77
+GCP,us-central1,78,104,99.904,86
+AWS,ap-south-1,28,41,99.913,88
+AWS,us-west-2,43,62,99.947,49
+GCP,us-central1,56,105,99.953,69
+GCP,asia-east1,73,103,99.909,40
+Azure,West Europe,73,111,99.96,69
+AWS,us-east-1,58,83,99.949,67
+GCP,asia-east1,13,50,99.968,86
+Azure,Australia East,48,91,99.931,83
+Azure,Southeast Asia,18,63,99.932,80
+GCP,asia-east1,66,87,99.997,49
+AWS,ap-southeast-1,78,106,99.927,87
+GCP,europe-west1,62,76,99.995,70
+GCP,europe-west1,12,53,99.918,68
+Azure,East US,66,80,99.935,42
+AWS,ap-southeast-1,66,101,99.942,64
+AWS,ap-southeast-1,75,93,99.911,49
+AWS,ap-southeast-1,59,98,99.947,85
+Azure,Southeast Asia,70,114,99.991,46
+AWS,eu-west-1,78,103,99.923,53
+Azure,Southeast Asia,59,85,99.953,81
+Azure,East US,57,95,99.908,59
+Azure,Australia East,58,95,99.905,76
+Azure,East US,58,104,99.973,90
+GCP,europe-west1,79,115,99.984,93
+Azure,West Europe,46,66,99.916,41
+AWS,eu-west-1,18,40,99.913,65
+Azure,Australia East,26,53,99.923,49
+Azure,Southeast Asia,41,56,99.972,49
+Azure,Australia East,42,89,99.964,45
+GCP,us-central1,63,110,99.927,66
+GCP,us-central1,17,36,99.99,46
+GCP,us-east1,72,100,99.998,76
+AWS,us-west-2,42,57,99.984,95
+AWS,us-east-1,33,65,99.989,45
+AWS,us-east-1,77,95,99.974,50
+GCP,us-east1,55,66,99.963,64
+GCP,europe-west1,62,80,99.921,78
+AWS,ap-south-1,28,65,99.981,79
+AWS,ap-south-1,69,85,99.987,53
+AWS,us-west-2,15,49,99.986,82
+Azure,West Europe,64,98,99.984,85
+AWS,ap-south-1,68,103,99.979,67
+GCP,us-east1,29,51,99.921,89
+AWS,us-east-1,55,69,99.976,95
+Azure,Central India,33,57,99.946,66
+GCP,us-east1,80,122,99.955,78
+AWS,ap-south-1,70,97,99.964,40
+Azure,Central India,43,89,99.982,49
+GCP,us-central1,49,82,99.931,73
+AWS,us-west-2,57,94,99.971,77
+GCP,europe-west1,51,66,99.975,92
+GCP,asia-south1,62,93,99.953,92
+AWS,us-west-2,23,65,99.957,49
+AWS,us-east-1,19,48,99.938,86
+GCP,asia-south1,12,40,99.963,56
+Azure,Australia East,23,45,99.939,52
+AWS,eu-west-1,65,110,99.948,72
+Azure,Australia East,70,105,99.945,63
+GCP,asia-south1,64,92,99.952,63
+Azure,Australia East,37,76,99.913,41
+AWS,us-west-2,71,95,99.954,63
+GCP,europe-west1,26,63,99.988,46
+Azure,East US,66,111,99.928,59
+Azure,East US,47,95,99.949,48
+Azure,West Europe,53,83,99.947,90
+Azure,Central India,26,72,99.988,45
+GCP,us-east1,14,60,99.91,43
+GCP,us-central1,47,87,99.906,84
+AWS,us-west-2,57,75,99.943,90
+AWS,ap-south-1,18,30,99.974,40
+GCP,asia-south1,53,81,99.998,76
+AWS,eu-west-1,49,80,99.933,75
+GCP,asia-south1,31,59,99.967,70
+GCP,us-central1,13,57,99.974,75
+Azure,Southeast Asia,17,38,99.972,91
+AWS,eu-west-1,22,67,99.938,75
+GCP,asia-south1,37,81,99.922,91
+AWS,ap-southeast-1,77,105,99.946,51
+GCP,asia-east1,65,77,99.985,74
+Azure,Southeast Asia,46,93,99.977,68
+GCP,asia-south1,11,54,99.983,58
+AWS,us-east-1,18,42,99.95,67
+AWS,eu-west-1,65,89,99.906,55
+Azure,Australia East,42,77,99.946,90
+Azure,Southeast Asia,15,38,99.951,94
+Azure,Australia East,61,82,99.921,58
+AWS,us-east-1,78,126,99.902,88
+Azure,East US,32,80,99.983,83
+AWS,us-east-1,26,51,99.953,60
+Azure,Central India,60,81,99.993,60
+AWS,us-west-2,22,41,99.945,73
+AWS,ap-south-1,62,93,99.972,58
+AWS,ap-southeast-1,11,21,99.906,51
+Azure,Southeast Asia,36,78,99.945,67
+Azure,East US,64,84,99.952,95
+GCP,us-east1,14,48,99.95,65
+AWS,us-east-1,38,76,99.996,68
+AWS,eu-west-1,36,85,99.97,60
+Azure,Central India,80,118,99.984,52
+Azure,Central India,40,79,99.913,41
+GCP,europe-west1,34,82,99.955,87
+Azure,Australia East,48,64,99.984,62
+Azure,West Europe,60,76,99.977,55
+Azure,East US,74,118,99.929,44
+Azure,East US,45,61,99.937,60
+AWS,us-east-1,16,45,99.981,47
+AWS,us-west-2,73,115,99.989,70
+AWS,ap-south-1,44,82,99.967,56
+AWS,us-west-2,20,40,99.989,61
+Azure,Central India,54,98,99.996,40
+AWS,ap-south-1,39,65,99.941,79
+AWS,us-west-2,10,36,99.989,82
+AWS,us-east-1,30,41,99.939,62
+AWS,ap-southeast-1,37,68,99.949,46
+AWS,ap-south-1,10,42,99.955,63
+AWS,us-west-2,48,70,99.965,80
+Azure,Australia East,33,58,99.905,40
+Azure,Central India,72,89,99.949,77
+AWS,us-west-2,19,66,99.945,47
+AWS,us-east-1,44,74,99.933,79
+AWS,ap-south-1,21,41,99.915,43
+GCP,europe-west1,60,98,99.973,45
+GCP,asia-east1,63,96,99.934,94
+AWS,us-east-1,37,77,99.954,92
+Azure,Central India,60,85,99.983,44
+AWS,eu-west-1,13,37,99.93,95
+AWS,ap-southeast-1,27,58,99.915,46
+AWS,us-west-2,11,25,99.97,41
+Azure,West Europe,61,85,99.918,91
+Azure,Australia East,14,34,99.928,90
+Azure,East US,41,84,99.975,42
+AWS,ap-southeast-1,18,53,99.929,81
+Azure,West Europe,68,115,99.958,49
+AWS,eu-west-1,50,71,99.95,54
+GCP,us-east1,69,87,99.935,44
+Azure,East US,43,93,99.949,64
+Azure,West Europe,37,51,99.939,90
+AWS,ap-southeast-1,57,107,99.987,76
+Azure,West Europe,50,79,99.992,88
+GCP,us-east1,41,70,99.978,80
+GCP,asia-south1,56,96,99.928,95
+Azure,Central India,60,80,99.999,44
+GCP,europe-west1,45,90,99.981,78
+AWS,ap-southeast-1,44,94,99.975,69
+GCP,us-central1,37,77,99.914,94
+AWS,ap-south-1,50,80,99.937,77
+Azure,West Europe,63,79,99.936,82
+GCP,us-east1,74,99,99.962,73
+AWS,ap-south-1,46,69,99.97,58
+Azure,Central India,53,85,99.945,64
+Azure,Central India,66,107,99.923,85
+Azure,Australia East,25,59,99.982,47
+GCP,us-central1,14,27,99.94,62
+GCP,asia-south1,38,77,99.953,50
+GCP,asia-south1,10,58,99.92,62
+GCP,asia-south1,31,70,99.978,52
+GCP,asia-south1,59,97,99.943,49
+AWS,eu-west-1,42,66,99.977,62
+Azure,West Europe,28,76,99.972,61
+Azure,Australia East,67,113,99.924,59
+GCP,europe-west1,76,103,99.963,70
+AWS,ap-southeast-1,39,82,99.9,59
+GCP,asia-east1,14,42,99.982,74
+AWS,us-west-2,14,36,99.986,82
+GCP,us-east1,48,82,99.903,76
+Azure,East US,78,124,99.98,67
+AWS,us-west-2,66,105,99.942,54
+Azure,Australia East,76,109,99.975,91
+Azure,Central India,21,51,99.963,42
+Azure,Australia East,34,46,99.933,45
+AWS,us-east-1,26,42,99.956,42
+AWS,us-east-1,66,93,99.942,65
+AWS,us-east-1,24,74,99.933,77
+AWS,us-east-1,49,71,99.954,57
+Azure,Southeast Asia,57,76,99.91,94
+Azure,Southeast Asia,67,84,99.915,47
+AWS,ap-south-1,62,88,99.904,80
+Azure,Southeast Asia,78,118,99.935,93
+GCP,europe-west1,43,86,99.939,85
+AWS,ap-southeast-1,16,41,99.92,69
+Azure,West Europe,44,83,99.968,58
+GCP,asia-east1,37,55,99.924,74
+GCP,europe-west1,54,70,99.959,95
+AWS,ap-southeast-1,56,67,99.953,92
+Azure,Australia East,27,74,99.951,41
+AWS,us-east-1,16,61,99.911,70
+Azure,Southeast Asia,52,101,99.958,78
+Azure,Central India,16,54,99.963,63
+AWS,ap-southeast-1,13,59,99.928,86
+GCP,asia-south1,50,100,99.927,86
+AWS,ap-southeast-1,24,45,99.967,94
+GCP,us-central1,66,76,99.946,87
+Azure,East US,31,66,99.909,63
+AWS,eu-west-1,67,94,99.967,75
+AWS,eu-west-1,59,70,99.982,66
+GCP,asia-south1,79,118,99.98,49
+GCP,asia-south1,48,63,99.946,84
+GCP,europe-west1,37,55,99.916,65
+AWS,ap-southeast-1,64,95,99.974,80
+AWS,us-east-1,37,82,99.982,61
+AWS,ap-south-1,19,65,99.935,92
+Azure,Southeast Asia,58,80,99.983,63
+GCP,asia-south1,46,78,99.958,92
+GCP,us-east1,25,44,99.995,46
+GCP,us-east1,40,51,99.986,64
+AWS,eu-west-1,39,56,99.952,46
+AWS,us-east-1,19,52,99.951,67
+Azure,Central India,26,56,99.995,60
+GCP,us-central1,51,61,99.93,63
+GCP,us-central1,32,54,99.964,70
+GCP,asia-south1,64,81,99.98,49
+AWS,us-east-1,55,97,99.977,85
+AWS,us-east-1,76,89,99.915,57
+AWS,ap-south-1,38,79,99.959,41
+GCP,asia-east1,42,52,99.93,64
+AWS,us-west-2,55,100,99.947,90
+AWS,us-west-2,38,75,99.916,50
+GCP,asia-south1,16,45,99.948,48
+AWS,us-east-1,45,93,99.976,42
+Azure,Australia East,47,87,99.934,40
+Azure,West Europe,30,74,99.968,78
+AWS,ap-south-1,29,58,99.989,87
+AWS,us-west-2,40,76,99.989,44
+GCP,asia-south1,48,88,99.915,89
+AWS,eu-west-1,68,115,99.912,83
+Azure,West Europe,37,75,99.976,65
+AWS,us-east-1,54,70,99.957,90
+GCP,asia-east1,13,45,99.956,90
+GCP,europe-west1,55,94,99.924,88
+GCP,europe-west1,11,61,99.93,82
+Azure,Southeast Asia,16,52,99.994,64
+GCP,asia-east1,23,44,99.939,52
+GCP,europe-west1,33,78,99.923,89
+Azure,Australia East,15,37,99.95,69
+Azure,West Europe,18,40,99.924,75
+AWS,eu-west-1,68,87,99.936,65
+GCP,europe-west1,62,99,99.907,76
+Azure,Southeast Asia,25,52,99.951,83
+Azure,East US,68,109,99.957,73
+Azure,Australia East,50,100,99.942,72
+GCP,europe-west1,56,79,99.984,48
+Azure,Southeast Asia,25,60,99.975,78
+GCP,us-east1,79,109,99.945,92
+Azure,East US,72,86,99.921,51
+AWS,eu-west-1,68,88,99.94,52
+GCP,asia-east1,35,56,99.913,76
+AWS,eu-west-1,32,77,99.945,71
+AWS,us-east-1,55,79,99.955,81
+Azure,Australia East,24,72,99.937,94
+GCP,asia-south1,78,122,99.941,45
+AWS,ap-south-1,57,98,99.947,67
+GCP,us-central1,11,31,99.975,41
+AWS,eu-west-1,38,79,99.95,93
+GCP,asia-south1,72,82,99.97,95
+AWS,eu-west-1,59,88,99.95,42
+GCP,asia-east1,75,110,99.929,70
+GCP,europe-west1,71,120,99.993,59
+Azure,East US,74,115,99.998,56
+GCP,europe-west1,23,52,99.95,71
+GCP,us-central1,37,62,99.985,58
+AWS,us-west-2,15,48,99.99,66
+GCP,asia-east1,45,87,99.962,95
+GCP,europe-west1,18,58,99.989,48
+AWS,ap-southeast-1,15,39,99.935,91
+GCP,us-central1,77,119,99.956,46
+AWS,ap-southeast-1,75,103,99.998,46
+AWS,us-east-1,76,125,99.92,62
+Azure,West Europe,18,45,99.931,42
+Azure,Central India,32,50,99.915,64
+AWS,eu-west-1,14,57,99.904,40
+GCP,asia-east1,65,82,99.94,94
+AWS,eu-west-1,72,90,99.901,81
+Azure,East US,79,115,99.939,53
+Azure,Southeast Asia,35,82,99.937,40
+AWS,us-west-2,60,110,99.956,93
+AWS,us-east-1,16,40,99.963,55
+AWS,ap-south-1,33,59,99.99,80
+AWS,us-east-1,44,89,99.927,45
+GCP,us-east1,41,52,99.903,42
+GCP,asia-east1,25,66,99.934,75
+GCP,europe-west1,13,24,99.975,87
+AWS,ap-south-1,77,125,99.975,42
+GCP,asia-south1,75,98,99.978,64
+Azure,Australia East,42,70,99.957,48
+GCP,asia-east1,55,102,99.971,55
+Azure,Southeast Asia,48,74,99.944,82
+GCP,asia-east1,74,119,99.951,76
+Azure,Southeast Asia,71,113,99.963,77
+GCP,us-east1,68,117,99.93,70
+GCP,europe-west1,45,84,99.989,60
+GCP,us-east1,69,79,99.992,93
+GCP,us-central1,35,75,99.914,58
+AWS,us-east-1,57,73,99.915,84
+GCP,us-east1,65,91,99.918,60
+AWS,us-west-2,25,46,99.979,63
+Azure,Australia East,25,66,99.972,94
+GCP,us-east1,73,114,99.909,56
+AWS,eu-west-1,13,53,99.91,84
+AWS,us-east-1,42,75,99.949,82
+AWS,ap-southeast-1,51,93,99.988,76
+GCP,us-east1,39,89,99.963,53
+Azure,West Europe,22,38,99.914,56
+Azure,East US,46,60,99.97,59
+AWS,ap-south-1,72,103,99.925,40
+AWS,ap-south-1,80,113,99.96,50
+Azure,Central India,51,91,99.99,83
+AWS,us-east-1,76,93,99.975,45
+GCP,asia-south1,70,120,99.93,53
+AWS,us-west-2,64,79,99.948,53
+Azure,West Europe,43,70,99.964,41
+AWS,eu-west-1,18,33,99.938,50
+AWS,us-west-2,45,67,99.958,45
+Azure,East US,31,52,99.915,87
+AWS,eu-west-1,65,113,99.964,90
+GCP,asia-east1,58,106,99.99,78
+AWS,ap-southeast-1,34,58,99.902,73
+Azure,East US,64,108,99.977,65
+Azure,West Europe,42,76,99.934,58
+GCP,us-east1,41,71,99.944,85
+AWS,us-west-2,31,42,99.961,94
+AWS,us-west-2,12,61,99.976,81
+GCP,asia-south1,71,82,99.907,88
+AWS,eu-west-1,37,49,99.953,42
+AWS,us-west-2,28,64,99.941,90
+AWS,ap-south-1,68,85,99.911,83
+GCP,us-east1,35,69,99.985,78
+AWS,ap-southeast-1,72,91,99.971,88
+Azure,Australia East,36,67,99.98,84
+Azure,Central India,53,74,99.992,67
+Azure,East US,30,71,99.901,41
+AWS,us-east-1,72,89,99.907,61
+Azure,Southeast Asia,50,75,99.915,48
+GCP,us-east1,47,82,99.978,45
+AWS,eu-west-1,22,64,99.926,45
+Azure,East US,57,92,99.974,63
+AWS,ap-south-1,22,42,99.976,82
+AWS,ap-southeast-1,53,94,99.984,44
+GCP,asia-south1,53,97,99.906,78
+GCP,us-east1,24,51,99.92,83
+GCP,europe-west1,60,97,99.975,95
+GCP,asia-south1,77,110,99.969,50
+Azure,Australia East,25,74,99.936,81
+GCP,us-east1,78,94,99.968,58
+Azure,Southeast Asia,71,113,99.932,40
+Azure,Southeast Asia,77,117,99.902,85
+AWS,us-west-2,64,89,99.96,83
+GCP,us-east1,18,55,99.97,58
+AWS,us-east-1,29,52,99.905,60
+GCP,asia-south1,63,92,99.955,70
+Azure,Southeast Asia,62,96,99.92,43
+AWS,eu-west-1,14,54,99.969,80
+Azure,Central India,79,104,99.944,63
+Azure,East US,56,96,99.994,53
+GCP,asia-east1,74,107,99.927,52
+GCP,europe-west1,52,95,99.956,73
+Azure,West Europe,67,89,99.923,79
+Azure,West Europe,31,46,99.999,59
+Azure,West Europe,11,21,99.908,61
+Azure,Australia East,29,48,99.952,94
+GCP,asia-east1,52,84,99.969,80
+AWS,ap-south-1,59,109,99.938,65
+AWS,ap-south-1,15,51,99.934,51
+GCP,us-central1,40,78,99.904,42
+Azure,Australia East,73,86,99.985,69
+Azure,Australia East,53,64,99.946,55
+GCP,us-east1,63,78,99.983,78
+GCP,us-east1,29,56,99.966,88
+AWS,us-west-2,29,43,99.933,42
+GCP,us-east1,67,115,99.978,90
+AWS,us-west-2,72,98,99.982,71
+Azure,Southeast Asia,46,83,99.946,78
+GCP,us-central1,39,67,99.915,47
+GCP,asia-east1,38,63,99.921,93
+AWS,us-east-1,38,79,99.94,87
+GCP,asia-south1,43,60,99.92,81
+AWS,ap-southeast-1,13,57,99.98,64
+AWS,eu-west-1,31,73,99.993,75
+GCP,europe-west1,26,45,99.993,62
+GCP,asia-east1,31,80,99.99,58
+Azure,West Europe,60,87,99.984,72
+AWS,eu-west-1,30,71,99.937,76
+GCP,us-central1,72,92,99.904,66
+AWS,us-east-1,46,59,99.915,60
+AWS,us-west-2,79,93,99.992,66
+AWS,us-east-1,23,39,99.967,84
+AWS,ap-south-1,25,44,99.932,88
+Azure,West Europe,77,126,99.97,56
+Azure,West Europe,69,109,99.98,64
+AWS,us-east-1,38,68,99.975,80
+AWS,us-east-1,15,64,99.923,49
+GCP,europe-west1,34,51,99.958,90
+AWS,eu-west-1,10,33,99.964,48
+AWS,ap-southeast-1,32,62,99.993,85
+Azure,East US,59,94,99.986,95
+Azure,West Europe,39,55,99.906,71
+Azure,West Europe,54,77,99.981,43
+Azure,Southeast Asia,13,46,99.924,41
+GCP,us-central1,78,103,99.982,74
+AWS,ap-southeast-1,55,73,99.9,90
+AWS,us-west-2,68,106,99.912,44
+Azure,East US,11,40,99.964,79
+GCP,asia-east1,42,67,99.964,40
+Azure,Central India,47,71,99.994,81
+GCP,asia-south1,75,118,99.99,53
+GCP,europe-west1,31,50,99.911,69
+AWS,ap-south-1,69,92,99.999,54
+GCP,asia-south1,44,90,99.906,50
+AWS,us-west-2,14,59,99.968,88
+GCP,us-east1,38,80,99.965,49
+Azure,Central India,57,101,99.996,88
+AWS,us-east-1,47,81,99.985,53
+GCP,europe-west1,56,103,99.927,51
+Azure,East US,66,89,99.912,90
+GCP,us-central1,76,121,99.989,49
+GCP,us-east1,32,43,99.918,63
+AWS,us-west-2,45,83,99.921,95
+AWS,ap-southeast-1,32,42,99.986,60
+GCP,us-central1,47,91,99.922,63
+GCP,asia-east1,75,114,99.933,93
+GCP,us-east1,48,71,99.926,57
+Azure,Southeast Asia,19,63,99.979,71
+GCP,asia-east1,68,84,99.958,44
+AWS,ap-southeast-1,77,121,99.953,75
+GCP,europe-west1,75,121,99.913,46
+Azure,Australia East,44,90,99.98,71
+AWS,us-west-2,10,39,99.924,51
+AWS,us-east-1,63,92,99.935,41
+AWS,us-east-1,77,123,99.925,94
+GCP,europe-west1,70,101,99.976,92
+AWS,eu-west-1,43,67,99.929,44
+Azure,East US,29,52,99.939,78
+AWS,ap-south-1,56,102,99.969,65
+GCP,asia-south1,60,106,99.93,49
+AWS,us-east-1,45,58,99.986,88
+GCP,asia-south1,68,97,99.932,71
+GCP,us-central1,72,111,99.928,72
+GCP,europe-west1,41,71,99.922,42
+GCP,asia-south1,33,63,99.998,87
+GCP,asia-east1,20,62,99.905,90
+Azure,East US,46,76,99.935,56
+GCP,us-central1,72,115,99.921,74
+Azure,Australia East,30,76,99.92,48
+AWS,eu-west-1,36,72,99.951,55
+GCP,us-central1,36,67,99.932,91
+GCP,europe-west1,61,107,99.912,54
+Azure,Southeast Asia,38,64,99.981,53
+GCP,us-east1,53,63,99.97,48
+GCP,asia-south1,39,87,99.964,52
+Azure,West Europe,67,98,99.917,77
+GCP,europe-west1,69,108,99.946,77
+Azure,West Europe,63,80,99.959,75
+AWS,ap-south-1,47,83,99.981,42
+GCP,europe-west1,16,31,99.926,84
+Azure,West Europe,10,52,99.935,66
+AWS,us-west-2,50,60,99.963,86
+GCP,asia-east1,27,37,99.963,54
+GCP,europe-west1,70,86,99.976,90
+Azure,East US,42,63,99.996,88
+Azure,West Europe,58,81,99.993,89
+Azure,Australia East,53,73,99.998,49
+AWS,us-west-2,14,53,99.971,60
+Azure,Central India,70,105,99.903,71
+GCP,us-central1,42,70,99.981,78
+AWS,eu-west-1,53,102,99.931,92
+Azure,Southeast Asia,44,93,99.907,51
+AWS,ap-southeast-1,66,98,99.968,94
+Azure,West Europe,18,51,99.962,47
+GCP,asia-south1,50,80,99.918,75
+Azure,Central India,79,96,99.909,42
+AWS,us-west-2,53,86,99.955,44
+AWS,eu-west-1,37,52,99.982,89
+AWS,ap-southeast-1,26,39,99.902,40
+AWS,us-east-1,51,88,99.971,94
+GCP,us-east1,60,89,99.957,47
+AWS,ap-southeast-1,61,101,99.933,45
+Azure,Central India,36,67,99.974,54
+Azure,East US,31,64,99.932,80
+Azure,Central India,11,23,99.996,68
+AWS,ap-southeast-1,42,58,99.964,43
+Azure,West Europe,21,69,99.91,94
+AWS,ap-southeast-1,62,104,99.948,89
+Azure,Australia East,24,40,99.971,84
+AWS,ap-southeast-1,24,58,99.928,64
+Azure,Australia East,56,101,99.923,91
+GCP,asia-east1,77,111,99.908,85
+GCP,asia-south1,17,42,99.924,58
+AWS,us-east-1,49,88,99.999,47
+GCP,us-central1,60,91,99.905,93
+GCP,asia-east1,61,109,99.918,79
+GCP,asia-south1,46,67,99.956,44
+AWS,us-west-2,62,99,99.98,85
+GCP,us-east1,55,99,99.993,66
+GCP,asia-east1,79,129,99.972,68
+AWS,us-west-2,48,59,99.956,50
+GCP,asia-south1,15,65,99.965,91
+GCP,us-central1,53,88,99.967,78
+Azure,Southeast Asia,42,83,99.901,44
+Azure,Central India,66,115,99.9,54
+AWS,us-west-2,78,104,99.93,71
+AWS,ap-south-1,58,95,99.948,69
+AWS,ap-south-1,15,57,99.995,48
+AWS,us-west-2,19,37,99.964,77
+Azure,West Europe,49,66,99.961,77
+GCP,asia-east1,21,50,99.926,52
+AWS,eu-west-1,47,68,99.987,56
+Azure,East US,32,48,99.996,86
+GCP,asia-south1,33,65,99.956,66
+Azure,Southeast Asia,61,74,99.947,62
+Azure,East US,14,34,99.974,53
+GCP,us-east1,65,112,99.907,82
+Azure,Central India,69,119,99.961,69
+GCP,europe-west1,61,100,99.925,46
+AWS,us-east-1,41,53,99.994,49
+AWS,us-west-2,43,83,99.985,82
+GCP,europe-west1,58,108,99.919,85
+AWS,us-west-2,65,76,99.946,79
+GCP,asia-south1,56,88,99.94,93
+GCP,us-east1,69,112,99.973,84
+Azure,Central India,28,75,99.94,48
+GCP,europe-west1,66,96,99.981,86
+GCP,us-central1,46,58,99.986,49
+GCP,asia-south1,59,107,99.984,94
+GCP,us-east1,18,64,99.981,85
+AWS,ap-south-1,13,48,99.909,77
+GCP,asia-south1,59,109,99.903,53
+AWS,ap-southeast-1,76,90,99.972,44
+AWS,ap-southeast-1,76,91,99.966,92
+GCP,europe-west1,69,101,99.951,86
+AWS,us-west-2,74,88,99.938,49
+Azure,Central India,58,75,99.925,56
+GCP,us-central1,47,92,99.946,46
+Azure,Central India,75,110,99.977,93
+GCP,europe-west1,67,97,99.983,40
+GCP,europe-west1,51,76,99.903,45
+GCP,europe-west1,55,94,99.907,73
+GCP,us-east1,20,70,99.963,48
+GCP,asia-south1,16,63,99.927,73
+GCP,us-east1,40,63,99.994,61
+Azure,Central India,17,62,99.961,90
+Azure,East US,15,44,99.995,55
+GCP,us-east1,17,43,99.956,69
+GCP,us-central1,25,41,99.928,86
+Azure,East US,16,61,99.968,71
+GCP,us-central1,52,62,99.997,56
+Azure,West Europe,16,62,99.979,93
+AWS,eu-west-1,27,56,99.991,64
+GCP,asia-east1,22,32,99.964,46
+Azure,Central India,26,74,99.921,67
+Azure,West Europe,56,66,99.996,87
+Azure,Australia East,46,57,99.955,44
+AWS,eu-west-1,48,74,99.99,66
+AWS,ap-south-1,50,67,99.959,79
+Azure,West Europe,20,35,99.91,79
+Azure,Australia East,60,102,99.925,60
+Azure,Southeast Asia,40,66,99.9,55
+GCP,asia-east1,71,109,99.932,86
+GCP,us-east1,11,28,99.966,59
+AWS,ap-southeast-1,49,98,99.956,46
+Azure,Southeast Asia,61,104,99.948,84
+Azure,Southeast Asia,26,67,99.99,58
+GCP,asia-east1,48,94,99.916,53
+Azure,Australia East,74,85,99.901,70
+Azure,Australia East,21,54,99.956,72
+GCP,europe-west1,58,108,99.957,52
+GCP,us-central1,10,42,99.97,56
+Azure,West Europe,35,74,99.917,95
+AWS,us-east-1,10,35,99.992,53
+AWS,ap-southeast-1,34,80,99.926,40
+AWS,eu-west-1,23,63,99.962,44
+AWS,ap-southeast-1,74,122,99.928,83
+Azure,Australia East,70,120,99.957,44
+Azure,Southeast Asia,45,88,99.971,77
+AWS,ap-south-1,43,56,99.93,48
+AWS,us-west-2,10,37,99.947,68
+AWS,ap-south-1,13,51,99.927,72
+AWS,us-east-1,50,89,99.958,55
+Azure,East US,28,67,99.967,95
+Azure,Central India,51,83,99.992,75
+GCP,asia-south1,70,105,99.928,48
+Azure,Southeast Asia,69,115,99.935,57
+AWS,us-west-2,16,65,99.952,76
+GCP,asia-east1,22,48,99.976,60
+GCP,europe-west1,72,113,99.996,42
+AWS,us-east-1,51,97,99.969,84
+GCP,us-east1,52,100,99.917,54
+GCP,asia-south1,69,80,99.933,83
+GCP,europe-west1,61,86,99.984,60
+GCP,us-central1,68,105,99.93,40
+Azure,Southeast Asia,47,89,99.992,63
+Azure,East US,22,72,99.958,57
+AWS,eu-west-1,63,88,99.986,84
+AWS,eu-west-1,11,57,99.971,40
+AWS,us-east-1,77,114,99.901,65
+GCP,us-east1,72,122,99.971,46
+Azure,Australia East,73,114,99.964,69
+GCP,us-east1,17,30,99.928,81
+GCP,asia-south1,58,84,99.915,85
+Azure,Central India,22,54,99.925,57
+AWS,ap-southeast-1,38,84,99.958,58
+Azure,Australia East,68,80,99.921,88
+GCP,us-east1,46,78,99.985,74
+GCP,us-central1,63,78,99.917,72
+AWS,ap-southeast-1,59,108,99.981,76
+GCP,asia-south1,19,39,99.989,44
+GCP,europe-west1,77,117,99.934,83
+GCP,asia-east1,73,105,99.972,93
+GCP,asia-south1,25,72,99.971,65
+GCP,us-central1,31,49,99.929,79
+AWS,ap-southeast-1,27,54,99.966,86
+AWS,eu-west-1,16,32,99.976,50
+GCP,asia-east1,74,119,99.969,43
+AWS,ap-south-1,72,101,99.934,92
+AWS,us-east-1,34,63,99.936,47
+GCP,us-east1,14,39,99.93,41
+GCP,asia-south1,66,90,99.924,84
+Azure,Australia East,42,89,99.908,64
+Azure,East US,76,108,99.927,93
+AWS,eu-west-1,65,113,99.963,76
+GCP,europe-west1,65,91,99.961,55
+AWS,us-east-1,45,95,99.905,90
+GCP,us-central1,33,43,99.915,50
+Azure,West Europe,19,43,99.927,95
+AWS,us-west-2,72,87,99.908,88
+Azure,West Europe,63,80,99.996,86
+GCP,us-east1,64,114,99.94,62
+AWS,us-west-2,64,104,99.965,60
+GCP,asia-east1,60,93,99.92,42
+GCP,asia-east1,78,120,99.938,47
+GCP,europe-west1,12,32,99.978,85
+AWS,us-west-2,52,78,99.907,95
+GCP,asia-south1,33,62,99.962,41
+AWS,us-west-2,76,115,99.982,42
+Azure,Southeast Asia,19,45,99.985,82
+GCP,europe-west1,54,100,99.908,77
+AWS,eu-west-1,42,62,99.956,54
+AWS,us-west-2,51,86,99.912,59
+Azure,Southeast Asia,16,53,99.925,77
+GCP,asia-south1,34,58,99.954,81
+Azure,Southeast Asia,58,106,99.97,81
+Azure,Southeast Asia,49,74,99.981,87
+Azure,Australia East,80,105,99.928,48
+GCP,europe-west1,19,65,99.943,58
+AWS,eu-west-1,64,92,99.939,76
+GCP,us-central1,72,84,99.904,87
+GCP,asia-south1,51,68,99.935,57
+AWS,ap-south-1,31,64,99.949,80
+Azure,Australia East,76,92,99.987,84
+GCP,asia-south1,70,120,99.954,91
+GCP,us-east1,71,109,99.985,85
+Azure,East US,73,104,99.983,84
+AWS,ap-southeast-1,55,79,99.955,58
+Azure,West Europe,80,120,99.95,55
+Azure,West Europe,53,75,99.923,88
+AWS,eu-west-1,10,48,99.952,45
+AWS,ap-south-1,68,88,99.945,56
+Azure,Southeast Asia,31,44,99.938,68
+GCP,europe-west1,13,62,99.987,52
+AWS,us-east-1,23,61,99.927,89
+AWS,eu-west-1,73,104,99.973,73
+Azure,Southeast Asia,69,112,99.929,66
+AWS,ap-southeast-1,67,87,99.958,82
+AWS,us-east-1,29,39,99.963,67
+AWS,ap-southeast-1,40,75,99.907,50
+AWS,eu-west-1,38,61,99.963,65
+AWS,ap-southeast-1,56,97,99.998,52
+Azure,East US,77,106,99.968,89
+Azure,East US,52,98,99.904,70
+AWS,ap-southeast-1,80,97,99.956,52
+AWS,eu-west-1,29,74,99.975,69
+Azure,Southeast Asia,48,62,99.965,58
+AWS,ap-south-1,76,106,99.993,74
+GCP,asia-east1,58,73,99.961,54
+GCP,europe-west1,48,95,99.981,47
+GCP,asia-south1,15,25,99.996,93
+GCP,asia-east1,53,95,99.912,80
+GCP,us-central1,31,44,99.963,92
+AWS,ap-southeast-1,76,93,99.96,87
+Azure,Australia East,22,72,99.933,57
+Azure,Central India,24,73,99.92,84
+GCP,asia-south1,10,41,99.964,81
+GCP,asia-south1,23,53,99.971,74
+AWS,ap-southeast-1,14,31,99.935,57
+GCP,us-central1,74,102,99.991,90
+AWS,us-west-2,13,62,99.965,42
+AWS,eu-west-1,38,58,99.971,69
+AWS,us-east-1,23,47,99.904,80
+Azure,Australia East,32,68,99.926,89
+GCP,europe-west1,64,78,99.933,65
+Azure,Southeast Asia,21,37,99.936,51
+GCP,asia-east1,55,90,99.972,70
+GCP,us-east1,71,105,99.96,60
+GCP,us-central1,19,42,99.954,85
+AWS,ap-south-1,53,85,99.914,54
+GCP,europe-west1,12,24,99.988,71
+GCP,us-central1,10,24,99.98,79
+Azure,Australia East,39,55,99.978,89
+Azure,East US,64,84,99.915,51
+GCP,us-east1,59,96,99.929,64
+GCP,us-east1,52,86,99.936,57
+AWS,ap-southeast-1,51,98,99.919,82
+GCP,asia-south1,54,98,99.975,80
+GCP,us-east1,28,78,99.989,41
+Azure,Australia East,80,104,99.998,42
+AWS,us-west-2,54,90,99.946,60
+AWS,ap-southeast-1,34,57,99.907,53
+GCP,us-east1,71,83,99.965,74
+GCP,europe-west1,68,109,99.976,54
+Azure,East US,20,61,99.958,45
+Azure,West Europe,25,58,99.945,79
+AWS,us-east-1,73,97,99.962,93
+GCP,us-central1,11,39,99.959,80
+Azure,Southeast Asia,14,38,99.967,89
+GCP,asia-south1,26,38,99.932,40
+AWS,us-east-1,61,101,99.919,48
+Azure,Southeast Asia,39,52,99.988,44
+AWS,us-west-2,50,65,99.919,92
+Azure,Central India,73,104,99.946,82
+AWS,ap-south-1,10,36,99.957,81
+GCP,us-central1,48,64,99.993,49
+Azure,Central India,62,105,99.975,81
+AWS,ap-southeast-1,64,102,99.907,46
+AWS,eu-west-1,72,121,99.943,88
+AWS,us-west-2,45,74,99.931,52
+Azure,Australia East,49,63,99.922,46
+Azure,East US,47,85,99.942,72
+Azure,Southeast Asia,67,97,99.985,59
+GCP,europe-west1,13,36,99.983,84
+AWS,us-west-2,46,71,99.955,60
+GCP,us-east1,40,52,99.943,68
+Azure,Central India,71,110,99.937,91
+GCP,asia-south1,43,65,99.965,56
+GCP,us-east1,51,61,99.955,58
+GCP,europe-west1,32,45,99.96,54
+GCP,asia-east1,71,94,99.935,85
+AWS,ap-south-1,46,69,99.918,68
+Azure,Southeast Asia,72,92,99.956,81
+AWS,ap-southeast-1,77,111,99.995,47
+GCP,us-east1,35,45,99.973,74
+Azure,Central India,31,56,99.977,75
+GCP,asia-south1,61,94,99.925,68
+GCP,asia-east1,77,121,99.916,94
+GCP,asia-south1,15,53,99.941,42
+GCP,asia-east1,56,88,99.934,64
+GCP,us-east1,15,26,99.98,41
+GCP,us-central1,59,104,99.968,85
+AWS,ap-south-1,69,82,99.986,45
+AWS,us-east-1,53,103,99.906,95
+GCP,europe-west1,46,85,99.987,92
+AWS,ap-southeast-1,29,56,99.972,90
+Azure,West Europe,69,81,99.993,69
+GCP,asia-east1,15,54,99.974,78
+Azure,West Europe,36,82,99.929,84
+Azure,Australia East,17,31,99.983,72
+AWS,us-east-1,68,106,99.988,60
+AWS,ap-south-1,14,41,99.962,50
+Azure,Australia East,76,119,99.974,62
+AWS,ap-south-1,28,64,99.977,63
+AWS,us-west-2,65,101,99.963,46
+GCP,europe-west1,28,62,99.904,95
+GCP,europe-west1,13,34,99.939,90
+GCP,asia-south1,54,79,99.945,42
+GCP,europe-west1,47,83,99.911,94
+Azure,West Europe,28,43,99.989,56
+Azure,Southeast Asia,56,77,99.924,56
+AWS,eu-west-1,19,49,99.954,84
+AWS,us-east-1,79,122,99.929,61
+Azure,Southeast Asia,53,98,99.942,82
+AWS,ap-south-1,77,118,99.901,79
+GCP,asia-south1,48,98,99.972,70
+GCP,asia-east1,61,81,99.94,79
+GCP,asia-east1,36,59,99.956,46
+Azure,Southeast Asia,10,36,99.942,58
+GCP,asia-south1,53,101,99.981,59
+GCP,asia-south1,41,60,99.929,53
+Azure,East US,36,60,99.973,57
+AWS,us-east-1,73,113,99.978,56
+GCP,us-east1,53,65,99.913,68
+GCP,europe-west1,61,90,99.927,46
+Azure,West Europe,50,71,99.944,47
+Azure,East US,50,88,99.983,87
+GCP,asia-east1,13,42,99.991,59
+Azure,Central India,43,71,99.91,47
+AWS,ap-southeast-1,63,73,99.967,42
+AWS,ap-south-1,31,53,99.974,59
+GCP,us-east1,74,105,99.939,44
+AWS,eu-west-1,61,100,99.969,75
+GCP,us-east1,71,84,99.947,75
+Azure,East US,46,67,99.969,56
+GCP,us-central1,34,56,99.917,78
+AWS,us-east-1,70,103,99.909,85
+Azure,Southeast Asia,30,79,99.947,57
+GCP,asia-south1,70,109,99.945,73
+GCP,asia-south1,61,107,99.908,48
+GCP,asia-east1,36,74,99.956,74
+GCP,asia-east1,68,115,99.906,88
+AWS,us-east-1,12,23,99.973,90
+Azure,Australia East,37,72,99.968,77
+AWS,ap-southeast-1,31,46,99.986,93
+Azure,West Europe,72,88,99.914,47
+AWS,us-west-2,39,83,99.967,89
+Azure,Southeast Asia,37,77,99.906,41
+Azure,East US,68,98,99.996,60
+AWS,us-east-1,53,96,99.988,74
+GCP,europe-west1,24,53,99.972,47
+AWS,us-east-1,75,112,99.921,73
+Azure,West Europe,74,116,99.964,47
+GCP,us-central1,61,100,99.902,86
+Azure,Central India,37,64,99.987,51
+Azure,West Europe,36,81,99.912,74
+Azure,West Europe,29,78,99.973,74
+GCP,asia-east1,70,96,99.961,95
+AWS,ap-south-1,22,70,99.998,48
+Azure,East US,43,78,99.963,68
+AWS,eu-west-1,40,83,99.903,83
+Azure,West Europe,14,62,99.987,64
+GCP,us-central1,25,72,99.973,95
+GCP,asia-east1,80,118,99.925,59
+AWS,us-west-2,52,89,99.985,68
+Azure,East US,12,40,99.97,41
+GCP,europe-west1,44,66,99.995,72
+AWS,ap-south-1,58,92,99.914,69
+Azure,West Europe,23,46,99.947,58
+Azure,East US,56,90,99.939,59
+GCP,us-central1,65,80,99.96,69
+Azure,Southeast Asia,66,82,99.968,80
+AWS,ap-southeast-1,75,93,99.983,82
+AWS,us-east-1,11,29,99.944,81
+Azure,West Europe,65,104,99.924,58
+GCP,asia-east1,55,98,99.961,47
+GCP,us-central1,19,69,99.973,88
+AWS,ap-southeast-1,66,106,99.955,64
+AWS,ap-south-1,36,76,99.955,87
+GCP,us-central1,65,80,99.912,40
+GCP,us-central1,50,68,99.923,73
+AWS,ap-south-1,56,87,99.987,95
+GCP,us-central1,54,98,99.93,52
+AWS,us-west-2,79,97,99.902,62
+AWS,eu-west-1,60,93,99.953,79
+AWS,us-west-2,57,106,99.965,56
+GCP,europe-west1,17,57,99.984,95
+Azure,East US,48,81,99.983,78
+AWS,us-west-2,61,96,99.959,59
+AWS,ap-south-1,67,93,99.969,45
+Azure,East US,17,60,99.981,92
+AWS,eu-west-1,51,93,99.987,56
+Azure,West Europe,60,91,99.947,47
+AWS,us-west-2,78,91,99.929,70
+Azure,East US,56,105,99.91,54
+Azure,Central India,23,43,99.922,91
+Azure,Southeast Asia,31,51,99.958,42
+AWS,us-west-2,79,89,99.988,52
+GCP,europe-west1,32,45,99.949,71
+GCP,asia-east1,12,47,99.951,72
+AWS,ap-south-1,40,60,99.957,49
+GCP,asia-south1,47,92,99.954,62
+GCP,asia-south1,79,105,99.959,54
+AWS,ap-south-1,74,113,99.909,51
+AWS,us-west-2,59,105,99.974,45
+GCP,europe-west1,31,42,99.916,46
+Azure,East US,69,115,99.926,63
+GCP,us-east1,33,50,99.966,91
+AWS,us-west-2,13,45,99.962,40
+Azure,Australia East,20,49,99.936,45
+AWS,ap-south-1,42,91,99.962,83
+AWS,us-west-2,59,83,99.936,43
+Azure,Central India,19,55,99.926,76
+Azure,West Europe,15,62,99.994,51
+AWS,ap-south-1,18,54,99.972,55
+GCP,europe-west1,15,44,99.901,87
+AWS,ap-southeast-1,34,71,99.956,71
+Azure,West Europe,44,78,99.954,81
+GCP,asia-south1,17,27,99.984,91
+AWS,ap-south-1,36,48,99.919,85
+AWS,us-west-2,16,35,99.972,58
+GCP,asia-east1,32,55,99.996,72
+Azure,East US,12,59,99.996,59
+AWS,us-east-1,39,53,99.947,90
+AWS,ap-south-1,33,73,99.931,64
+AWS,us-east-1,53,65,99.993,58
+AWS,us-west-2,36,61,99.965,88
+GCP,asia-east1,75,124,99.916,85
+Azure,Central India,26,40,99.905,93
+Azure,Australia East,38,69,99.932,66
+GCP,asia-south1,52,93,99.938,77
+Azure,East US,26,68,99.911,48
+AWS,us-east-1,68,118,99.996,84
+AWS,ap-south-1,58,75,99.973,76
+Azure,Australia East,23,43,99.98,69
+GCP,europe-west1,19,50,99.972,45
+Azure,Central India,79,89,99.964,45
+Azure,Australia East,59,96,99.984,51
+GCP,asia-south1,50,84,99.954,59
+AWS,ap-south-1,53,97,99.967,63
+Azure,Southeast Asia,27,55,99.902,57
+GCP,us-east1,78,93,99.929,41
+AWS,us-west-2,52,63,99.981,93
+GCP,asia-south1,57,67,99.95,56
+Azure,Southeast Asia,16,44,99.968,95
+GCP,us-central1,71,112,99.998,91
+AWS,ap-south-1,74,89,99.981,59
+AWS,us-east-1,41,83,99.946,85
+AWS,eu-west-1,60,105,99.946,52
+AWS,ap-southeast-1,23,49,99.991,45
+Azure,Australia East,66,112,99.951,40
+AWS,eu-west-1,69,102,99.995,74
+GCP,us-central1,80,96,99.918,46
+GCP,asia-south1,57,95,99.95,54
+Azure,Central India,26,54,99.954,65
+GCP,asia-east1,63,87,99.912,87
+Azure,Australia East,25,52,99.925,92
+GCP,us-east1,48,82,99.913,56
+GCP,europe-west1,39,84,99.997,82
+Azure,Central India,65,107,99.912,67
+Azure,Central India,66,115,99.902,52
+AWS,ap-southeast-1,21,53,99.923,67
+AWS,ap-south-1,61,77,99.972,44
+AWS,us-east-1,57,96,99.96,71
+AWS,ap-south-1,76,88,99.951,47
+AWS,eu-west-1,23,42,99.9,79
+GCP,us-central1,64,77,99.921,64
+AWS,us-east-1,29,59,99.972,51
+Azure,Southeast Asia,65,106,99.956,76
+AWS,ap-south-1,57,91,99.971,77
+Azure,Central India,20,31,99.945,92
+GCP,asia-south1,47,67,99.968,69
+GCP,europe-west1,33,71,99.951,92
+Azure,West Europe,24,74,99.983,42
+AWS,ap-south-1,16,36,99.959,77
+AWS,eu-west-1,78,111,99.991,73
+AWS,us-east-1,49,60,99.996,84
+Azure,East US,28,55,99.988,51
+Azure,East US,57,84,99.997,88
+AWS,us-east-1,60,74,99.934,51
+GCP,us-central1,33,62,99.928,62
+Azure,Australia East,65,81,99.97,74
+AWS,ap-southeast-1,69,118,99.952,57
+GCP,europe-west1,61,87,99.98,41
+Azure,Southeast Asia,40,81,99.943,75
+AWS,us-east-1,58,95,99.9,92
+GCP,asia-east1,70,103,99.913,70
+Azure,Australia East,24,55,99.916,66
+Azure,West Europe,12,29,99.902,82
+Azure,Southeast Asia,28,49,99.908,91
+Azure,Central India,52,69,99.984,72
+Azure,Australia East,15,31,99.977,86
+GCP,us-central1,34,84,99.999,93
+AWS,ap-southeast-1,70,97,99.932,48
+Azure,Central India,74,87,99.931,82
+Azure,Central India,55,85,99.926,58
+Azure,West Europe,26,68,99.991,60
+Azure,Southeast Asia,45,60,99.914,51
+AWS,ap-south-1,64,81,99.929,85
+AWS,ap-south-1,27,67,99.903,57
+AWS,eu-west-1,65,92,99.932,77
+AWS,us-west-2,15,45,99.93,86
+Azure,Australia East,52,94,99.917,75
+GCP,asia-east1,76,89,99.953,40
+GCP,us-east1,79,105,99.983,42
+GCP,asia-east1,35,48,99.99,62
+AWS,eu-west-1,58,101,99.955,64
+GCP,asia-east1,77,103,99.924,55
+AWS,ap-south-1,72,85,99.991,55
+Azure,East US,27,66,99.916,68
+AWS,ap-southeast-1,22,56,99.921,70
+GCP,asia-south1,78,115,99.974,83
+GCP,us-east1,46,65,99.981,67
+Azure,East US,64,85,99.96,77
+Azure,West Europe,31,55,99.99,49
+AWS,us-east-1,14,48,99.989,52
+AWS,eu-west-1,47,82,99.984,75
+Azure,East US,58,97,99.956,66
+Azure,West Europe,17,54,99.959,86
+AWS,ap-southeast-1,63,110,99.994,57
+Azure,Southeast Asia,59,69,99.924,55
+GCP,asia-east1,10,27,99.966,55
+AWS,us-east-1,44,58,99.992,45
+GCP,europe-west1,16,52,99.905,81
+AWS,eu-west-1,23,41,99.946,91
+Azure,West Europe,67,78,99.96,83
+Azure,East US,10,24,99.974,60
+Azure,East US,29,76,99.932,91
+AWS,us-west-2,70,115,99.97,94
+AWS,eu-west-1,23,65,99.977,83
+Azure,Australia East,52,84,99.978,54
+AWS,us-west-2,40,85,99.932,49
+AWS,us-west-2,74,98,99.956,42
+AWS,ap-south-1,16,52,99.954,62
+AWS,us-east-1,54,65,99.959,49
+GCP,asia-east1,69,96,99.98,57
+AWS,eu-west-1,73,99,99.937,91
+AWS,eu-west-1,67,95,99.908,67
+AWS,us-east-1,47,64,99.947,53
+Azure,Southeast Asia,46,93,99.993,95
+AWS,us-east-1,72,94,99.937,40
+Azure,East US,45,88,99.961,95
+AWS,ap-southeast-1,48,90,99.927,58
+Azure,Southeast Asia,55,72,99.942,53
+AWS,us-west-2,12,33,99.979,40
+Azure,Southeast Asia,45,61,99.978,72
+Azure,West Europe,69,83,99.982,65
+AWS,ap-southeast-1,41,82,99.92,94
+AWS,us-west-2,68,80,99.933,47
+AWS,ap-southeast-1,10,45,99.911,40
+Azure,Southeast Asia,15,27,99.993,79
+Azure,Central India,20,45,99.96,54
+AWS,ap-south-1,73,123,99.911,87
+Azure,West Europe,43,75,99.997,43
+GCP,asia-south1,39,79,99.929,83
+Azure,East US,74,86,99.92,51
+GCP,europe-west1,19,61,99.992,54
+GCP,europe-west1,27,41,99.908,63
+GCP,europe-west1,73,106,99.929,70
+GCP,europe-west1,16,55,99.991,85
+GCP,us-central1,13,63,99.987,64
+AWS,us-west-2,72,98,99.939,62
+Azure,West Europe,56,76,99.97,92
+GCP,us-east1,75,93,99.974,71
+Azure,Southeast Asia,34,72,99.977,53
+GCP,asia-south1,38,59,99.906,62
+AWS,ap-south-1,10,20,99.976,89
+AWS,ap-southeast-1,70,108,99.933,52
+AWS,ap-south-1,59,74,99.969,46
+GCP,us-east1,24,59,99.906,88
+Azure,East US,76,97,99.992,72
+AWS,eu-west-1,58,75,99.971,62
+AWS,ap-southeast-1,45,71,99.937,51
+AWS,us-east-1,12,51,99.951,77
+AWS,eu-west-1,27,44,99.903,68
+Azure,Central India,35,84,99.973,92
+GCP,asia-east1,53,83,99.949,70
+AWS,eu-west-1,26,45,99.973,86
+GCP,europe-west1,45,63,99.941,81
+AWS,ap-southeast-1,30,74,99.977,71
+Azure,East US,69,104,99.979,59
+Azure,Australia East,23,47,99.928,48
+Azure,Central India,61,97,99.958,61
+AWS,ap-southeast-1,62,112,99.965,42
+AWS,us-west-2,22,67,99.921,67
+GCP,europe-west1,19,35,99.953,66
+Azure,Southeast Asia,36,75,99.97,73
+AWS,eu-west-1,10,35,99.913,75
+GCP,asia-east1,59,95,99.916,48
+AWS,ap-southeast-1,12,51,99.928,63
+Azure,Central India,42,77,99.987,90
+Azure,West Europe,13,60,99.933,94
+AWS,us-west-2,20,58,99.903,77
+AWS,ap-south-1,16,46,99.913,79
+AWS,us-east-1,36,75,99.907,92
+Azure,Australia East,25,44,99.994,93
+AWS,ap-southeast-1,36,76,99.924,89
+AWS,ap-south-1,31,62,99.969,86
+Azure,East US,26,61,99.975,90
+GCP,asia-south1,79,95,99.997,62
+AWS,us-east-1,73,104,99.907,55
+AWS,us-west-2,26,54,99.925,93
+Azure,Central India,78,89,99.989,72
+GCP,europe-west1,26,36,99.951,86
+Azure,Central India,54,85,99.992,58
+AWS,ap-southeast-1,62,74,99.927,45
+AWS,ap-southeast-1,19,34,99.959,56
+AWS,us-east-1,69,98,99.972,50
+AWS,us-east-1,33,72,99.994,83
+GCP,us-east1,23,33,99.926,41
+Azure,East US,54,95,99.938,87
+AWS,ap-southeast-1,28,53,99.962,54
+Azure,Central India,59,72,99.958,91
+Azure,West Europe,24,48,99.903,91
+AWS,ap-south-1,14,55,99.923,51
+GCP,europe-west1,59,79,99.987,44
+GCP,us-central1,50,81,99.976,83
+Azure,West Europe,40,52,99.9,87
+Azure,West Europe,41,88,99.972,56
+GCP,asia-east1,34,79,99.973,44
+GCP,asia-east1,50,95,99.954,61
+Azure,Southeast Asia,56,66,99.908,72
+AWS,ap-south-1,65,75,99.993,75
+Azure,Central India,26,43,99.908,45
+AWS,ap-south-1,57,104,99.911,41
+Azure,Central India,14,64,99.924,44
+AWS,eu-west-1,52,83,99.995,51
+GCP,us-central1,29,69,99.917,70
+GCP,europe-west1,27,69,99.98,70
+AWS,us-east-1,19,56,99.996,58
+GCP,us-east1,34,75,99.955,65
+GCP,europe-west1,40,80,99.947,49
+AWS,us-west-2,51,65,99.918,54
+Azure,East US,41,80,99.959,87
+Azure,Southeast Asia,54,88,99.929,44
+Azure,East US,18,63,99.927,52
+AWS,us-east-1,76,116,99.902,72
+GCP,us-central1,10,23,99.971,42
+Azure,Southeast Asia,71,120,99.924,67
+Azure,Southeast Asia,39,86,99.963,84
+AWS,us-east-1,32,76,99.945,50
+AWS,ap-south-1,62,103,99.985,45
+Azure,East US,22,60,99.906,72
+Azure,East US,41,74,99.929,42
+Azure,Central India,78,95,99.942,92
+AWS,us-west-2,12,55,99.95,74
+GCP,europe-west1,24,64,99.98,69
+AWS,us-east-1,26,36,99.913,92
+GCP,europe-west1,22,40,99.994,92
+GCP,asia-south1,79,104,99.996,61
+AWS,ap-southeast-1,20,67,99.911,48
+Azure,Australia East,48,82,99.906,76
+Azure,Southeast Asia,25,74,99.932,66
+AWS,ap-south-1,30,71,99.92,73
+Azure,East US,50,76,99.997,65
+GCP,us-east1,74,101,99.945,41
+AWS,eu-west-1,54,98,99.933,58
+GCP,us-east1,53,71,99.959,46
+Azure,Central India,54,90,99.964,74
+AWS,us-east-1,31,57,99.935,93
+GCP,asia-south1,33,67,99.916,79
+Azure,East US,65,108,99.903,86
+GCP,us-central1,29,46,99.935,88
+Azure,Australia East,61,98,99.951,67
+GCP,asia-south1,54,103,99.975,70
+GCP,asia-east1,31,54,99.935,59
+GCP,us-central1,49,76,99.998,47
+Azure,Southeast Asia,45,79,99.918,40
+Azure,East US,69,89,99.973,42
+Azure,East US,17,58,99.965,48
+AWS,ap-southeast-1,79,120,99.948,57
+AWS,us-west-2,60,95,99.979,46
+AWS,ap-south-1,23,61,99.945,79
+Azure,Central India,28,50,99.957,89
+AWS,us-east-1,73,95,99.903,94
+Azure,West Europe,26,64,99.996,59
+GCP,asia-east1,51,63,99.902,86
+Azure,East US,42,76,99.955,83
+Azure,Central India,42,90,99.922,78
+AWS,us-west-2,16,41,99.983,69
+AWS,ap-southeast-1,64,96,99.988,73
+Azure,East US,71,120,99.93,94
+AWS,ap-south-1,52,65,99.921,52
+Azure,Central India,50,91,99.954,62
+AWS,us-east-1,36,70,99.939,70
+Azure,East US,79,101,99.947,93
+Azure,East US,62,88,99.931,61
+Azure,Southeast Asia,76,103,99.987,65
+AWS,eu-west-1,12,34,99.931,62
+AWS,eu-west-1,28,41,99.945,40
+Azure,Southeast Asia,48,84,99.984,70
+GCP,us-central1,67,101,99.965,68
+AWS,us-west-2,44,68,99.92,63
+Azure,West Europe,53,101,99.977,46
+GCP,us-central1,26,45,99.984,65
+AWS,ap-south-1,73,94,99.911,77
+GCP,us-east1,34,64,99.983,69
+Azure,West Europe,80,106,99.939,51
+Azure,Central India,77,110,99.978,94
+AWS,us-east-1,63,96,99.964,88
+AWS,ap-southeast-1,20,55,99.944,94
+GCP,asia-south1,16,56,99.926,55
+AWS,us-west-2,57,93,99.983,50
+GCP,us-central1,39,58,99.944,85
+AWS,eu-west-1,66,111,99.909,40
+Azure,West Europe,70,87,99.972,94
+AWS,us-east-1,27,55,99.983,57
+AWS,ap-south-1,36,52,99.911,83
+Azure,Central India,76,104,99.954,48
+GCP,us-central1,43,68,99.96,69
+Azure,Central India,75,106,99.991,90
+AWS,ap-south-1,11,60,99.99,86
+Azure,Central India,58,95,99.997,52
+GCP,us-central1,37,51,99.914,71
+Azure,Australia East,23,39,99.917,65
+Azure,Central India,50,73,99.97,81
+AWS,eu-west-1,63,93,99.991,45
+GCP,asia-east1,61,111,99.976,84
+GCP,asia-south1,60,88,99.949,93
+GCP,asia-south1,28,58,99.912,54
+GCP,asia-east1,34,60,99.904,48
+GCP,asia-east1,35,79,99.96,94
+Azure,Southeast Asia,57,96,99.905,77
+AWS,ap-southeast-1,12,45,99.966,91
+Azure,Australia East,22,72,99.924,68
+GCP,asia-south1,41,79,99.949,51
+GCP,us-central1,16,55,99.929,58
+GCP,us-east1,46,66,99.953,95
+GCP,us-central1,28,46,99.976,79
+AWS,eu-west-1,63,95,99.963,85
+AWS,us-east-1,69,101,99.986,56
+AWS,ap-south-1,55,83,99.955,91
+Azure,East US,66,108,99.91,88
+AWS,us-west-2,39,74,99.929,95
+GCP,europe-west1,34,64,99.943,77
+AWS,ap-southeast-1,56,92,99.916,54
+Azure,Australia East,56,98,99.954,73
+AWS,us-west-2,11,32,99.993,60
+AWS,ap-south-1,16,60,99.991,65
+AWS,eu-west-1,80,108,99.934,62
+AWS,eu-west-1,70,88,99.961,44
+Azure,Australia East,73,105,99.901,69
+Azure,Australia East,80,109,99.904,46
+Azure,West Europe,21,53,99.946,77
+AWS,us-west-2,32,54,99.921,61
+Azure,Southeast Asia,58,91,99.997,53
+GCP,asia-south1,24,35,99.99,41
+Azure,Australia East,45,71,99.93,74
+Azure,Central India,25,71,99.966,94
+Azure,West Europe,70,118,99.943,60
+GCP,us-central1,57,88,99.976,51
+Azure,Southeast Asia,77,114,99.909,49
+AWS,us-east-1,41,63,99.915,51
+AWS,us-west-2,76,88,99.949,46
+AWS,us-west-2,10,41,99.9,90
+GCP,asia-south1,73,89,99.937,45
+AWS,us-east-1,57,84,99.92,51
+GCP,us-east1,55,94,99.984,45
+AWS,ap-south-1,73,85,99.959,45
+GCP,us-central1,77,92,99.924,79
+AWS,us-east-1,78,101,99.917,61
+GCP,europe-west1,65,100,99.999,45
+AWS,us-east-1,52,64,99.945,75
+AWS,us-east-1,38,59,99.962,55
+AWS,ap-southeast-1,21,31,99.914,70
+AWS,us-west-2,61,88,99.937,68
+GCP,us-east1,71,88,99.962,50
+GCP,us-central1,31,76,99.981,40
+GCP,us-east1,56,82,99.936,89
+AWS,us-west-2,46,58,99.948,83
+Azure,West Europe,77,98,99.934,79
+Azure,East US,50,99,99.902,76
+GCP,us-east1,16,48,99.944,47
+GCP,us-central1,17,62,99.968,73
+AWS,us-west-2,53,95,99.996,64
+GCP,asia-east1,75,117,99.927,84
+AWS,ap-south-1,11,31,99.949,67
+GCP,asia-east1,35,48,99.957,63
+Azure,East US,31,79,99.953,77
+AWS,ap-southeast-1,44,59,99.916,64
+AWS,ap-southeast-1,54,79,99.958,59
+Azure,West Europe,11,47,99.923,54
+Azure,East US,48,86,99.962,52
+AWS,eu-west-1,67,81,99.998,56
+GCP,asia-south1,67,102,99.996,51
+Azure,West Europe,14,54,99.952,80
+GCP,asia-east1,29,53,99.932,90
+AWS,us-west-2,44,72,99.939,59
+GCP,us-east1,48,74,99.973,65
+AWS,ap-southeast-1,61,90,99.902,70
+Azure,Australia East,78,108,99.931,62
+AWS,us-west-2,47,87,99.942,60
+Azure,Australia East,63,101,99.992,84
+Azure,Southeast Asia,33,71,99.923,40
+GCP,europe-west1,67,83,99.921,73
+Azure,Southeast Asia,42,83,99.958,66
+Azure,Australia East,30,71,99.951,87
+GCP,europe-west1,60,72,99.937,51
+AWS,us-west-2,66,98,99.915,77
+GCP,us-east1,50,91,99.985,75
+Azure,East US,76,108,99.955,89
+Azure,East US,21,43,99.967,61
+AWS,eu-west-1,78,128,99.916,60
+AWS,us-west-2,12,52,99.942,42
+AWS,ap-south-1,42,86,99.952,64
+AWS,ap-southeast-1,68,100,99.909,83
+Azure,Central India,12,43,99.969,85
+AWS,ap-southeast-1,70,103,99.942,42
+AWS,eu-west-1,34,70,99.993,54
+AWS,ap-southeast-1,61,97,99.987,67
+AWS,us-east-1,38,84,99.938,66
+AWS,us-east-1,28,52,99.992,67
+Azure,West Europe,17,35,99.928,43
+GCP,asia-south1,55,65,99.989,58
+Azure,East US,46,78,99.917,80
+AWS,ap-southeast-1,78,89,99.922,64
+AWS,eu-west-1,19,67,99.948,90
+GCP,us-east1,41,84,99.988,66
+Azure,Australia East,19,42,99.957,92
+GCP,us-east1,37,61,99.946,72
+GCP,us-east1,54,95,99.956,48
+GCP,asia-east1,10,31,99.949,82
+GCP,asia-east1,27,56,99.954,78
+AWS,ap-south-1,39,64,99.95,95
+GCP,asia-south1,77,108,99.994,62
+AWS,ap-south-1,45,64,99.953,86
+AWS,eu-west-1,31,41,99.913,85
+GCP,us-east1,58,74,99.962,44
+Azure,West Europe,50,64,99.941,77
+GCP,europe-west1,14,57,99.96,56
+AWS,us-east-1,75,93,99.962,66
+AWS,eu-west-1,65,90,99.929,40
+Azure,Australia East,30,62,99.999,94
+GCP,europe-west1,20,40,99.946,41
+AWS,us-west-2,10,41,99.93,95
+AWS,us-west-2,29,61,99.92,50
+GCP,asia-south1,65,93,99.9,65
+Azure,Southeast Asia,72,104,99.909,63
+Azure,East US,39,75,99.911,42
+GCP,asia-south1,71,120,99.997,95
+Azure,Central India,15,60,99.922,84
+GCP,us-central1,19,61,99.937,94
+GCP,us-east1,57,71,99.924,83
+Azure,Southeast Asia,19,54,99.902,56
+Azure,West Europe,68,94,99.978,62
+AWS,ap-south-1,68,107,99.943,61
+GCP,us-east1,36,49,99.94,65
+AWS,ap-southeast-1,12,45,99.962,74
+AWS,ap-south-1,70,99,99.969,81
+AWS,ap-south-1,72,99,99.974,84
+GCP,asia-south1,27,39,99.977,67
+GCP,us-central1,45,89,99.986,65
+GCP,europe-west1,28,39,99.997,59
+AWS,ap-south-1,72,104,99.957,84
+AWS,ap-south-1,48,76,99.903,53
+AWS,us-west-2,30,40,99.993,47
+GCP,us-central1,41,84,99.929,76
+Azure,Central India,35,63,99.948,61
+GCP,us-central1,80,100,99.916,48
+AWS,us-west-2,72,83,99.965,71
+GCP,europe-west1,38,55,99.933,95
+Azure,Australia East,32,42,99.962,64
+GCP,europe-west1,74,95,99.979,61
+Azure,West Europe,78,120,99.97,94
+Azure,East US,45,77,99.957,84
+AWS,eu-west-1,48,73,99.912,87
+Azure,East US,26,52,99.998,79
+Azure,Southeast Asia,16,48,99.996,83
+Azure,East US,34,44,99.983,47
+AWS,ap-south-1,55,83,99.941,67
+GCP,europe-west1,31,42,99.993,64
+AWS,ap-southeast-1,58,79,99.905,41
+GCP,us-east1,80,100,99.985,40
+GCP,asia-south1,50,89,99.956,67
+GCP,us-central1,33,60,99.972,59
+GCP,us-central1,70,110,99.936,87
+Azure,Australia East,30,72,99.976,70
+AWS,eu-west-1,53,66,99.942,53
+AWS,eu-west-1,42,82,99.922,55
+AWS,ap-southeast-1,25,36,99.964,89
+GCP,asia-south1,15,53,99.993,73
+AWS,us-east-1,44,62,99.99,76
+GCP,europe-west1,53,91,99.993,67
+AWS,us-east-1,41,83,99.956,73
+AWS,eu-west-1,54,100,99.949,72
+AWS,us-west-2,23,56,99.958,52
+Azure,Australia East,58,70,99.96,86
+AWS,us-west-2,27,66,99.98,42
+Azure,Australia East,52,70,99.922,81
+AWS,eu-west-1,66,76,99.945,63
+Azure,Central India,26,62,99.996,91
+Azure,Southeast Asia,72,90,99.997,59
+AWS,us-west-2,74,103,99.993,83
+AWS,ap-southeast-1,56,84,99.909,89
+AWS,us-east-1,26,59,99.924,70
+AWS,ap-southeast-1,11,50,99.977,75
+GCP,asia-south1,20,55,99.957,82
+AWS,ap-south-1,30,80,99.96,86
+Azure,East US,44,93,99.901,62
+AWS,eu-west-1,66,91,99.993,49
+AWS,ap-south-1,35,50,99.948,94
+Azure,Australia East,47,86,99.96,70
+Azure,East US,30,54,99.901,59
+GCP,asia-east1,37,60,99.934,44
+Azure,West Europe,28,53,99.902,65
+GCP,europe-west1,44,80,99.969,51
+Azure,Central India,25,73,99.926,65
+AWS,us-east-1,36,51,99.977,90
+GCP,asia-east1,59,89,99.988,64
+GCP,asia-south1,76,101,99.906,61
+AWS,ap-south-1,30,63,99.956,62
+AWS,us-west-2,27,45,99.928,74
+Azure,Australia East,40,72,99.979,52
+Azure,Southeast Asia,23,36,99.984,47
+GCP,europe-west1,36,68,99.9,58
+GCP,us-central1,32,59,99.948,81
+Azure,Central India,38,86,99.939,73
+AWS,ap-south-1,58,97,99.944,71
+Azure,East US,43,85,99.922,94
+Azure,Central India,43,54,99.962,79
+AWS,us-west-2,72,83,99.995,43
+Azure,Central India,24,69,99.913,66
+AWS,eu-west-1,71,87,99.917,42
+Azure,Central India,80,116,99.997,50
+AWS,eu-west-1,41,83,99.932,63
+AWS,ap-south-1,30,75,99.955,42
+GCP,us-east1,33,65,99.918,49
+AWS,us-east-1,72,88,99.997,77
+Azure,Southeast Asia,21,48,99.914,61
+AWS,ap-south-1,10,46,99.987,95
+AWS,ap-southeast-1,60,98,99.939,53
+GCP,europe-west1,23,68,99.929,70
+Azure,Central India,44,55,99.941,86
+GCP,us-east1,73,93,99.909,84
+AWS,ap-south-1,44,79,99.966,80
+AWS,us-east-1,31,45,99.997,65
+Azure,Australia East,39,50,99.92,53
+Azure,East US,60,107,99.91,90
+Azure,East US,27,43,99.901,88
+Azure,West Europe,69,94,99.972,61
+Azure,East US,26,75,99.952,93
+GCP,europe-west1,53,63,99.927,71
+AWS,eu-west-1,12,34,99.978,51
+GCP,us-central1,42,84,99.946,49
+AWS,us-east-1,56,101,99.919,47
+GCP,us-east1,50,100,99.939,87
+AWS,ap-south-1,47,79,99.925,54
+Azure,Southeast Asia,25,48,99.995,42
+AWS,us-east-1,68,107,99.996,50
+GCP,asia-south1,28,41,99.918,65
+AWS,ap-south-1,11,28,99.928,69
+Azure,Southeast Asia,24,41,99.935,74
+AWS,us-east-1,37,69,99.998,42
+GCP,asia-east1,45,78,99.955,73
+GCP,asia-east1,52,77,99.962,60
+GCP,us-central1,65,97,99.948,86
+AWS,us-west-2,30,68,99.969,87
+AWS,ap-south-1,73,103,99.996,60
+Azure,West Europe,37,63,99.93,63
+Azure,West Europe,40,57,99.956,52
+GCP,europe-west1,40,87,99.995,77
+AWS,ap-southeast-1,25,68,99.93,45
+GCP,us-east1,16,62,99.988,59
+GCP,asia-east1,10,58,99.932,60
+AWS,ap-southeast-1,14,27,99.967,68
+AWS,ap-south-1,42,89,99.989,85
+GCP,us-central1,70,94,99.939,57
+Azure,East US,37,52,99.944,60
+AWS,us-west-2,49,59,99.914,74
+Azure,East US,18,46,99.96,61
+Azure,Central India,17,39,99.953,58
+Azure,Southeast Asia,12,43,99.958,94
+GCP,europe-west1,62,102,99.995,49
+GCP,asia-east1,17,51,99.95,86
+GCP,europe-west1,55,102,99.994,53
+Azure,Australia East,72,92,99.976,45
+AWS,ap-southeast-1,70,109,99.939,82
+GCP,asia-south1,34,45,99.993,60
+AWS,eu-west-1,14,60,99.994,58
+AWS,us-east-1,79,94,99.904,43
+GCP,us-east1,50,74,99.977,69
+Azure,East US,48,59,99.936,62
+GCP,asia-east1,67,78,99.988,63
+Azure,Australia East,43,82,99.958,91
+AWS,ap-south-1,76,102,99.988,76
+GCP,europe-west1,72,87,99.915,86
+Azure,Central India,58,92,99.991,65
+GCP,asia-south1,59,94,99.985,75
+AWS,ap-south-1,56,72,99.969,79
+GCP,us-east1,30,48,99.992,67
+GCP,europe-west1,73,114,99.912,71
+Azure,West Europe,66,113,99.981,88
+Azure,West Europe,16,52,99.908,40
+GCP,asia-south1,60,95,99.957,78
+Azure,East US,35,74,99.96,40
+Azure,Southeast Asia,46,90,99.918,59
+GCP,us-east1,24,63,99.983,43
+AWS,ap-south-1,26,48,99.954,71
+AWS,ap-south-1,14,39,99.908,90
+AWS,us-west-2,29,39,99.983,81
+AWS,ap-south-1,59,94,99.982,49
+GCP,europe-west1,44,85,99.963,82
+GCP,us-central1,26,47,99.986,54
+GCP,us-central1,39,76,99.912,41
+GCP,us-central1,14,29,99.909,93
+AWS,us-east-1,56,76,99.941,95
+AWS,us-east-1,14,46,99.943,50
+Azure,Australia East,47,87,99.928,70
+Azure,Australia East,62,74,99.998,70
+AWS,eu-west-1,76,119,99.969,41
+AWS,us-east-1,25,52,99.997,93
+Azure,Australia East,46,56,99.914,81
+AWS,us-east-1,14,52,99.992,66
+Azure,Australia East,57,90,99.937,55
+Azure,East US,78,100,99.904,49
+AWS,eu-west-1,77,101,99.958,43
+GCP,asia-south1,43,64,99.995,43
+AWS,us-east-1,76,111,99.921,88
+AWS,eu-west-1,47,71,99.983,54
+AWS,eu-west-1,68,105,99.994,65
+Azure,Central India,42,65,99.911,57
+Azure,West Europe,40,50,99.954,64
+GCP,asia-east1,55,75,99.91,70
+Azure,West Europe,35,52,99.918,57
+GCP,asia-east1,27,51,99.965,83
+AWS,ap-southeast-1,17,62,99.959,85
+Azure,Central India,57,74,99.959,70
+Azure,Australia East,77,98,99.979,40
+Azure,Southeast Asia,57,77,99.93,47
+Azure,Australia East,33,71,99.998,83
+Azure,Australia East,26,53,99.902,69
+AWS,us-east-1,48,80,99.969,66
+GCP,us-central1,43,70,99.908,70
+Azure,East US,49,95,99.907,62
+Azure,West Europe,48,70,99.991,74
+Azure,Southeast Asia,75,123,99.926,41
+AWS,us-west-2,77,111,99.927,95
+AWS,ap-southeast-1,16,51,99.983,73
+AWS,ap-southeast-1,77,101,99.929,87
+AWS,eu-west-1,42,56,99.988,63
+Azure,Australia East,45,60,99.955,81
+Azure,Central India,37,73,99.935,54
+AWS,ap-south-1,58,87,99.961,77
+Azure,Southeast Asia,36,61,99.914,54
+GCP,asia-east1,31,44,99.968,84
+Azure,East US,15,47,99.955,54
+GCP,us-east1,43,83,99.969,95
+GCP,asia-south1,23,57,99.97,54
+AWS,us-west-2,76,122,99.906,91
+GCP,asia-east1,58,82,99.924,74
+GCP,us-central1,44,54,99.906,95
+Azure,West Europe,72,87,99.929,41
+Azure,East US,62,103,99.995,61
+GCP,us-central1,21,48,99.905,59
+GCP,europe-west1,28,52,99.955,84
+Azure,West Europe,76,118,99.934,82
+Azure,Central India,65,97,99.925,47
+Azure,Southeast Asia,11,34,99.902,76
+Azure,Australia East,45,79,99.937,71
+AWS,eu-west-1,36,65,99.963,62
+AWS,ap-southeast-1,77,110,99.976,45
+AWS,us-west-2,65,90,99.977,48
+Azure,Central India,67,113,99.976,63
+Azure,East US,30,40,99.986,83
+Azure,Southeast Asia,42,72,99.945,48
+GCP,asia-east1,67,84,99.986,86
+GCP,asia-east1,50,63,99.919,74
+Azure,Central India,53,89,99.991,52
+GCP,us-central1,60,82,99.97,71
+AWS,us-east-1,63,106,99.909,78
+AWS,ap-south-1,13,50,99.915,82
+GCP,us-central1,63,101,99.912,45
+AWS,us-east-1,51,66,99.949,88
+Azure,Central India,23,34,99.926,64
+AWS,eu-west-1,24,60,99.947,50
+Azure,Central India,22,50,99.97,53
+GCP,us-east1,27,46,99.956,53
+Azure,West Europe,23,33,99.984,70
+Azure,East US,30,61,99.914,60
+GCP,europe-west1,23,43,99.922,43
+AWS,us-east-1,29,57,99.924,88
+Azure,West Europe,73,115,99.952,45
+Azure,Southeast Asia,74,93,99.997,42
+GCP,europe-west1,34,63,99.927,90
+AWS,ap-southeast-1,26,62,99.965,94
+AWS,eu-west-1,24,41,99.932,45
+AWS,us-west-2,37,73,99.996,95
+GCP,us-east1,16,29,99.934,53
+Azure,Central India,21,41,99.958,61
+AWS,us-east-1,77,127,99.941,63
+AWS,us-east-1,11,54,99.969,47
+AWS,eu-west-1,19,65,99.956,51
+Azure,Central India,33,61,99.946,70
+AWS,ap-south-1,37,80,99.927,91
+Azure,Southeast Asia,35,77,99.917,46
+Azure,Australia East,30,40,99.92,94
+Azure,Australia East,33,59,99.956,67
+GCP,asia-south1,64,83,99.998,66
+Azure,East US,30,67,99.974,79
+AWS,ap-southeast-1,62,84,99.935,59
+AWS,us-east-1,69,103,99.914,43
+AWS,us-west-2,80,112,99.949,60
+GCP,asia-south1,62,76,99.937,66
+Azure,East US,79,124,99.958,68
+Azure,Central India,17,28,99.969,87
+Azure,Australia East,49,91,99.936,66
+AWS,ap-southeast-1,41,61,99.924,75
+GCP,us-central1,77,103,99.949,71
+GCP,us-central1,65,90,99.91,44
+AWS,us-west-2,70,109,99.991,46
+GCP,us-east1,15,65,99.92,49
+AWS,eu-west-1,37,79,99.946,49
+Azure,East US,39,72,99.925,83
+AWS,ap-south-1,77,116,99.911,43
+Azure,Australia East,57,73,99.942,65
+AWS,ap-southeast-1,28,57,99.987,94
+Azure,Australia East,13,43,99.977,43
+AWS,ap-southeast-1,10,46,99.994,52
+AWS,ap-south-1,72,94,99.961,65
+AWS,eu-west-1,26,40,99.996,82
+Azure,East US,34,83,99.931,76
+GCP,asia-south1,37,80,99.961,69
+Azure,East US,58,104,99.901,41
+AWS,ap-southeast-1,47,61,99.935,54
+AWS,us-east-1,70,106,99.979,68
+Azure,Australia East,62,96,99.972,48
+GCP,us-east1,47,82,99.938,52
+AWS,ap-south-1,30,53,99.912,43
+GCP,us-east1,58,79,99.981,86
+Azure,Australia East,68,112,99.964,58
+AWS,ap-south-1,50,68,99.981,73
+AWS,us-east-1,28,64,99.926,63
+AWS,eu-west-1,38,68,99.916,93
+GCP,asia-east1,11,59,99.97,42
+GCP,europe-west1,32,65,99.909,95
+GCP,asia-south1,53,86,99.966,88
+GCP,asia-south1,37,59,99.97,75
+Azure,Australia East,55,99,99.993,84
+Azure,Australia East,39,89,99.947,50
+GCP,asia-east1,62,105,99.924,63
+GCP,us-central1,61,86,99.949,56
+GCP,us-east1,69,107,99.948,49
+GCP,us-east1,33,49,99.917,74
+GCP,asia-east1,41,87,99.917,62
+Azure,West Europe,25,37,99.927,79
+GCP,asia-east1,50,82,99.992,81
+GCP,asia-east1,55,84,99.989,76
+AWS,eu-west-1,40,51,99.91,82
+AWS,us-east-1,16,57,99.938,95
+Azure,East US,15,43,99.903,42
+Azure,West Europe,60,101,99.908,56
+Azure,East US,68,106,99.916,40
+GCP,us-central1,66,79,99.988,95
+AWS,us-west-2,68,104,99.931,53
+AWS,us-east-1,56,101,99.994,74
+GCP,asia-south1,61,85,99.932,44
+GCP,us-east1,42,92,99.941,88
+GCP,europe-west1,77,88,99.961,90
+Azure,West Europe,41,82,99.953,68
+AWS,eu-west-1,33,56,99.936,56
+Azure,East US,72,118,99.967,74
+Azure,Australia East,57,71,99.942,65
+AWS,us-west-2,41,72,99.936,91
+Azure,Australia East,49,59,99.932,63
+AWS,us-west-2,18,31,99.941,90
+Azure,Central India,68,114,99.929,63
+AWS,eu-west-1,53,86,99.928,60
+Azure,Southeast Asia,57,93,99.902,50
+AWS,eu-west-1,35,72,99.904,73
+AWS,ap-south-1,49,67,99.941,89
+GCP,us-east1,48,63,99.979,49
+AWS,eu-west-1,16,64,99.965,50
+GCP,asia-east1,47,75,99.917,40
+AWS,us-east-1,68,97,99.959,54
+Azure,East US,48,68,99.975,50
+Azure,Central India,72,120,99.993,62
+GCP,us-central1,20,52,99.943,78
+AWS,ap-southeast-1,43,72,99.974,40
+GCP,asia-east1,66,116,99.955,63
+GCP,asia-east1,75,89,99.911,72
+Azure,East US,69,110,99.984,43
+Azure,East US,35,73,99.934,76
+Azure,Central India,53,86,99.982,87
+AWS,us-west-2,13,58,99.966,89
+AWS,us-west-2,64,114,99.976,65
+GCP,asia-south1,55,95,99.991,55
+AWS,eu-west-1,33,43,99.968,90
+AWS,eu-west-1,42,56,99.961,57
+AWS,eu-west-1,22,48,99.907,76
+Azure,Central India,72,117,99.959,42
+Azure,Southeast Asia,64,101,99.959,67
+GCP,us-central1,26,57,99.919,40
+GCP,us-east1,67,87,99.926,83
+AWS,ap-south-1,69,102,99.974,94
+Azure,Central India,43,76,99.926,51
+GCP,us-east1,64,74,99.91,47
+GCP,europe-west1,55,91,99.928,80
+AWS,us-east-1,71,103,99.946,84
+Azure,West Europe,67,89,99.914,55
+AWS,ap-south-1,30,47,99.919,66
+Azure,Australia East,54,85,99.925,75
+GCP,us-east1,39,61,99.964,63
+GCP,asia-east1,67,79,99.936,60
+Azure,West Europe,57,92,99.988,57
+AWS,us-east-1,13,40,99.928,77
+AWS,us-west-2,59,92,99.936,91
+Azure,Australia East,28,40,99.996,84
+Azure,Australia East,50,68,99.989,55
+GCP,us-central1,34,51,99.927,90
+GCP,europe-west1,22,37,99.947,49
+Azure,Southeast Asia,77,109,99.94,85
+Azure,Southeast Asia,79,101,99.937,71
+AWS,us-east-1,20,40,99.933,52
+Azure,East US,76,102,99.908,47
+Azure,Southeast Asia,24,48,99.912,84
+Azure,East US,61,109,99.932,57
+AWS,ap-southeast-1,28,70,99.9,91
+AWS,us-west-2,21,56,99.901,40
+GCP,europe-west1,66,81,99.942,72
+AWS,us-west-2,52,81,99.994,83
+AWS,us-west-2,48,62,99.943,42
+GCP,us-east1,54,90,99.93,61
+AWS,ap-southeast-1,56,78,99.928,77
+GCP,asia-east1,68,109,99.923,58
+AWS,us-west-2,35,63,99.91,44
+AWS,ap-south-1,34,74,99.963,42
+Azure,Southeast Asia,38,84,99.911,40
+Azure,Southeast Asia,68,113,99.979,45
+Azure,East US,25,46,99.948,64
+GCP,us-east1,14,31,99.923,52
+AWS,us-west-2,15,60,99.976,81
+GCP,asia-east1,27,67,99.995,76
+Azure,West Europe,10,39,99.994,66
+AWS,us-east-1,66,99,99.913,40
+AWS,ap-southeast-1,30,60,99.957,48
+Azure,Southeast Asia,52,73,99.992,85
+Azure,West Europe,65,100,99.952,86
+AWS,eu-west-1,76,107,99.906,55
+AWS,ap-south-1,23,33,99.917,48
+AWS,eu-west-1,78,112,99.901,52
+GCP,us-east1,31,71,99.981,42
+Azure,East US,38,67,99.959,75
+Azure,Australia East,30,63,99.984,55
+AWS,us-east-1,29,42,99.972,43
+AWS,us-west-2,60,91,99.957,61
+GCP,europe-west1,51,69,99.957,57
+AWS,eu-west-1,69,87,99.973,57
+Azure,Central India,66,93,99.934,48
+GCP,us-east1,63,104,99.988,85
+GCP,asia-east1,52,70,99.935,86
+Azure,Southeast Asia,26,54,99.972,75
+GCP,us-central1,41,74,99.964,95
+Azure,East US,42,75,99.926,78
+AWS,us-west-2,21,33,99.99,59
+AWS,ap-southeast-1,26,43,99.952,40
+Azure,Southeast Asia,80,127,99.977,65
+Azure,Southeast Asia,13,57,99.937,54
+GCP,asia-east1,33,49,99.973,50
+GCP,europe-west1,54,98,99.995,43
+Azure,West Europe,74,104,99.979,44
+GCP,us-central1,62,111,99.966,84
+GCP,asia-east1,77,112,99.932,46
+AWS,ap-southeast-1,23,49,99.974,72
+GCP,us-east1,39,75,99.931,67
+GCP,europe-west1,76,102,99.96,77
+GCP,asia-east1,39,64,99.993,82
+GCP,europe-west1,52,83,99.963,94
+GCP,europe-west1,66,89,99.915,48
+AWS,us-west-2,48,61,99.935,67
+GCP,asia-east1,54,103,99.972,93
+Azure,East US,56,75,99.969,72
+AWS,us-east-1,24,69,99.982,73
+Azure,West Europe,23,34,99.983,60
+Azure,Central India,24,51,99.91,57
+GCP,asia-east1,70,97,99.978,84
+GCP,us-east1,53,78,99.905,46
+Azure,East US,22,47,99.92,72
+AWS,ap-south-1,72,112,99.945,41
+AWS,ap-southeast-1,20,59,99.953,92
+Azure,Southeast Asia,35,53,99.942,81
+AWS,us-east-1,10,46,99.94,65
+Azure,Central India,42,74,99.944,76
+GCP,us-central1,27,52,99.902,87
+AWS,eu-west-1,70,119,99.916,87
+Azure,East US,30,66,99.997,42
+AWS,ap-south-1,64,101,99.963,86
+GCP,asia-south1,53,92,99.911,88
+GCP,us-central1,70,106,99.908,52
+AWS,ap-southeast-1,44,86,99.983,72
+AWS,eu-west-1,56,95,99.926,44
+AWS,eu-west-1,66,97,99.99,95
+AWS,ap-south-1,43,80,99.958,79
+GCP,asia-south1,41,56,99.982,92
+Azure,Southeast Asia,56,85,99.983,72
+GCP,asia-east1,38,59,99.967,41
+AWS,eu-west-1,44,86,99.922,48
+AWS,eu-west-1,41,81,99.955,86
+Azure,West Europe,11,38,99.971,88
+Azure,Australia East,75,91,99.937,79
+GCP,asia-east1,35,78,99.945,89
+AWS,us-west-2,50,75,99.988,42
+Azure,East US,65,78,99.992,80
+GCP,europe-west1,70,115,99.956,40
+GCP,europe-west1,76,107,99.92,75
+GCP,asia-east1,38,48,99.952,78
+AWS,eu-west-1,64,100,99.919,57
+Azure,West Europe,75,99,99.971,78
+Azure,West Europe,25,37,99.995,40
+GCP,us-east1,57,71,99.911,76
+AWS,us-east-1,13,61,99.975,60
+AWS,eu-west-1,26,37,99.904,74
+GCP,asia-east1,36,57,99.962,42
+AWS,us-east-1,62,82,99.971,51
+AWS,ap-south-1,22,65,99.994,67
+Azure,West Europe,55,96,99.987,71
+AWS,ap-southeast-1,37,79,99.981,58
+Azure,Australia East,80,125,99.937,52
+Azure,West Europe,10,25,99.968,53
+Azure,Central India,24,34,99.945,89
+Azure,West Europe,47,85,99.928,61
+Azure,Southeast Asia,68,104,99.904,94
+GCP,asia-south1,42,91,99.986,56
+GCP,asia-east1,39,78,99.998,40
+GCP,asia-south1,10,49,99.998,60
+Azure,East US,26,60,99.953,93
+AWS,ap-south-1,33,81,99.944,70
+AWS,us-west-2,24,59,99.908,82
+GCP,asia-east1,50,87,99.957,50
+AWS,us-east-1,69,104,99.973,46
+GCP,us-central1,49,70,99.924,91
+Azure,Australia East,27,76,99.964,53
+Azure,East US,51,86,99.973,48
+AWS,us-west-2,17,48,99.988,72
+AWS,eu-west-1,67,80,99.919,61
+Azure,Australia East,30,40,99.97,59
+GCP,asia-south1,73,87,99.937,93
+Azure,Central India,26,37,99.933,47
+GCP,asia-south1,41,65,99.958,87
+Azure,Australia East,68,82,99.964,92
+GCP,us-central1,47,72,99.938,94
+AWS,eu-west-1,36,85,99.963,88
+AWS,us-west-2,22,61,99.91,60
+Azure,Central India,68,106,99.928,71
+Azure,Southeast Asia,45,82,99.953,50
+Azure,Southeast Asia,30,43,99.974,73
+GCP,asia-south1,32,56,99.904,73
+AWS,us-east-1,37,83,99.989,47
+Azure,Central India,11,55,99.939,69
+AWS,ap-southeast-1,38,52,99.988,88
+AWS,us-east-1,27,46,99.97,41
+AWS,eu-west-1,44,91,99.933,83
+AWS,ap-south-1,48,59,99.998,77
+AWS,us-east-1,51,65,99.97,64
+GCP,us-east1,76,87,99.922,94
+GCP,europe-west1,41,66,99.996,63
+GCP,asia-south1,50,74,99.964,54
+AWS,ap-southeast-1,12,47,99.926,81
+Azure,Central India,54,83,99.996,76
+Azure,Central India,67,109,99.994,71
+GCP,us-east1,76,113,99.98,59
+AWS,us-east-1,59,100,99.946,46
+AWS,ap-south-1,74,96,99.912,69
+GCP,europe-west1,22,61,99.906,68
+Azure,Australia East,62,88,99.963,77
+AWS,us-east-1,10,45,99.941,47
+AWS,us-west-2,71,81,99.911,91
+AWS,ap-southeast-1,45,60,99.903,61
+AWS,us-east-1,43,93,99.904,64
+AWS,us-east-1,44,65,99.952,47
+Azure,Australia East,50,91,99.928,74
+GCP,asia-south1,28,47,99.954,67
+Azure,West Europe,26,65,99.931,50
+AWS,ap-southeast-1,67,91,99.937,47
+GCP,asia-east1,44,76,99.952,57
+GCP,europe-west1,10,24,99.976,68
+GCP,asia-south1,13,24,99.943,93
+GCP,asia-south1,23,46,99.937,78
+Azure,East US,42,79,99.957,56
+GCP,europe-west1,56,71,99.97,64
+AWS,us-west-2,53,82,99.998,43
+GCP,us-east1,69,84,99.953,71
+AWS,ap-southeast-1,43,69,99.961,66
+Azure,Southeast Asia,72,89,99.939,80
+GCP,asia-east1,22,68,99.901,81
+GCP,us-east1,32,73,99.933,40
+GCP,asia-east1,67,97,99.971,89
+GCP,asia-south1,50,70,99.979,95
+AWS,ap-southeast-1,77,122,99.918,45
+GCP,asia-east1,64,101,99.985,59
+Azure,East US,40,70,99.993,88
+AWS,eu-west-1,41,87,99.909,72
+AWS,eu-west-1,21,53,99.96,91
+Azure,Central India,38,76,99.929,79
+GCP,us-central1,75,116,99.976,56
+AWS,eu-west-1,19,68,99.958,61
+GCP,asia-east1,22,49,99.925,69
+AWS,ap-southeast-1,80,114,99.996,69
+Azure,West Europe,50,63,99.914,52
+AWS,ap-southeast-1,73,99,99.974,73
+GCP,us-central1,73,94,99.912,49
+GCP,us-east1,76,106,99.907,74
+AWS,eu-west-1,37,54,99.904,49
+AWS,ap-south-1,33,56,99.901,76
+AWS,us-west-2,38,52,99.91,45
+AWS,ap-south-1,30,62,99.963,70
+AWS,us-east-1,32,76,99.99,82
+Azure,West Europe,37,78,99.985,47
+Azure,Central India,23,65,99.934,46
+Azure,East US,47,66,99.936,70
+AWS,ap-southeast-1,31,66,99.943,73
+Azure,West Europe,41,55,99.926,48
+GCP,us-east1,38,81,99.989,46
+AWS,eu-west-1,74,96,99.992,42
+GCP,us-central1,74,102,99.957,57
+GCP,europe-west1,32,77,99.986,90
+AWS,us-east-1,30,62,99.946,68
+Azure,Southeast Asia,78,110,99.91,49
+GCP,us-east1,24,71,99.942,73
+Azure,West Europe,80,100,99.926,61
+GCP,us-east1,17,35,99.952,67
+Azure,West Europe,42,89,99.929,66
+AWS,eu-west-1,23,46,99.959,71
+Azure,East US,66,82,99.915,68
+Azure,Australia East,12,51,99.969,41
+AWS,ap-south-1,13,46,99.909,77
+AWS,us-west-2,20,64,99.991,69
+Azure,Central India,24,71,99.99,68
+Azure,Central India,32,47,99.954,74
+AWS,ap-south-1,22,68,99.943,88
+AWS,ap-southeast-1,52,66,99.929,42
+Azure,Central India,41,76,99.958,59
+Azure,West Europe,72,86,99.915,85
+Azure,Australia East,43,85,99.958,65
+Azure,Southeast Asia,53,90,99.996,49
+AWS,us-west-2,67,79,99.923,84
+AWS,us-west-2,50,72,99.93,42
+GCP,us-central1,70,114,99.941,90
+GCP,europe-west1,59,82,99.908,54
+AWS,us-west-2,62,73,99.98,67
+GCP,asia-east1,66,103,99.958,89
+Azure,Central India,66,86,99.962,63
+GCP,asia-south1,12,34,99.948,76
+Azure,Central India,16,47,99.918,42
+GCP,asia-east1,49,78,99.912,52
+AWS,us-east-1,57,75,99.99,87
+GCP,asia-south1,41,90,99.953,81
+GCP,us-east1,41,60,99.973,63
+GCP,us-east1,31,62,99.956,65
+Azure,Southeast Asia,43,83,99.949,62
+GCP,us-central1,21,31,99.951,88
+GCP,asia-east1,34,78,99.912,74
+GCP,asia-south1,56,80,99.96,64
+Azure,East US,11,57,99.96,52
+GCP,europe-west1,77,120,99.942,53
+GCP,us-east1,40,63,99.984,41
+GCP,us-central1,35,54,99.949,74
+GCP,us-east1,54,91,99.959,50
+GCP,europe-west1,51,66,99.996,73
+Azure,Southeast Asia,47,60,99.962,61
+AWS,eu-west-1,15,28,99.936,40
+GCP,asia-south1,71,88,99.986,55
+GCP,us-east1,69,101,99.993,54
+Azure,Australia East,11,22,99.973,88
+GCP,europe-west1,34,68,99.929,58
+AWS,ap-southeast-1,28,62,99.934,50
+Azure,Central India,49,59,99.954,85
+AWS,ap-south-1,50,96,99.942,69
+AWS,us-west-2,21,48,99.915,75
+AWS,us-east-1,45,90,99.962,57
+GCP,europe-west1,56,80,99.91,57
+AWS,eu-west-1,24,53,99.939,53
+GCP,us-central1,56,70,99.961,82
+Azure,West Europe,32,81,99.983,64
+GCP,us-east1,62,90,99.95,46
+GCP,asia-south1,41,69,99.968,48
+GCP,asia-east1,74,119,99.916,56
+GCP,asia-south1,20,52,99.977,69
+AWS,us-west-2,40,88,99.905,40
+Azure,Southeast Asia,28,52,99.914,49
+GCP,us-east1,51,99,99.923,93
+Azure,Southeast Asia,73,118,99.908,46
+AWS,us-west-2,35,53,99.913,41
+GCP,us-east1,69,102,99.961,81
+GCP,us-east1,54,72,99.936,61
+Azure,West Europe,35,74,99.941,81
+GCP,us-east1,61,101,99.975,50
+Azure,Australia East,47,81,99.996,60
+GCP,asia-east1,23,65,99.991,61
+AWS,ap-south-1,30,64,99.938,62
+GCP,us-east1,78,91,99.967,77
+GCP,us-east1,22,36,99.967,61
+GCP,us-east1,42,76,99.965,79
+Azure,Central India,53,79,99.984,95
+AWS,us-east-1,30,60,99.938,79
+Azure,East US,25,42,99.953,48
+Azure,Central India,30,45,99.994,63
+GCP,us-east1,49,67,99.98,77
+AWS,eu-west-1,20,59,99.904,42
+GCP,us-east1,25,60,99.905,48
+GCP,us-central1,47,61,99.925,69
+GCP,us-east1,55,89,99.999,60
+Azure,Central India,16,59,99.901,60
+Azure,Australia East,77,97,99.966,85
+AWS,us-west-2,25,35,99.997,89
+GCP,asia-east1,64,94,99.982,44
+GCP,us-east1,26,70,99.963,48
+Azure,West Europe,70,102,99.967,85
+GCP,asia-east1,76,112,99.944,93
+GCP,asia-east1,65,88,99.961,45
+AWS,ap-south-1,14,48,99.968,93
+Azure,East US,55,68,99.962,85
+AWS,ap-southeast-1,24,56,99.934,61
+AWS,eu-west-1,79,96,99.98,47
+GCP,asia-east1,72,102,99.98,50
+AWS,ap-southeast-1,61,77,99.976,91
+Azure,Australia East,13,31,99.95,88
+Azure,East US,57,72,99.965,42
+GCP,europe-west1,35,56,99.98,45
+AWS,us-west-2,28,66,99.961,84
+AWS,eu-west-1,27,37,99.974,40
+AWS,ap-south-1,38,64,99.926,63
+GCP,us-central1,27,59,99.925,73
+Azure,Central India,51,66,99.977,71
+Azure,Central India,61,107,99.932,43
+AWS,us-west-2,74,106,99.96,75
+Azure,East US,30,49,99.901,49
+AWS,ap-south-1,21,33,99.943,54
+Azure,Australia East,18,45,99.995,94
+Azure,East US,52,88,99.986,75
+AWS,ap-south-1,34,45,99.93,69
+GCP,asia-south1,26,38,99.916,69
+GCP,europe-west1,12,32,99.938,66
+Azure,East US,10,38,99.972,73
+AWS,eu-west-1,38,87,99.953,50
+AWS,eu-west-1,10,24,99.989,60
+GCP,asia-south1,11,28,99.935,56
+GCP,us-east1,10,57,99.928,40
+GCP,us-east1,47,92,99.991,46
+GCP,europe-west1,23,43,99.91,42
+GCP,asia-east1,70,106,99.928,64
+AWS,ap-southeast-1,70,104,99.943,75
+GCP,us-east1,75,104,99.964,61
+AWS,ap-south-1,29,70,99.957,70
+AWS,us-west-2,62,95,99.929,49
+AWS,us-west-2,31,75,99.984,44
+Azure,Central India,54,98,99.987,86
+Azure,Southeast Asia,62,106,99.979,40
+AWS,eu-west-1,43,86,99.983,84
+GCP,asia-east1,48,65,99.939,54
+GCP,us-east1,15,43,99.965,70
+AWS,us-east-1,28,46,99.971,77
+Azure,Australia East,44,77,99.961,91
+Azure,Southeast Asia,45,59,99.941,94
+AWS,us-east-1,24,53,99.943,73
+GCP,us-east1,23,66,99.944,93
+Azure,East US,16,39,99.949,60
+AWS,us-east-1,41,85,99.994,95
+GCP,us-central1,34,50,99.959,93
+GCP,us-central1,30,64,99.97,52
+GCP,asia-east1,57,84,99.95,49
+AWS,ap-south-1,51,65,99.969,95
+GCP,asia-east1,27,45,99.951,70
+AWS,ap-southeast-1,18,60,99.988,48
+GCP,asia-east1,60,96,99.946,77
+GCP,us-central1,72,94,99.993,76
+Azure,Southeast Asia,54,90,99.901,88
+GCP,us-central1,24,40,99.946,83
+GCP,europe-west1,24,48,99.912,60
+AWS,us-west-2,15,36,99.907,86
+AWS,ap-southeast-1,29,42,99.971,54
+Azure,Australia East,34,60,99.992,89
+AWS,ap-southeast-1,80,130,99.989,58
+Azure,Central India,76,96,99.944,61
+AWS,us-west-2,12,33,99.939,54
+AWS,ap-south-1,73,107,99.951,66
+GCP,europe-west1,73,123,99.967,67
+Azure,Central India,44,78,99.906,80
+AWS,ap-south-1,14,31,99.968,61
+AWS,eu-west-1,66,116,99.995,73
+AWS,ap-southeast-1,18,49,99.97,95
+Azure,Australia East,71,121,99.943,95
+AWS,eu-west-1,20,54,99.985,63
+AWS,us-east-1,54,65,99.973,79
+AWS,ap-southeast-1,77,123,99.983,95
+AWS,ap-southeast-1,71,120,99.901,71
+Azure,Central India,69,94,99.987,52
+GCP,asia-south1,54,97,99.929,93
+GCP,us-east1,22,41,99.913,69
+Azure,Southeast Asia,13,44,99.982,91
+GCP,asia-east1,70,110,99.939,88
+AWS,eu-west-1,12,28,99.927,51
+AWS,ap-south-1,74,111,99.998,66
+GCP,asia-east1,15,25,99.953,81
+AWS,us-east-1,10,51,99.938,47
+GCP,us-central1,14,48,99.965,65
+Azure,East US,11,22,99.938,55
+AWS,ap-south-1,14,42,99.922,89
+Azure,Australia East,55,96,99.985,48
+GCP,europe-west1,78,94,99.996,42
+GCP,us-east1,48,91,99.945,74
+AWS,eu-west-1,26,55,99.952,95
+Azure,Australia East,50,70,99.927,59
+GCP,us-central1,44,77,99.944,54
+GCP,us-central1,14,49,99.982,52
+GCP,asia-east1,80,99,99.992,47
+GCP,asia-east1,59,88,99.915,81
+Azure,Central India,70,104,99.975,43
+GCP,europe-west1,21,71,99.967,94
+Azure,Central India,58,79,99.991,47
+Azure,West Europe,75,106,99.949,89
+Azure,West Europe,53,74,99.902,72
+AWS,us-east-1,15,37,99.973,43
+Azure,Central India,34,50,99.996,72
+Azure,Central India,58,68,99.986,77
+GCP,asia-south1,72,84,99.948,68
+Azure,Central India,78,105,99.974,73
+Azure,West Europe,17,62,99.904,41
+Azure,West Europe,58,92,99.978,56
+AWS,us-west-2,12,52,99.949,63
+GCP,asia-east1,79,120,99.916,41
+Azure,West Europe,67,84,99.922,62
+AWS,us-west-2,72,87,99.933,68
+Azure,West Europe,68,91,99.935,57
+AWS,us-east-1,33,43,99.946,76
+Azure,East US,25,56,99.971,58
+Azure,East US,11,46,99.989,59
+Azure,Central India,37,79,99.948,72
+GCP,us-central1,39,88,99.933,44
+Azure,Southeast Asia,80,106,99.929,95
+Azure,Southeast Asia,64,101,99.959,40
+AWS,us-east-1,53,92,99.904,70
+GCP,europe-west1,73,120,99.974,70
+GCP,asia-south1,37,68,99.908,49
+Azure,Southeast Asia,43,54,99.955,80
+Azure,Australia East,34,59,99.996,42
+GCP,asia-east1,31,74,99.923,63
+AWS,ap-southeast-1,50,75,99.947,65
+AWS,us-west-2,42,87,99.957,53
+Azure,Australia East,52,75,99.951,59
+GCP,asia-east1,60,97,99.931,85
+GCP,us-central1,17,49,99.923,64
+GCP,us-central1,68,85,99.915,83
+Azure,East US,13,47,99.948,67
+GCP,asia-south1,80,129,99.945,41
+AWS,ap-south-1,53,96,99.993,51
+GCP,us-east1,79,112,99.922,79
+Azure,Australia East,71,121,99.973,81
+GCP,europe-west1,60,108,99.921,67
+Azure,Australia East,21,39,99.993,47
+Azure,Central India,59,103,99.92,46
+AWS,us-west-2,30,45,99.908,93
+Azure,Central India,72,95,99.99,58
+Azure,Australia East,13,59,99.98,54
+AWS,us-west-2,11,59,99.979,78
+GCP,us-east1,11,37,99.98,95
+AWS,us-west-2,78,109,99.94,79
+AWS,eu-west-1,30,74,99.92,86
+Azure,Southeast Asia,75,88,99.967,74
+GCP,europe-west1,61,94,99.947,75
+GCP,asia-east1,24,59,99.958,79
+GCP,us-east1,44,69,99.956,59
+Azure,Australia East,21,61,99.917,85
+GCP,us-central1,31,81,99.903,55
+AWS,us-west-2,32,66,99.982,61
+GCP,us-east1,51,83,99.982,49
+GCP,us-central1,67,114,99.953,42
+Azure,West Europe,18,62,99.943,44
+AWS,ap-southeast-1,49,94,99.909,43
+GCP,us-east1,62,94,99.905,62
+Azure,Southeast Asia,63,80,99.934,65
+GCP,us-central1,51,71,99.914,86
+GCP,europe-west1,80,97,99.997,74
+GCP,europe-west1,38,85,99.993,50
+AWS,us-west-2,24,60,99.959,94
+Azure,East US,52,76,99.97,49
+Azure,Australia East,59,83,99.937,69
+GCP,us-east1,49,65,99.959,40
+AWS,ap-south-1,70,111,99.953,58
+Azure,Southeast Asia,12,22,99.913,87
+Azure,West Europe,24,64,99.913,85
+GCP,europe-west1,70,83,99.982,74
+Azure,Australia East,49,71,99.982,73
+Azure,Australia East,48,93,99.939,51
+Azure,Central India,49,97,99.904,61
+Azure,East US,63,74,99.974,41
+Azure,Australia East,70,83,99.946,40
+GCP,europe-west1,41,91,99.921,71
+AWS,eu-west-1,44,90,99.981,44
+GCP,asia-south1,16,27,99.941,78
+Azure,Southeast Asia,67,116,99.985,89
+Azure,Central India,53,87,99.907,49
+Azure,Central India,18,45,99.951,93
+AWS,eu-west-1,18,42,99.942,91
+Azure,West Europe,17,60,99.969,48
+Azure,Southeast Asia,16,56,99.972,43
+AWS,eu-west-1,77,92,99.973,75
+GCP,asia-south1,59,102,99.97,63
+GCP,us-central1,10,22,99.934,60
+GCP,europe-west1,48,63,99.94,45
+AWS,ap-southeast-1,42,79,99.969,62
+Azure,West Europe,22,62,99.998,43
+GCP,europe-west1,51,79,99.954,81
+GCP,asia-south1,27,45,99.95,86
+Azure,Southeast Asia,49,59,99.997,83
+GCP,europe-west1,39,72,99.956,69
+GCP,europe-west1,27,65,99.98,43
+GCP,europe-west1,66,114,99.912,83
+AWS,us-west-2,73,86,99.987,72
+GCP,us-east1,43,89,99.923,78
+GCP,us-central1,34,66,99.959,81
+Azure,West Europe,35,66,99.989,63
+Azure,Southeast Asia,49,66,99.98,69
+AWS,ap-south-1,32,54,99.934,84
+AWS,eu-west-1,21,60,99.922,84
+GCP,asia-south1,34,62,99.927,52
+GCP,us-central1,55,91,99.985,87
+GCP,asia-east1,51,92,99.936,88
+Azure,East US,44,77,99.977,45
+GCP,us-east1,18,45,99.964,48
+GCP,asia-east1,73,116,99.993,41
+GCP,asia-south1,68,92,99.989,95
+GCP,europe-west1,49,92,99.94,64
+AWS,ap-southeast-1,46,58,99.911,86
+Azure,Central India,59,88,99.959,57
+AWS,us-west-2,65,109,99.909,40
+Azure,Southeast Asia,66,112,99.965,93
+GCP,us-central1,70,93,99.929,74
+Azure,Southeast Asia,43,67,99.988,60
+Azure,West Europe,39,69,99.983,76
+GCP,asia-south1,68,90,99.977,62
+GCP,us-central1,73,95,99.956,93
+Azure,Australia East,16,63,99.911,76
+GCP,us-central1,58,97,99.934,77
+AWS,ap-southeast-1,67,115,99.913,59
+AWS,us-east-1,36,83,99.99,59
+AWS,ap-southeast-1,15,30,99.938,92
+GCP,us-east1,21,66,99.934,62
+GCP,asia-east1,34,65,99.936,71
+GCP,us-east1,54,77,99.936,40
+Azure,West Europe,12,43,99.977,86
+GCP,us-east1,19,39,99.963,71
+GCP,europe-west1,37,58,99.973,94
+Azure,East US,39,76,99.967,79
+AWS,us-east-1,32,70,99.97,54
+Azure,Central India,11,38,99.916,88
+Azure,West Europe,52,96,99.997,67
+AWS,ap-southeast-1,36,71,99.984,92
+GCP,asia-east1,13,53,99.957,69
+GCP,europe-west1,45,71,99.99,67
+Azure,Southeast Asia,29,63,99.975,74
+Azure,Australia East,30,44,99.971,62
+Azure,Central India,77,120,99.991,81
+Azure,West Europe,49,89,99.944,82
+Azure,West Europe,25,57,99.941,88
+Azure,East US,11,25,99.981,67
+AWS,ap-south-1,36,86,99.929,86
+Azure,East US,27,64,99.977,84
+Azure,West Europe,16,38,99.974,61
+GCP,asia-south1,46,89,99.927,40
+Azure,Southeast Asia,14,26,99.971,54
+Azure,East US,48,69,99.951,76
+GCP,europe-west1,41,54,99.94,60
+AWS,us-east-1,14,63,99.983,59
+AWS,ap-southeast-1,55,95,99.984,45
+Azure,East US,43,53,99.989,64
+Azure,Southeast Asia,39,55,99.935,48
+AWS,ap-south-1,49,94,99.904,85
+AWS,us-east-1,38,61,99.955,43
+Azure,Central India,41,70,99.978,85
+AWS,eu-west-1,31,53,99.919,94
+AWS,eu-west-1,52,87,99.902,58
+Azure,Australia East,70,92,99.976,85
+AWS,us-east-1,58,93,99.988,88
+AWS,ap-southeast-1,28,50,99.925,80
+AWS,ap-southeast-1,52,63,99.982,42
+Azure,East US,51,75,99.901,59
+Azure,Southeast Asia,29,47,99.928,79
+AWS,ap-south-1,32,65,99.912,87
+GCP,asia-south1,68,96,99.969,91
+Azure,Central India,64,85,99.918,60
+AWS,eu-west-1,57,75,99.969,57
+Azure,West Europe,27,70,99.972,73
+Azure,Southeast Asia,27,60,99.938,71
+Azure,Southeast Asia,23,65,99.962,64
+GCP,asia-south1,35,50,99.92,43
+Azure,Australia East,13,31,99.939,94
+AWS,us-east-1,43,59,99.94,93
+AWS,eu-west-1,14,56,99.955,71
+Azure,Central India,59,89,99.945,83
+AWS,ap-southeast-1,21,35,99.986,45
+AWS,eu-west-1,31,75,99.978,51
+GCP,asia-east1,76,87,99.956,65
+AWS,us-east-1,72,117,99.974,81
+AWS,ap-south-1,50,79,99.993,75
+Azure,Southeast Asia,51,95,99.922,89
+GCP,us-east1,15,58,99.908,70
+Azure,Australia East,12,44,99.94,41
+GCP,europe-west1,62,72,99.965,78
+Azure,Australia East,70,106,99.903,53
+GCP,us-east1,74,99,99.904,71
+Azure,Australia East,30,61,99.978,73
+GCP,asia-east1,71,112,99.965,49
+Azure,Central India,44,84,99.904,63
+GCP,europe-west1,79,125,99.967,90
+GCP,us-east1,78,117,99.99,88
+GCP,us-east1,69,83,99.944,81
+AWS,ap-south-1,34,57,99.968,46
+AWS,ap-south-1,21,34,99.969,51
+GCP,us-east1,45,95,99.956,77
+Azure,Southeast Asia,68,91,99.906,62
+GCP,europe-west1,59,93,99.929,59
+Azure,West Europe,56,97,99.916,92
+GCP,us-central1,57,82,99.993,53
+AWS,ap-southeast-1,63,95,99.993,95
+GCP,europe-west1,23,36,99.993,67
+Azure,East US,50,100,99.949,83
+AWS,us-east-1,20,47,99.902,47
+Azure,Central India,64,107,99.921,82
+Azure,West Europe,27,66,99.962,77
+Azure,East US,45,77,99.941,70
+GCP,asia-east1,21,35,99.981,91
+GCP,asia-east1,38,63,99.947,64
+GCP,europe-west1,16,47,99.97,58
+Azure,East US,71,99,99.969,74
+AWS,eu-west-1,48,77,99.983,42
+GCP,asia-east1,72,119,99.979,73
+Azure,East US,68,110,99.982,82
+Azure,Australia East,75,103,99.919,92
+Azure,West Europe,26,64,99.95,77
+AWS,us-east-1,58,90,99.961,84
+GCP,us-central1,73,97,99.991,52
+AWS,us-east-1,27,57,99.955,50
+AWS,ap-southeast-1,11,33,99.971,43
+AWS,eu-west-1,31,79,99.962,58
+AWS,us-east-1,16,44,99.92,44
+GCP,us-central1,27,45,99.991,43
+Azure,Australia East,57,92,99.989,55
+GCP,asia-east1,43,64,99.997,48
+Azure,East US,57,88,99.936,76
+Azure,Central India,51,92,99.943,41
+Azure,West Europe,29,71,99.932,91
+AWS,eu-west-1,19,53,99.987,69
+GCP,asia-south1,62,80,99.952,53
+AWS,ap-south-1,36,77,99.953,80
+Azure,Australia East,12,40,99.924,55
+Azure,Central India,50,65,99.945,54
+GCP,asia-east1,46,92,99.976,72
+GCP,us-central1,62,94,99.985,73
+Azure,Southeast Asia,42,82,99.953,41
+GCP,us-east1,16,50,99.918,78
+AWS,eu-west-1,69,104,99.968,60
+GCP,us-central1,50,61,99.976,46
+Azure,West Europe,37,48,99.983,87
+AWS,us-west-2,74,106,99.993,48
+GCP,asia-east1,11,54,99.927,51
+AWS,us-east-1,20,50,99.92,84
+Azure,East US,65,93,99.978,86
+Azure,Central India,43,62,99.938,95
+AWS,eu-west-1,76,92,99.94,73
+GCP,asia-south1,70,91,99.977,62
+GCP,us-central1,66,92,99.964,48
+GCP,us-central1,25,40,99.939,57
+GCP,us-central1,37,77,99.948,60
+GCP,us-central1,28,66,99.972,85
+GCP,us-central1,70,115,99.918,52
+AWS,eu-west-1,61,103,99.925,52
+GCP,us-east1,79,128,99.973,57
+AWS,us-west-2,56,104,99.956,85
+AWS,us-west-2,59,91,99.944,93
+Azure,East US,72,93,99.989,81
+GCP,us-east1,45,56,99.962,61
+Azure,Australia East,47,63,99.967,49
+Azure,West Europe,47,88,99.933,66
+AWS,eu-west-1,62,92,99.918,93
+Azure,East US,44,90,99.995,70
+GCP,asia-east1,63,90,99.99,40
+AWS,us-east-1,68,116,99.997,70
+GCP,asia-east1,13,49,99.94,66
+AWS,us-east-1,18,38,99.96,48
+AWS,us-west-2,26,57,99.971,75
+Azure,East US,72,105,99.92,40
+GCP,europe-west1,43,62,99.902,73
+AWS,eu-west-1,18,52,99.923,51
+Azure,Australia East,15,59,99.917,55
+Azure,East US,29,59,99.989,77
+AWS,ap-southeast-1,21,56,99.985,82
+AWS,ap-southeast-1,53,98,99.927,79
+AWS,ap-southeast-1,75,124,99.982,76
+GCP,asia-south1,34,50,99.958,58
+Azure,East US,68,113,99.96,87
+GCP,asia-south1,73,96,99.95,70
+Azure,West Europe,36,50,99.974,74
+GCP,us-central1,17,28,99.938,85
+AWS,us-west-2,58,85,99.901,71
+AWS,ap-southeast-1,42,54,99.946,77
+AWS,eu-west-1,22,72,99.911,89
+GCP,us-central1,46,74,99.971,45
+GCP,europe-west1,33,82,99.994,45
+AWS,us-west-2,56,85,99.919,56
+Azure,Central India,60,80,99.919,40
+GCP,us-central1,11,33,99.969,49
+GCP,asia-east1,23,56,99.976,64
+GCP,asia-south1,60,75,99.984,64
+Azure,Southeast Asia,43,68,99.981,49
+AWS,eu-west-1,28,63,99.977,91
+AWS,us-west-2,64,79,99.927,42
+GCP,europe-west1,35,60,99.969,65
+Azure,East US,76,104,99.915,95
+AWS,us-west-2,63,94,99.92,56
+Azure,Australia East,24,70,99.981,93
+AWS,us-east-1,31,63,99.975,46
+AWS,ap-south-1,44,78,99.945,64
+Azure,Central India,23,42,99.969,46
+AWS,us-east-1,47,84,99.931,93
+GCP,asia-south1,59,72,99.971,58
+GCP,europe-west1,12,38,99.969,47
+AWS,ap-south-1,23,69,99.937,56
+Azure,Australia East,73,92,99.941,93
+AWS,ap-south-1,10,28,99.959,47
+AWS,us-east-1,80,92,99.909,62
+AWS,eu-west-1,25,52,99.919,78
+AWS,ap-south-1,36,67,99.952,58
+Azure,West Europe,72,82,99.906,84
+Azure,Australia East,20,68,99.939,47
+GCP,us-east1,79,107,99.959,49
+GCP,europe-west1,67,103,99.981,93
+AWS,us-east-1,73,122,99.957,58
+AWS,ap-south-1,47,69,99.948,94
+GCP,asia-east1,70,117,99.983,68
+GCP,us-central1,54,83,99.997,41
+GCP,us-central1,36,79,99.959,43
+AWS,ap-south-1,62,87,99.923,44
+AWS,eu-west-1,33,79,99.994,91
+Azure,Southeast Asia,31,72,99.957,56
+Azure,Central India,64,83,99.951,74
+Azure,Australia East,58,97,99.909,76
+GCP,asia-east1,68,114,99.996,78
+GCP,asia-south1,14,33,99.95,80
+AWS,ap-southeast-1,64,88,99.937,95
+AWS,us-west-2,34,57,99.968,79
+GCP,us-central1,22,65,99.916,78
+GCP,us-central1,60,83,99.999,42
+Azure,East US,44,84,99.947,64
+AWS,ap-south-1,25,53,99.996,77
+GCP,asia-south1,57,106,99.982,58
+Azure,East US,11,41,99.943,58
+AWS,ap-south-1,62,102,99.947,48
+GCP,us-central1,66,105,99.992,60
+Azure,Central India,31,53,99.916,60
+Azure,Australia East,42,82,99.931,78
+Azure,Australia East,14,38,99.923,61
+GCP,europe-west1,47,69,99.993,52
+AWS,ap-southeast-1,39,59,99.958,84
+Azure,Central India,44,76,99.919,80
+Azure,West Europe,60,102,99.902,84
+AWS,eu-west-1,44,54,99.984,54
+Azure,East US,79,96,99.916,51
+AWS,eu-west-1,45,93,99.994,51
+AWS,eu-west-1,58,97,99.901,80
+Azure,Central India,61,107,99.924,79
+AWS,us-west-2,76,124,99.921,70
+Azure,Australia East,67,81,99.961,59
+GCP,us-central1,53,84,99.989,59
+Azure,Australia East,34,72,99.995,82
+Azure,Southeast Asia,11,55,99.963,62
+AWS,us-west-2,61,73,99.977,89
+AWS,ap-southeast-1,55,84,99.96,85
+AWS,ap-southeast-1,44,87,99.951,60
+GCP,us-central1,71,83,99.909,41
+AWS,ap-south-1,48,68,99.948,73
+AWS,us-west-2,60,79,99.995,64
+AWS,eu-west-1,39,80,99.932,53
+GCP,europe-west1,37,77,99.927,85
+Azure,Central India,73,84,99.983,87
+AWS,ap-south-1,14,62,99.985,75
+GCP,asia-south1,11,31,99.904,80
+GCP,asia-east1,44,68,99.956,95
+Azure,Australia East,34,60,99.935,67
+Azure,West Europe,56,76,99.933,61
+Azure,East US,31,41,99.909,68
+AWS,us-west-2,73,89,99.967,89
+GCP,us-central1,11,31,99.97,90
+Azure,West Europe,66,109,99.912,71
+AWS,us-west-2,15,40,99.906,46
+AWS,ap-south-1,26,49,99.905,54
+AWS,ap-southeast-1,39,86,99.989,86
+GCP,us-central1,21,46,99.93,54
+Azure,West Europe,49,76,99.946,45
+Azure,Australia East,14,43,99.907,40
+GCP,us-central1,77,112,99.914,86
+GCP,us-east1,40,82,99.981,55
+AWS,eu-west-1,22,40,99.984,78
+AWS,ap-south-1,67,109,99.954,64
+GCP,asia-south1,13,25,99.974,58
+AWS,ap-south-1,71,105,99.98,85
+Azure,Central India,32,81,99.983,58
+Azure,Australia East,23,47,99.925,41
+GCP,us-central1,60,80,99.914,44
+Azure,Southeast Asia,57,95,99.994,88
+AWS,ap-southeast-1,43,58,99.948,75
+Azure,West Europe,41,56,99.971,46
+AWS,us-east-1,15,39,99.942,86
+GCP,asia-east1,80,91,99.917,90
+Azure,West Europe,18,55,99.979,51
+GCP,asia-east1,52,76,99.907,91
+Azure,East US,33,45,99.966,68
+AWS,eu-west-1,55,73,99.948,74
+AWS,ap-southeast-1,49,69,99.957,58
+GCP,us-east1,59,85,99.987,55
+Azure,Central India,24,74,99.947,82
+Azure,East US,33,54,99.994,47
+GCP,us-east1,24,61,99.919,48
+Azure,East US,60,87,99.951,65
+Azure,Central India,35,54,99.979,79
+AWS,eu-west-1,49,78,99.988,89
+Azure,West Europe,11,48,99.904,43
+Azure,Southeast Asia,21,57,99.937,54
+GCP,europe-west1,27,64,99.916,91
+GCP,asia-east1,14,61,99.941,73
+GCP,us-east1,39,58,99.901,56
+Azure,Central India,49,90,99.99,57
+AWS,eu-west-1,67,90,99.934,49
+AWS,ap-southeast-1,80,106,99.938,61
+GCP,us-east1,30,47,99.987,81
+Azure,Australia East,26,47,99.949,49
+GCP,asia-south1,39,64,99.928,65
+Azure,West Europe,10,59,99.94,53
+Azure,Central India,32,57,99.909,43
+GCP,asia-south1,60,77,99.92,51
+AWS,ap-south-1,27,52,99.962,64
+GCP,us-central1,68,99,99.982,72
+Azure,East US,10,48,99.911,54
+Azure,East US,32,78,99.903,85
+Azure,Central India,26,66,99.94,79
+AWS,eu-west-1,78,93,99.9,40
+Azure,Central India,66,84,99.991,66
+GCP,europe-west1,46,86,99.947,84
+AWS,ap-southeast-1,75,123,99.951,66
+Azure,East US,76,113,99.922,56
+AWS,eu-west-1,51,78,99.919,92
+GCP,asia-south1,16,29,99.988,78
+Azure,East US,27,58,99.951,81
+Azure,Central India,35,85,99.917,87
+GCP,us-east1,12,31,99.936,77
+GCP,asia-south1,52,76,99.963,54
+GCP,europe-west1,69,93,99.906,49
+AWS,ap-southeast-1,31,75,99.97,46
+Azure,Australia East,38,69,99.983,67
+Azure,Australia East,59,95,99.982,84
+GCP,europe-west1,58,102,99.909,87
+AWS,ap-south-1,58,95,99.945,48
+AWS,ap-south-1,20,52,99.944,80
+Azure,Australia East,39,85,99.989,50
+AWS,ap-south-1,58,91,99.934,53
+Azure,Central India,69,84,99.956,70
+AWS,us-west-2,62,93,99.906,42
+GCP,europe-west1,16,28,99.946,86
+AWS,us-west-2,24,59,99.965,44
+AWS,ap-south-1,52,97,99.973,88
+AWS,ap-southeast-1,15,35,99.955,92
+Azure,Central India,21,48,99.992,63
+AWS,us-west-2,68,112,99.997,93
+Azure,Central India,12,32,99.916,83
+Azure,Central India,39,60,99.947,51
+Azure,West Europe,29,62,99.962,70
+Azure,Central India,75,99,99.96,87
+GCP,us-central1,26,63,99.978,44
+Azure,Southeast Asia,75,121,99.998,94
+Azure,West Europe,21,63,99.983,72
+AWS,us-east-1,18,46,99.965,56
+Azure,Southeast Asia,35,63,99.962,55
+AWS,us-west-2,77,105,99.946,82
+GCP,asia-east1,18,54,99.959,86
+GCP,us-central1,56,95,99.985,77
+GCP,us-east1,15,34,99.929,56
+AWS,us-east-1,73,108,99.928,45
+GCP,asia-east1,70,86,99.975,91
+GCP,us-central1,17,38,99.996,66
+AWS,us-west-2,66,99,99.904,46
+GCP,europe-west1,21,69,99.985,57
+GCP,us-east1,59,83,99.91,50
+AWS,ap-southeast-1,41,83,99.997,50
+Azure,West Europe,15,53,99.998,61
+Azure,Southeast Asia,60,84,99.926,88
+Azure,East US,50,81,99.982,61
+Azure,Australia East,75,106,99.908,94
+AWS,ap-southeast-1,46,89,99.998,73
+Azure,Southeast Asia,80,127,99.955,54
+GCP,asia-east1,20,57,99.923,47
+Azure,East US,22,49,99.929,58
+Azure,Australia East,14,40,99.927,92
+Azure,East US,32,59,99.972,57
+AWS,ap-southeast-1,14,46,99.945,81
+AWS,us-east-1,28,40,99.94,78
+GCP,us-east1,12,50,99.945,75
+AWS,eu-west-1,26,57,99.915,78
+Azure,Southeast Asia,30,75,99.966,53
+GCP,asia-south1,13,56,99.9,84
+Azure,West Europe,14,44,99.912,65
+GCP,asia-south1,35,54,99.938,59
+AWS,eu-west-1,80,97,99.928,69
+AWS,ap-south-1,59,96,99.999,75
+GCP,us-east1,17,37,99.901,51
+Azure,Central India,42,58,99.959,59
+GCP,asia-south1,40,50,99.979,78
+GCP,us-central1,79,123,99.941,53
+GCP,us-east1,63,87,99.991,44
+Azure,Southeast Asia,73,106,99.99,60
+AWS,us-east-1,31,66,99.966,52
+Azure,Central India,32,79,99.953,58
+GCP,asia-south1,80,93,99.971,82
+GCP,us-east1,39,55,99.974,62
+Azure,Central India,52,73,99.991,52
+GCP,us-east1,39,89,99.934,48
+Azure,East US,33,46,99.999,90
+Azure,West Europe,70,96,99.92,59
+Azure,Central India,20,43,99.989,86
+GCP,us-east1,27,46,99.976,69
+Azure,Central India,60,96,99.975,82
+AWS,ap-southeast-1,34,51,99.96,59
+Azure,Southeast Asia,26,44,99.967,69
+Azure,East US,31,58,99.945,95
+Azure,Central India,24,69,99.959,82
+AWS,us-west-2,35,59,99.974,86
+AWS,eu-west-1,49,67,99.951,53
+Azure,West Europe,40,71,99.904,41
+GCP,us-east1,37,83,99.962,40
+GCP,asia-south1,64,84,99.997,54
+Azure,East US,21,45,99.939,65
+GCP,asia-south1,52,91,99.95,87
+Azure,Australia East,47,77,99.965,74
+AWS,ap-south-1,80,124,99.933,67
+GCP,us-central1,56,100,99.903,68
+AWS,us-east-1,73,91,99.927,49
+Azure,Southeast Asia,31,52,99.935,53
+Azure,Australia East,64,82,99.92,71
+Azure,East US,77,109,99.906,42
+Azure,West Europe,41,84,99.941,62
+AWS,ap-southeast-1,19,32,99.973,58
+AWS,us-west-2,40,58,99.907,59
+Azure,Australia East,19,50,99.966,56
+AWS,us-east-1,38,81,99.924,73
+GCP,asia-east1,65,83,99.903,91
+AWS,us-west-2,80,118,99.979,92
+GCP,asia-south1,31,80,99.97,55
+Azure,West Europe,76,120,99.98,83
+GCP,us-central1,52,94,99.975,55
+GCP,us-east1,57,90,99.96,66
+Azure,West Europe,53,72,99.998,49
+Azure,Australia East,53,103,99.953,81
+AWS,eu-west-1,65,113,99.977,43
+Azure,East US,43,69,99.996,64
+GCP,us-central1,40,72,99.933,79
+Azure,Australia East,22,64,99.979,83
+AWS,ap-southeast-1,49,66,99.967,95
+GCP,europe-west1,42,86,99.924,45
+GCP,asia-south1,57,103,99.968,79
+Azure,Australia East,77,109,99.937,75
+GCP,europe-west1,28,72,99.912,69
+AWS,us-east-1,49,95,99.958,67
+AWS,ap-south-1,33,80,99.916,61
+Azure,East US,26,64,99.976,84
+AWS,ap-south-1,40,72,99.988,86
+GCP,europe-west1,69,84,99.95,86
+AWS,eu-west-1,40,55,99.936,60
+Azure,West Europe,24,53,99.933,74
+AWS,ap-southeast-1,20,57,99.9,49
+GCP,asia-east1,57,72,99.947,75
+Azure,West Europe,57,70,99.918,71
+GCP,europe-west1,28,70,99.96,86
+Azure,Southeast Asia,12,40,99.987,41
+GCP,us-east1,33,69,99.933,55
+Azure,East US,76,94,99.981,82
+AWS,us-west-2,12,40,99.966,69
+GCP,us-central1,29,74,99.995,45
+Azure,Australia East,46,68,99.993,70
+Azure,Central India,34,54,99.908,49
+Azure,Southeast Asia,40,65,99.968,91
+Azure,East US,22,69,99.938,49
+AWS,ap-southeast-1,31,74,99.966,76
+Azure,Australia East,23,59,99.956,94
+AWS,ap-south-1,26,49,99.963,86
+GCP,europe-west1,58,75,99.97,52
+AWS,ap-southeast-1,34,63,99.968,64
+AWS,ap-southeast-1,11,36,99.955,77
+Azure,Central India,61,97,99.943,61
+AWS,ap-southeast-1,27,56,99.915,83
+Azure,West Europe,13,23,99.963,42
+Azure,West Europe,32,68,99.997,64
+GCP,asia-east1,54,68,99.908,95
+GCP,us-east1,30,53,99.911,90
+GCP,asia-east1,37,75,99.909,71
+AWS,ap-south-1,38,85,99.914,62
+AWS,ap-southeast-1,71,107,99.991,85
+AWS,us-west-2,17,43,99.911,43
+Azure,Southeast Asia,53,89,99.91,62
+GCP,europe-west1,70,96,99.937,91
+Azure,Southeast Asia,13,29,99.99,82
+AWS,ap-south-1,75,96,99.97,69
+GCP,europe-west1,12,29,99.946,77
+GCP,asia-south1,66,107,99.979,66
+GCP,us-east1,65,76,99.959,94
+Azure,Southeast Asia,57,101,99.968,93
+AWS,us-west-2,21,58,99.91,57
+AWS,eu-west-1,27,75,99.94,90
+GCP,us-central1,72,83,99.928,57
+AWS,ap-south-1,51,93,99.982,42
+AWS,us-west-2,50,64,99.953,75
+AWS,ap-southeast-1,64,90,99.922,50
+AWS,eu-west-1,55,80,99.907,48
+AWS,us-west-2,46,79,99.988,59
+AWS,ap-southeast-1,29,72,99.9,64
+Azure,Australia East,52,67,99.979,62
+GCP,europe-west1,74,105,99.995,72
+AWS,us-east-1,58,87,99.905,60
+Azure,Australia East,80,102,99.975,65
+Azure,Australia East,78,100,99.976,94
+Azure,Southeast Asia,58,101,99.921,80
+GCP,europe-west1,56,69,99.949,89
+AWS,us-west-2,76,117,99.931,60
+GCP,asia-south1,75,108,99.935,74
+AWS,us-east-1,42,67,99.95,56
+Azure,Australia East,39,54,99.97,56
+AWS,eu-west-1,64,103,99.991,64
+AWS,us-east-1,37,61,99.985,73
+GCP,us-central1,43,81,99.978,79
+AWS,us-east-1,30,71,99.96,44
+GCP,europe-west1,32,73,99.923,56
+AWS,us-east-1,20,50,99.944,91
+GCP,us-central1,22,50,99.919,60
+AWS,eu-west-1,31,67,99.989,93
+AWS,us-east-1,43,90,99.979,89
+AWS,ap-southeast-1,44,93,99.937,51
+AWS,us-west-2,67,86,99.916,50
+AWS,us-east-1,33,74,99.988,67
+Azure,Australia East,58,108,99.917,65
+AWS,eu-west-1,34,55,99.964,92
+GCP,europe-west1,47,61,99.963,77
+AWS,us-west-2,55,69,99.997,92
+GCP,asia-south1,62,84,99.921,71
+GCP,asia-south1,77,121,99.963,70
+Azure,West Europe,28,66,99.901,41
+Azure,East US,76,112,99.968,87
+AWS,us-west-2,14,53,99.943,61
+Azure,East US,23,39,99.97,50
+Azure,Southeast Asia,69,100,99.934,84
+GCP,us-east1,41,52,99.964,74
+Azure,East US,67,84,99.91,50
+AWS,us-east-1,45,77,99.983,50
+AWS,ap-south-1,62,73,99.997,89
+AWS,us-west-2,54,64,99.912,48
+GCP,asia-south1,50,92,99.948,84
+GCP,us-central1,38,71,99.973,55
+Azure,Central India,37,53,99.988,95
+GCP,europe-west1,19,58,99.987,85
+Azure,Central India,66,92,99.935,93
+Azure,Central India,19,39,99.965,77
+AWS,us-east-1,63,74,99.944,63
+AWS,eu-west-1,39,69,99.909,81
+GCP,us-east1,48,58,99.97,51
+Azure,Australia East,67,106,99.987,47
+Azure,West Europe,29,66,99.93,73
+AWS,ap-southeast-1,45,58,99.966,93
+Azure,West Europe,71,99,99.904,63
+Azure,Central India,28,76,99.93,68
+GCP,europe-west1,20,66,99.937,56
+AWS,us-west-2,18,66,99.953,95
+Azure,Australia East,71,121,99.928,95
+AWS,ap-south-1,33,64,99.926,50
+GCP,us-central1,31,62,99.991,82
+AWS,us-east-1,59,88,99.92,64
+GCP,asia-east1,33,56,99.977,73
+Azure,West Europe,76,114,99.978,47
+AWS,eu-west-1,58,86,99.917,42
+GCP,europe-west1,21,42,99.935,41
+GCP,asia-east1,28,70,99.902,69
+GCP,asia-south1,43,86,99.935,44
+GCP,us-central1,43,71,99.971,94
+GCP,us-east1,65,103,99.905,53
+Azure,West Europe,15,59,99.961,82
+Azure,East US,45,91,99.994,72
+AWS,eu-west-1,38,59,99.918,63
+Azure,Central India,48,70,99.975,72
+GCP,us-east1,13,32,99.968,62
+GCP,us-central1,14,48,99.955,75
+GCP,europe-west1,74,95,99.967,54
+Azure,Australia East,29,75,99.968,40
+GCP,asia-south1,72,86,99.913,58
+AWS,ap-southeast-1,67,106,99.944,65
+AWS,us-west-2,52,81,99.959,65
+AWS,us-east-1,38,53,99.946,64
+GCP,asia-south1,15,64,99.934,74
+Azure,Southeast Asia,23,56,99.93,42
+AWS,ap-south-1,60,71,99.979,56
+GCP,europe-west1,78,104,99.959,82
+GCP,us-central1,76,122,99.977,69
+AWS,us-west-2,48,71,99.994,72
+GCP,asia-east1,45,72,99.934,57
+GCP,us-east1,23,33,99.958,67
+Azure,Central India,79,119,99.956,47
+Azure,Central India,15,45,99.974,67
+GCP,asia-south1,27,75,99.944,45
+Azure,Central India,68,91,99.904,66
+GCP,asia-east1,61,102,99.996,92
+AWS,us-east-1,56,95,99.935,84
+AWS,us-east-1,71,103,99.977,86
+AWS,us-east-1,70,89,99.958,43
+AWS,ap-southeast-1,47,91,99.982,83
+GCP,us-east1,76,123,99.934,63
+Azure,Southeast Asia,10,22,99.974,88
+Azure,Southeast Asia,28,64,99.911,55
+Azure,Central India,51,81,99.953,45
+AWS,us-west-2,19,29,99.944,51
+AWS,us-west-2,46,61,99.943,94
+Azure,Central India,36,58,99.902,46
+AWS,ap-south-1,80,125,99.984,63
+Azure,East US,72,89,99.986,49
+Azure,Southeast Asia,34,72,99.916,54
+GCP,us-central1,15,46,99.925,66
+AWS,us-east-1,44,56,99.936,88
+GCP,us-central1,67,107,99.919,61
+Azure,East US,77,127,99.988,80
+Azure,Southeast Asia,13,35,99.902,56
+GCP,asia-south1,73,104,99.919,54
+GCP,asia-south1,70,90,99.902,79
+AWS,us-west-2,51,82,99.986,69
+Azure,Central India,20,49,99.909,64
+AWS,us-east-1,35,59,99.971,55
+Azure,East US,55,76,99.917,70
+AWS,us-west-2,78,105,99.953,85
+Azure,Central India,12,50,99.914,86
+AWS,ap-southeast-1,20,64,99.916,80
+AWS,eu-west-1,35,69,99.92,43
+AWS,ap-south-1,43,54,99.972,84
+GCP,asia-south1,43,59,99.946,82
+Azure,Australia East,30,43,99.915,42
+Azure,Australia East,73,92,99.938,66
+GCP,europe-west1,26,59,99.982,84
+Azure,Australia East,45,92,99.918,86
+Azure,East US,77,125,99.958,63
+Azure,Southeast Asia,35,47,99.953,74
+Azure,Southeast Asia,53,82,99.925,63
+Azure,East US,27,63,99.956,79
+Azure,Southeast Asia,54,71,99.934,55
+GCP,asia-south1,29,41,99.947,54
+GCP,us-east1,14,25,99.998,76
+Azure,Southeast Asia,79,123,99.929,80
+GCP,us-east1,17,28,99.986,42
+GCP,europe-west1,45,58,99.901,78
+Azure,East US,62,104,99.911,94
+AWS,ap-south-1,69,89,99.976,61
+Azure,Southeast Asia,37,60,99.909,73
+Azure,West Europe,33,51,99.988,56
+Azure,Southeast Asia,64,111,99.961,79
+Azure,Australia East,74,120,99.916,48
+Azure,Australia East,19,35,99.934,75
+GCP,us-central1,67,107,99.962,69
+AWS,us-east-1,22,48,99.94,93
+AWS,us-east-1,78,122,99.937,55
+AWS,eu-west-1,58,108,99.904,93
+AWS,ap-southeast-1,37,81,99.921,85
+Azure,Southeast Asia,74,112,99.931,59
+AWS,ap-south-1,80,119,99.983,75
+AWS,ap-south-1,17,27,99.981,52
+AWS,ap-south-1,16,27,99.998,53
+AWS,us-east-1,23,58,99.984,55
+Azure,Southeast Asia,13,45,99.94,46
+Azure,East US,64,104,99.946,83
+Azure,West Europe,45,91,99.922,68
+AWS,us-west-2,16,34,99.976,55
+GCP,us-central1,80,92,99.927,41
+GCP,asia-south1,61,81,99.933,81
+GCP,us-central1,56,77,99.947,92
+Azure,Southeast Asia,56,103,99.915,88
+AWS,us-east-1,22,68,99.942,95
+AWS,ap-southeast-1,34,45,99.929,61
+GCP,asia-east1,13,37,99.932,47
+Azure,East US,16,51,99.984,51
+Azure,East US,25,57,99.958,40
+AWS,us-east-1,35,69,99.939,94
+Azure,Southeast Asia,35,46,99.995,46
+AWS,us-west-2,77,108,99.924,81
+AWS,ap-southeast-1,36,51,99.9,43
+GCP,europe-west1,51,66,99.996,91
+AWS,us-west-2,42,69,99.983,71
+AWS,ap-southeast-1,65,88,99.986,68
+GCP,us-east1,41,74,99.962,87
+GCP,asia-east1,51,90,99.999,57
+AWS,us-west-2,20,44,99.979,88
+GCP,us-east1,22,51,99.96,58
+GCP,asia-south1,56,79,99.921,74
+GCP,europe-west1,41,89,99.961,50
+GCP,asia-south1,30,68,99.977,48
+AWS,us-west-2,48,60,99.971,86
+GCP,us-central1,32,43,99.915,46
+Azure,West Europe,17,66,99.993,81
+Azure,Central India,33,68,99.907,85
+GCP,asia-south1,32,45,99.913,85
+AWS,ap-southeast-1,55,100,99.993,80
+AWS,us-west-2,67,100,99.923,67
+AWS,ap-southeast-1,19,30,99.985,84
+Azure,Central India,14,64,99.965,77
+AWS,us-east-1,14,29,99.957,66
+Azure,East US,51,61,99.932,47
+GCP,europe-west1,18,33,99.943,54
+Azure,Australia East,31,52,99.913,92
+Azure,Australia East,72,83,99.962,79
+GCP,europe-west1,17,60,99.967,40
+GCP,asia-south1,12,26,99.946,51
+GCP,us-east1,71,111,99.936,64
+Azure,Southeast Asia,63,113,99.983,54
+AWS,eu-west-1,60,79,99.917,84
+Azure,Australia East,11,48,99.916,72
+Azure,Southeast Asia,23,35,99.973,40
+AWS,ap-south-1,71,101,99.931,86
+Azure,Australia East,16,51,99.976,95
+GCP,us-east1,61,90,99.921,88
+GCP,asia-east1,23,52,99.926,70
+GCP,asia-east1,37,62,99.943,54
+Azure,East US,34,60,99.903,66
+GCP,asia-south1,31,72,99.976,68
+AWS,eu-west-1,21,41,99.906,81
+Azure,Australia East,42,76,99.948,90
+AWS,eu-west-1,35,67,99.986,90
+GCP,us-central1,29,71,99.937,46
+Azure,West Europe,46,82,99.911,73
+Azure,West Europe,76,124,99.971,58
+GCP,asia-east1,66,76,99.968,62
+GCP,europe-west1,72,97,99.946,52
+AWS,ap-southeast-1,19,64,99.917,79
+GCP,asia-east1,40,68,99.975,86
+Azure,West Europe,48,64,99.943,74
+Azure,Australia East,29,55,99.934,72
+GCP,europe-west1,35,75,99.935,91
+AWS,ap-south-1,39,84,99.996,89
+GCP,asia-east1,24,41,99.91,60
+GCP,asia-south1,72,98,99.978,76
+AWS,ap-south-1,10,56,99.923,84
+Azure,East US,60,99,99.97,84
+AWS,us-west-2,78,107,99.996,89
+GCP,europe-west1,34,56,99.951,83
+GCP,us-central1,60,76,99.916,93
+GCP,asia-south1,28,57,99.937,43
+AWS,us-west-2,68,93,99.931,42
+Azure,Central India,61,108,99.94,46
+Azure,West Europe,65,95,99.914,50
+GCP,us-east1,48,73,99.97,50
+Azure,Southeast Asia,74,90,99.919,62
+GCP,asia-east1,67,111,99.98,75
+Azure,East US,20,46,99.931,47
+GCP,us-central1,75,85,99.961,64
+GCP,europe-west1,79,107,99.985,64
+GCP,us-east1,32,54,99.915,78
+GCP,us-east1,70,106,99.947,81
+GCP,asia-east1,37,74,99.969,44
+AWS,us-east-1,67,95,99.996,49
+Azure,West Europe,35,46,99.915,81
+Azure,Central India,71,95,99.996,89
+AWS,eu-west-1,67,113,99.949,94
+Azure,East US,11,48,99.926,54
+Azure,East US,52,76,99.956,78
+Azure,Australia East,27,52,99.942,61
+GCP,us-central1,16,35,99.9,74
+AWS,us-east-1,26,73,99.942,82
+GCP,us-central1,59,105,99.986,95
+AWS,us-east-1,72,115,99.983,41
+AWS,us-west-2,58,69,99.96,67
+Azure,West Europe,15,43,99.916,72
+GCP,asia-south1,55,89,99.917,42
+AWS,ap-southeast-1,29,46,99.9,63
+AWS,us-east-1,79,127,99.939,79
+AWS,us-west-2,40,80,99.978,85
+Azure,Central India,80,91,99.937,50
+AWS,us-east-1,24,68,99.947,68
+GCP,asia-east1,23,37,99.906,56
+Azure,Southeast Asia,78,120,99.975,62
+AWS,us-west-2,10,52,99.983,61
+AWS,ap-south-1,72,90,99.997,90
+GCP,asia-east1,11,39,99.995,58
+AWS,ap-southeast-1,37,54,99.961,44
+GCP,us-central1,70,84,99.914,65
+GCP,asia-south1,73,111,99.934,75
+AWS,ap-south-1,74,98,99.914,94
+Azure,Australia East,57,107,99.952,49
+GCP,us-central1,57,71,99.941,63
+GCP,us-central1,75,121,99.953,86
+Azure,East US,41,62,99.918,89
+GCP,asia-south1,49,87,99.97,67
+Azure,Southeast Asia,33,75,99.948,50
+Azure,Australia East,50,64,99.98,77
+Azure,Australia East,40,88,99.955,52
+Azure,Central India,68,105,99.979,65
+Azure,Southeast Asia,73,110,99.922,93
+Azure,Southeast Asia,39,68,99.935,91
+Azure,Central India,46,67,99.934,56
+Azure,East US,19,61,99.974,94
+AWS,us-west-2,78,102,99.913,73
+GCP,us-east1,79,95,99.997,83
+AWS,ap-south-1,16,47,99.988,41
+Azure,Central India,37,62,99.947,42
+GCP,us-east1,17,60,99.922,65
+Azure,Central India,63,74,99.91,84
+Azure,Australia East,11,44,99.945,49
+GCP,europe-west1,70,114,99.973,74
+Azure,Australia East,50,62,99.982,62
+GCP,asia-south1,37,74,99.923,52
+GCP,europe-west1,61,111,99.91,76
+GCP,europe-west1,66,116,99.981,77
+AWS,us-west-2,54,91,99.948,68
+AWS,eu-west-1,41,83,99.915,44
+Azure,Southeast Asia,40,50,99.985,82
+Azure,Central India,35,57,99.901,93
+AWS,ap-southeast-1,24,47,99.955,83
+Azure,West Europe,15,46,99.983,41
+GCP,asia-south1,58,81,99.955,66
+Azure,Southeast Asia,70,81,99.917,55
+AWS,us-east-1,42,54,99.97,83
+GCP,europe-west1,24,57,99.955,63
+GCP,asia-south1,18,54,99.945,68
+GCP,us-central1,48,88,99.984,58
+GCP,us-central1,51,73,99.981,86
+Azure,Central India,71,104,99.953,87
+AWS,ap-southeast-1,20,56,99.949,61
+Azure,Central India,36,83,99.958,61
+AWS,ap-south-1,69,97,99.989,74
+GCP,asia-south1,40,77,99.927,52
+Azure,Central India,48,71,99.993,84
+GCP,us-central1,54,94,99.901,46
+GCP,asia-east1,19,36,99.987,54
+Azure,West Europe,22,51,99.935,81
+GCP,us-central1,22,58,99.996,67
+AWS,eu-west-1,77,90,99.907,49
+AWS,us-west-2,75,108,99.923,74
+GCP,us-central1,56,68,99.965,63
+AWS,us-east-1,20,66,99.925,72
+AWS,ap-southeast-1,46,60,99.903,61
+AWS,us-west-2,30,49,99.978,43
+AWS,us-east-1,29,57,99.953,76
+Azure,East US,17,55,99.955,73
+AWS,eu-west-1,39,82,99.96,72
+GCP,asia-south1,70,104,99.968,49
+GCP,asia-east1,30,41,99.916,60
+GCP,us-east1,50,83,99.995,89
+Azure,East US,58,72,99.946,87
+Azure,Southeast Asia,38,71,99.973,58
+AWS,eu-west-1,58,68,99.925,85
+Azure,Australia East,65,96,99.965,66
+AWS,ap-south-1,31,52,99.921,79
+Azure,Central India,76,114,99.991,93
+Azure,West Europe,73,84,99.998,76
+AWS,ap-southeast-1,52,67,99.984,83
+GCP,us-central1,57,85,99.937,74
+Azure,East US,26,54,99.918,67
+Azure,Australia East,75,107,99.947,77
+AWS,eu-west-1,38,59,99.952,79
+GCP,asia-east1,26,44,99.926,79
+GCP,asia-east1,50,63,99.904,76
+GCP,asia-south1,30,71,99.972,63
+GCP,asia-east1,72,114,99.916,95
+AWS,ap-southeast-1,46,72,99.906,72
+GCP,us-central1,68,85,99.994,51
+Azure,East US,34,50,99.97,85
+Azure,Southeast Asia,20,63,99.911,77
+AWS,us-east-1,50,68,99.907,64
+AWS,eu-west-1,34,54,99.98,62
+GCP,us-central1,26,76,99.923,82
+Azure,Central India,68,115,99.934,94
+Azure,East US,37,66,99.931,73
+AWS,us-east-1,76,107,99.905,83
+GCP,asia-east1,23,44,99.971,68
+GCP,asia-east1,43,80,99.905,62
+Azure,East US,14,38,99.982,73
+GCP,asia-south1,64,90,99.991,54
+AWS,eu-west-1,15,48,99.961,65
+AWS,us-west-2,51,62,99.907,45
+Azure,Central India,26,36,99.947,71
+Azure,West Europe,30,73,99.981,67
+AWS,eu-west-1,67,99,99.928,48
+AWS,us-east-1,79,123,99.97,73
+GCP,asia-south1,32,62,99.942,64
+AWS,eu-west-1,10,41,99.935,82
+GCP,europe-west1,37,52,99.901,66
+Azure,Southeast Asia,67,94,99.964,42
+AWS,us-west-2,24,41,99.903,78
+Azure,Central India,75,90,99.963,51
+GCP,asia-south1,34,62,99.932,90
+Azure,West Europe,73,102,99.904,51
+GCP,us-central1,55,103,99.977,56
+Azure,Southeast Asia,20,43,99.994,66
+GCP,asia-east1,25,58,99.928,40
+GCP,asia-south1,45,93,99.945,45
+AWS,us-west-2,56,101,99.914,60
+AWS,eu-west-1,60,101,99.925,53
+Azure,Central India,17,65,99.942,50
+GCP,asia-east1,50,80,99.946,76
+Azure,Southeast Asia,56,99,99.927,85
+GCP,us-central1,22,51,99.907,56
+AWS,ap-southeast-1,18,43,99.998,94
+GCP,europe-west1,30,73,99.98,60
+AWS,us-west-2,21,53,99.981,66
+AWS,us-west-2,19,47,99.92,79
+GCP,us-east1,45,81,99.921,48
+GCP,europe-west1,67,99,99.938,85
+GCP,europe-west1,80,109,99.971,92
+AWS,us-east-1,71,82,99.906,94
+AWS,us-west-2,78,127,99.969,58
+AWS,ap-south-1,50,99,99.92,48
+AWS,us-west-2,40,58,99.909,41
+GCP,asia-south1,53,79,99.994,94
+GCP,europe-west1,59,87,99.981,88
+GCP,asia-east1,10,57,99.955,54
+GCP,asia-east1,54,71,99.909,80
+GCP,asia-east1,70,88,99.975,81
+Azure,Central India,43,87,99.906,53
+Azure,East US,72,90,99.939,63
+GCP,us-east1,76,103,99.978,48
+GCP,us-central1,24,65,99.938,80
+Azure,Southeast Asia,31,69,99.984,46
+AWS,eu-west-1,79,109,99.965,67
+GCP,europe-west1,14,32,99.963,67
+Azure,East US,52,62,99.932,59
+Azure,Southeast Asia,36,82,99.95,51
+Azure,East US,35,79,99.985,58
+GCP,asia-south1,61,74,99.992,88
+GCP,europe-west1,19,66,99.95,56
+Azure,West Europe,67,112,99.92,61
+AWS,eu-west-1,37,55,99.981,45
+Azure,Australia East,68,110,99.926,71
+AWS,us-west-2,44,57,99.9,74
+Azure,East US,18,59,99.925,72
+GCP,us-central1,33,57,99.979,64
+AWS,us-east-1,28,51,99.913,73
+GCP,us-east1,52,75,99.941,87
+GCP,us-central1,33,78,99.949,88
+AWS,us-west-2,61,99,99.959,84
+Azure,East US,22,60,99.953,90
+Azure,West Europe,36,46,99.914,90
+GCP,us-central1,11,34,99.99,64
+GCP,us-central1,63,89,99.973,91
+Azure,East US,62,100,99.981,68
+AWS,us-east-1,26,42,99.925,43
+GCP,asia-south1,16,26,99.95,75
+Azure,West Europe,22,35,99.986,46
+Azure,West Europe,10,58,99.94,95
+GCP,europe-west1,39,64,99.954,95
+AWS,ap-south-1,30,65,99.984,56
+Azure,West Europe,17,34,99.902,73
+AWS,ap-south-1,10,32,99.953,68
+AWS,ap-south-1,35,82,99.972,68
+GCP,us-east1,51,79,99.979,76
+GCP,asia-south1,21,48,99.991,43
+GCP,us-central1,65,94,99.904,49
+Azure,West Europe,71,82,99.933,53
+AWS,eu-west-1,75,110,99.976,80
+Azure,Central India,74,119,99.978,84
+Azure,Australia East,18,29,99.922,91
+AWS,eu-west-1,45,91,99.931,50
+GCP,europe-west1,19,33,99.967,56
+Azure,Central India,28,69,99.903,50
+AWS,eu-west-1,41,72,99.98,71
+AWS,ap-southeast-1,60,80,99.91,58
+AWS,us-east-1,56,79,99.909,52
+Azure,Central India,49,61,99.975,76
+GCP,asia-east1,25,65,99.997,41
+AWS,us-east-1,41,80,99.976,71
+AWS,us-west-2,68,87,99.926,53
+GCP,us-central1,42,78,99.953,85
+Azure,Australia East,59,73,99.985,88
+AWS,us-east-1,57,81,99.978,47
+GCP,us-east1,50,73,99.915,92
+GCP,asia-east1,29,79,99.929,82
+GCP,asia-south1,30,51,99.941,51
+GCP,us-central1,53,90,99.954,47
+Azure,West Europe,40,87,99.954,73
+Azure,West Europe,79,124,99.938,74
+GCP,asia-south1,68,110,99.986,66
+GCP,asia-south1,74,108,99.953,78
+AWS,ap-south-1,11,48,99.924,59
+AWS,ap-south-1,41,67,99.982,77
+Azure,Southeast Asia,74,120,99.908,70
+GCP,us-central1,59,108,99.909,42
+AWS,us-west-2,71,115,99.922,69
+AWS,eu-west-1,56,85,99.992,79
+Azure,East US,24,51,99.912,63
+Azure,East US,79,95,99.948,65
+GCP,asia-east1,19,33,99.935,91
+Azure,Southeast Asia,46,63,99.946,57
+AWS,us-west-2,41,81,99.973,55
+GCP,us-central1,74,90,99.915,48
+AWS,ap-southeast-1,11,26,99.932,68
+Azure,West Europe,59,77,99.979,57
+Azure,East US,34,68,99.933,52
+Azure,West Europe,31,77,99.931,44
+GCP,asia-east1,20,67,99.961,85
+AWS,ap-south-1,73,101,99.978,77
+GCP,europe-west1,65,87,99.929,57
+GCP,us-central1,17,41,99.997,91
+GCP,asia-south1,35,69,99.949,81
+AWS,ap-southeast-1,10,21,99.992,91
+AWS,us-east-1,46,77,99.905,71
+Azure,West Europe,11,60,99.955,60
+AWS,ap-south-1,59,84,99.998,45
+AWS,us-west-2,55,81,99.94,81
+AWS,ap-southeast-1,23,42,99.961,87
+AWS,eu-west-1,15,52,99.956,59
+AWS,us-west-2,31,77,99.988,47
+Azure,West Europe,47,92,99.935,88
+AWS,ap-southeast-1,64,94,99.972,60
+Azure,Central India,21,33,99.936,41
+GCP,us-east1,11,52,99.969,75
+Azure,Australia East,34,49,99.949,90
+AWS,us-west-2,59,105,99.966,62
+Azure,West Europe,22,71,99.966,92
+GCP,europe-west1,16,32,99.935,85
+GCP,asia-south1,34,60,99.949,93
+Azure,West Europe,47,88,99.941,85
+GCP,asia-east1,74,107,99.962,94
+Azure,West Europe,55,101,99.958,60
+Azure,Central India,12,60,99.978,86
+AWS,ap-southeast-1,60,85,99.934,50
+AWS,us-east-1,77,103,99.964,47
+GCP,asia-east1,41,71,99.95,44
+AWS,us-west-2,11,41,99.993,74
+Azure,Southeast Asia,61,85,99.956,41
+Azure,Central India,17,56,99.92,92
+GCP,asia-east1,28,68,99.959,78
+AWS,ap-southeast-1,75,120,99.967,44
+GCP,us-central1,77,87,99.944,50
+GCP,us-central1,69,110,99.986,52
+GCP,asia-south1,52,100,99.934,89
+AWS,us-west-2,16,30,99.942,78
+Azure,Australia East,55,86,99.987,46
+AWS,us-west-2,24,43,99.949,58
+GCP,asia-east1,61,78,99.962,91
+GCP,us-east1,24,62,99.949,62
+Azure,East US,22,55,99.928,64
+AWS,ap-southeast-1,63,81,99.97,47
+Azure,East US,34,66,99.929,65
+Azure,Central India,12,41,99.908,85
+Azure,Southeast Asia,40,84,99.979,46
+GCP,asia-south1,29,58,99.969,66
+GCP,europe-west1,26,51,99.928,47
+GCP,us-central1,41,63,99.99,40
+AWS,eu-west-1,22,39,99.986,47
+AWS,us-east-1,49,77,99.972,47
+AWS,ap-southeast-1,72,92,99.942,76
+AWS,ap-southeast-1,51,78,99.917,79
+AWS,us-east-1,75,89,99.996,87
+GCP,us-east1,52,81,99.979,88
+Azure,East US,44,75,99.95,78
+AWS,ap-southeast-1,44,88,99.992,72
+AWS,ap-south-1,39,57,99.923,46
+GCP,us-central1,15,27,99.925,57
+Azure,Central India,61,110,99.905,85
+Azure,Southeast Asia,10,39,99.927,51
+AWS,ap-south-1,62,107,99.911,48
+AWS,ap-south-1,24,74,99.958,90
+Azure,Australia East,37,63,99.965,55
+GCP,asia-east1,36,54,99.951,71
+AWS,eu-west-1,44,55,99.91,40
+AWS,ap-south-1,28,65,99.931,88
+GCP,us-east1,76,91,99.946,54
+Azure,Southeast Asia,24,45,99.937,80
+GCP,asia-south1,40,67,99.948,69
+GCP,us-east1,50,84,99.982,85
+Azure,Central India,45,85,99.919,63
+AWS,ap-southeast-1,76,89,99.948,80
+GCP,asia-east1,46,70,99.947,89
+Azure,Australia East,33,68,99.935,95
+Azure,Central India,13,49,99.99,46
+Azure,Central India,80,122,99.955,90
+GCP,asia-south1,24,40,99.939,87
+Azure,Southeast Asia,36,54,99.937,92
+Azure,Central India,79,102,99.911,74
+AWS,us-west-2,66,105,99.92,88
+Azure,Australia East,19,31,99.936,72
+GCP,europe-west1,32,47,99.981,61
+Azure,East US,70,116,99.955,84
+Azure,Australia East,53,78,99.909,88
+AWS,ap-south-1,37,78,99.964,90
+GCP,us-central1,26,58,99.956,90
+GCP,europe-west1,50,98,99.925,49
+Azure,West Europe,37,51,99.948,90
+GCP,asia-south1,45,66,99.928,77
+Azure,West Europe,35,55,99.962,82
+AWS,us-east-1,38,61,99.946,61
+Azure,East US,63,110,99.946,53
+GCP,us-central1,62,112,99.956,88
+Azure,East US,76,105,99.906,84
+AWS,ap-south-1,61,76,99.921,76
+AWS,us-west-2,51,71,99.919,80
+GCP,europe-west1,12,51,99.909,69
+GCP,asia-east1,41,57,99.973,73
+AWS,us-west-2,42,61,99.901,59
+GCP,asia-east1,48,61,99.963,67
+Azure,Southeast Asia,44,79,99.955,73
+Azure,Central India,71,106,99.911,82
+AWS,ap-south-1,65,102,99.921,42
+GCP,europe-west1,65,100,99.945,72
+Azure,Southeast Asia,56,103,99.962,57
+AWS,ap-south-1,14,42,99.957,54
+AWS,us-west-2,19,33,99.968,77
+AWS,ap-south-1,73,107,99.912,47
+Azure,West Europe,50,99,99.907,78
+AWS,eu-west-1,32,77,99.911,67
+GCP,asia-east1,41,89,99.911,71
+GCP,europe-west1,22,32,99.936,63
+GCP,asia-east1,27,48,99.971,85
+AWS,ap-southeast-1,46,95,99.904,59
+Azure,Australia East,19,51,99.948,70
+AWS,ap-south-1,71,104,99.912,51
+GCP,us-central1,43,59,99.953,50
+AWS,ap-southeast-1,19,37,99.932,86
+GCP,us-east1,51,75,99.994,45
+AWS,ap-south-1,69,92,99.952,66
+AWS,us-east-1,29,66,99.96,89
+GCP,us-central1,73,100,99.997,93
+Azure,Australia East,73,92,99.95,81
+Azure,West Europe,41,57,99.968,60
+AWS,ap-southeast-1,20,41,99.989,54
+Azure,East US,68,81,99.996,92
+Azure,Southeast Asia,41,65,99.909,75
+AWS,eu-west-1,80,94,99.912,51
+AWS,us-east-1,35,73,99.916,50
+GCP,asia-south1,19,67,99.9,82
+Azure,Central India,54,70,99.967,57
+AWS,ap-southeast-1,55,92,99.968,63
+AWS,eu-west-1,77,115,99.909,63
+GCP,asia-south1,35,78,99.967,66
+AWS,ap-southeast-1,25,41,99.925,42
+Azure,East US,51,80,99.961,69
+Azure,Central India,30,61,99.974,60
+AWS,eu-west-1,74,110,99.9,83
+GCP,asia-south1,26,48,99.97,93
+GCP,europe-west1,26,72,99.911,56
+Azure,Southeast Asia,74,90,99.907,49
+Azure,Central India,68,93,99.954,47
+Azure,Central India,47,86,99.904,68
+GCP,us-central1,67,117,99.944,44
+AWS,ap-southeast-1,51,93,99.929,73
+GCP,us-east1,42,62,99.99,67
+Azure,East US,23,62,99.941,94
+Azure,Southeast Asia,62,104,99.974,81
+GCP,us-central1,62,109,99.979,85
+GCP,asia-east1,72,92,99.983,85
+AWS,ap-southeast-1,60,106,99.935,51
+GCP,asia-south1,76,115,99.914,76
+GCP,europe-west1,41,83,99.935,74
+AWS,ap-southeast-1,63,90,99.954,95
+AWS,us-east-1,20,55,99.936,59
+GCP,us-central1,38,63,99.995,66
+GCP,europe-west1,38,73,99.978,87
+Azure,Central India,51,91,99.909,67
+AWS,us-west-2,54,66,99.936,40
+AWS,eu-west-1,13,60,99.967,72
+Azure,Central India,14,32,99.917,84
+GCP,asia-east1,23,61,99.999,76
+AWS,us-west-2,36,61,99.939,46
+Azure,Central India,23,34,99.969,81
+Azure,Central India,66,77,99.969,64
+Azure,Australia East,33,82,99.93,45
+AWS,eu-west-1,22,52,99.988,90
+Azure,West Europe,39,61,99.904,55
+GCP,us-east1,12,58,99.941,47
+GCP,asia-south1,26,47,99.914,65
+GCP,europe-west1,68,89,99.988,89
+Azure,Southeast Asia,65,95,99.965,50
+Azure,West Europe,10,48,99.949,52
+Azure,West Europe,47,66,99.97,93
+Azure,Central India,73,91,99.927,72
+AWS,ap-southeast-1,17,48,99.926,76
+AWS,us-east-1,69,91,99.968,75
+AWS,ap-south-1,46,91,99.902,60
+AWS,ap-southeast-1,52,101,99.925,88
+Azure,West Europe,54,85,99.995,78
+GCP,asia-east1,41,70,99.908,64
+AWS,ap-south-1,14,58,99.983,68
+Azure,Central India,14,49,99.942,60
+Azure,West Europe,61,109,99.923,56
+AWS,ap-south-1,53,76,99.919,41
+GCP,us-east1,38,50,99.931,69
+AWS,us-west-2,31,74,99.944,62
+AWS,ap-southeast-1,33,54,99.985,45
+GCP,asia-south1,69,109,99.95,62
+GCP,europe-west1,42,72,99.962,81
+Azure,East US,74,118,99.935,89
+AWS,us-west-2,53,65,99.967,86
+AWS,us-east-1,62,79,99.92,60
+GCP,europe-west1,17,30,99.975,47
+AWS,us-east-1,48,78,99.958,87
+GCP,europe-west1,74,114,99.957,91
+AWS,us-west-2,62,96,99.908,86
+AWS,us-west-2,48,69,99.967,71
+GCP,asia-east1,27,65,99.99,40
+AWS,eu-west-1,80,92,99.997,91
+Azure,West Europe,27,70,99.982,75
+GCP,asia-east1,28,49,99.986,58
+GCP,europe-west1,22,45,99.961,87
+Azure,Australia East,49,67,99.992,58
+Azure,Southeast Asia,33,57,99.933,63
+GCP,us-central1,75,115,99.946,62
+Azure,Australia East,53,69,99.901,92
+Azure,Central India,12,31,99.936,64
+AWS,us-west-2,19,56,99.935,42
+GCP,us-central1,64,106,99.962,81
+GCP,europe-west1,20,52,99.995,80
+GCP,us-central1,12,23,99.921,88
+GCP,asia-south1,53,95,99.901,93
+GCP,us-east1,20,61,99.931,45
+GCP,asia-east1,10,31,99.96,51
+Azure,West Europe,31,77,99.906,84
+GCP,europe-west1,53,97,99.953,92
+Azure,East US,43,66,99.96,67
+Azure,Australia East,47,71,99.906,51
+AWS,us-west-2,51,64,99.997,46
+AWS,eu-west-1,32,50,99.906,47
+AWS,us-east-1,55,87,99.991,67
+GCP,asia-south1,75,105,99.915,56
+Azure,East US,54,71,99.907,82
+AWS,ap-south-1,55,85,99.95,87
+AWS,ap-south-1,54,93,99.993,84
+AWS,eu-west-1,41,86,99.973,91
+GCP,europe-west1,61,78,99.904,48
+AWS,us-west-2,40,83,99.912,50
+AWS,us-west-2,13,36,99.96,70
+Azure,Southeast Asia,17,59,99.988,56
+AWS,ap-southeast-1,44,87,99.988,41
+Azure,East US,60,84,99.976,49
+Azure,Central India,61,109,99.923,71
+GCP,asia-east1,47,61,99.966,51
+AWS,us-west-2,31,41,99.917,40
+Azure,Southeast Asia,28,43,99.937,81
+GCP,us-central1,19,33,99.933,42
+Azure,Southeast Asia,28,46,99.995,42
+Azure,East US,37,72,99.91,52
+Azure,Australia East,61,71,99.993,86
+AWS,eu-west-1,45,93,99.967,90
+Azure,Central India,39,82,99.979,52
+GCP,asia-south1,36,86,99.933,60
+AWS,us-east-1,52,73,99.923,45
+Azure,Central India,37,51,99.906,92
+AWS,ap-southeast-1,77,115,99.957,85
+GCP,us-east1,70,107,99.979,44
+GCP,us-east1,38,82,99.957,49
+AWS,ap-southeast-1,26,56,99.986,49
+AWS,eu-west-1,14,55,99.981,40
+GCP,asia-south1,30,61,99.909,67
+AWS,ap-southeast-1,14,57,99.907,76
+Azure,Australia East,75,90,99.946,84
+GCP,asia-south1,17,39,99.934,47
+Azure,Southeast Asia,74,124,99.935,89
+GCP,us-central1,56,74,99.961,48
+GCP,asia-east1,34,82,99.99,73
+GCP,asia-east1,28,73,99.973,78
+GCP,asia-east1,23,73,99.974,70
+AWS,eu-west-1,75,125,99.937,92
+Azure,Central India,62,93,99.957,41
+Azure,East US,72,91,99.952,62
+GCP,us-central1,51,94,99.93,76
+AWS,ap-southeast-1,36,60,99.964,60
+Azure,East US,55,104,99.998,93
+GCP,asia-south1,55,100,99.974,88
+Azure,Australia East,78,99,99.978,51
+Azure,Southeast Asia,48,89,99.988,65
+Azure,East US,70,104,99.945,53
+Azure,East US,41,62,99.922,90
+Azure,Southeast Asia,53,91,99.947,40
+Azure,East US,26,63,99.951,60
+AWS,eu-west-1,66,85,99.907,86
+Azure,Australia East,33,79,99.929,80
+GCP,asia-east1,70,86,99.913,70
+AWS,eu-west-1,66,101,99.95,78
+Azure,East US,76,122,99.911,79
+GCP,asia-east1,57,77,99.936,81
+AWS,eu-west-1,32,65,99.936,95
+GCP,europe-west1,54,81,99.921,66
+Azure,Australia East,42,70,99.958,79
+Azure,Central India,15,54,99.926,89
+Azure,West Europe,34,74,99.938,64
+Azure,West Europe,12,28,99.993,79
+AWS,ap-southeast-1,29,51,99.949,52
+AWS,us-west-2,22,32,99.994,68
+Azure,East US,20,43,99.968,75
+Azure,West Europe,50,78,99.998,45
+Azure,Southeast Asia,15,46,99.922,81
+AWS,ap-south-1,35,67,99.92,42
+Azure,Southeast Asia,73,83,99.91,84
+Azure,Australia East,37,82,99.918,88
+Azure,East US,42,55,99.915,72
+Azure,East US,20,42,99.91,58
+GCP,us-east1,23,73,99.916,89
+GCP,asia-east1,54,96,99.983,85
+Azure,East US,58,91,99.964,70
+GCP,us-east1,34,59,99.974,60
+AWS,us-west-2,48,62,99.979,53
+Azure,West Europe,17,56,99.973,90
+Azure,Southeast Asia,77,119,99.989,59
+GCP,asia-east1,15,61,99.933,61
+AWS,us-east-1,77,93,99.933,86
+GCP,us-east1,70,115,99.966,65
+GCP,europe-west1,72,82,99.948,81
+AWS,ap-south-1,34,60,99.95,41
+AWS,us-west-2,44,63,99.98,86
+Azure,West Europe,78,116,99.943,56
+AWS,eu-west-1,10,58,99.927,65
+AWS,us-east-1,51,76,99.905,89
+AWS,ap-southeast-1,45,60,99.972,64
+AWS,us-east-1,46,68,99.972,44
+AWS,eu-west-1,80,97,99.926,72
+GCP,us-east1,38,71,99.984,78
+Azure,Central India,21,58,99.91,58
+GCP,asia-east1,15,54,99.924,44
+Azure,Southeast Asia,65,109,99.936,87
+GCP,us-central1,73,104,99.969,47
+Azure,Central India,21,42,99.907,54
+AWS,ap-southeast-1,10,60,99.936,56
+AWS,ap-southeast-1,42,84,99.912,86
+GCP,us-east1,60,108,99.945,40
+AWS,ap-south-1,33,49,99.946,50
+GCP,us-east1,30,46,99.901,84
+Azure,East US,13,63,99.999,95
+Azure,East US,58,92,99.988,50
+GCP,europe-west1,53,88,99.975,93
+GCP,us-east1,46,77,99.913,62
+AWS,eu-west-1,71,86,99.978,83
+Azure,Central India,68,114,99.944,53
+Azure,Australia East,27,72,99.984,78
+GCP,asia-south1,23,47,99.915,57
+Azure,West Europe,16,28,99.918,86
+Azure,West Europe,35,80,99.918,71
+GCP,us-east1,59,95,99.91,88
+Azure,Southeast Asia,33,67,99.937,67
+GCP,asia-south1,50,92,99.968,55
+GCP,us-central1,12,33,99.993,90
+Azure,Central India,66,84,99.926,66
+Azure,West Europe,69,87,99.982,74
+AWS,us-east-1,35,65,99.924,42
+Azure,West Europe,73,87,99.908,83
+GCP,us-east1,10,26,99.958,69
+GCP,us-east1,29,63,99.919,51
+GCP,us-east1,45,80,99.966,90
+AWS,ap-southeast-1,79,104,99.975,44
+Azure,Central India,34,69,99.972,85
+GCP,asia-south1,71,112,99.98,60
+Azure,Central India,71,98,99.922,83
+AWS,us-east-1,10,25,99.952,56
+AWS,ap-southeast-1,56,92,99.996,64
+GCP,us-central1,12,30,99.972,44
+AWS,eu-west-1,55,101,99.946,59
+GCP,asia-east1,12,48,99.968,59
+AWS,ap-south-1,50,84,99.989,93
+AWS,us-west-2,35,68,99.967,48
+Azure,Southeast Asia,64,76,99.941,63
+AWS,us-east-1,25,73,99.95,64
+Azure,East US,71,108,99.972,62
+Azure,East US,72,109,99.984,50
+AWS,us-east-1,74,89,99.958,64
+AWS,eu-west-1,37,73,99.99,44
+AWS,eu-west-1,27,59,99.997,54
+AWS,eu-west-1,12,29,99.974,76
+Azure,East US,40,67,99.937,40
+Azure,Australia East,18,52,99.981,56
+AWS,us-east-1,13,30,99.913,62
+AWS,ap-south-1,45,90,99.958,87
+GCP,asia-east1,59,86,99.992,86
+AWS,us-east-1,79,108,99.929,60
+AWS,ap-south-1,29,50,99.924,60
+GCP,europe-west1,21,65,99.931,47
+GCP,asia-east1,39,57,99.94,44
+Azure,Australia East,72,87,99.98,88
+GCP,europe-west1,52,79,99.989,60
+Azure,East US,24,50,99.962,81
+GCP,us-east1,80,114,99.914,92
+GCP,asia-south1,48,95,99.952,74
+Azure,Australia East,64,76,99.995,83
+AWS,ap-south-1,29,71,99.964,74
+GCP,europe-west1,80,93,99.961,54
+AWS,ap-southeast-1,42,57,99.948,79
+AWS,us-east-1,26,60,99.959,79
+Azure,Australia East,74,88,99.961,83
+AWS,ap-southeast-1,64,83,99.967,60
+Azure,Central India,51,70,99.933,45
+Azure,Australia East,46,78,99.997,60
+GCP,asia-south1,67,98,99.952,61
+Azure,Central India,61,84,99.973,54
+GCP,us-central1,43,88,99.997,88
+Azure,Australia East,20,49,99.94,63
+AWS,ap-south-1,54,93,99.93,71
+Azure,West Europe,48,75,99.955,95
+Azure,Central India,51,83,99.903,40
+AWS,ap-southeast-1,10,57,99.993,83
+AWS,eu-west-1,75,91,99.955,75
+GCP,asia-south1,79,113,99.968,81
+GCP,asia-east1,64,101,99.905,73
+GCP,asia-east1,65,78,99.943,61
+AWS,us-east-1,43,88,99.974,91
+AWS,ap-south-1,67,102,99.936,44
+Azure,West Europe,17,49,99.975,49
+GCP,asia-south1,68,97,99.9,70
+GCP,asia-east1,46,64,99.921,89
+GCP,us-east1,47,94,99.996,52
+AWS,us-west-2,39,80,99.921,78
+AWS,us-west-2,62,107,99.986,90
+Azure,West Europe,41,81,99.935,69
+Azure,West Europe,61,71,99.938,50
+Azure,Southeast Asia,60,108,99.953,54
+GCP,asia-east1,67,100,99.955,66
+GCP,europe-west1,28,70,99.963,90
+AWS,ap-south-1,46,69,99.917,52
+Azure,West Europe,35,75,99.932,94
+GCP,europe-west1,12,29,99.994,95
+GCP,asia-south1,28,78,99.921,55
+GCP,asia-east1,35,82,99.911,72
+GCP,europe-west1,32,50,99.918,54
+AWS,ap-south-1,58,73,99.956,40
+Azure,Central India,31,64,99.942,78
+AWS,us-west-2,35,56,99.935,55
+AWS,eu-west-1,42,85,99.988,54
+AWS,ap-south-1,76,111,99.928,80
+GCP,europe-west1,17,54,99.971,83
+Azure,Central India,75,98,99.947,80
+AWS,ap-southeast-1,39,64,99.952,61
+AWS,us-east-1,76,105,99.988,55
+GCP,us-central1,54,81,99.911,92
+GCP,us-east1,68,112,99.914,51
+AWS,us-west-2,76,102,99.98,86
+GCP,us-east1,29,57,99.919,54
+GCP,us-central1,66,77,99.928,57
+GCP,asia-east1,13,27,99.902,83
+GCP,us-east1,31,41,99.902,53
+Azure,Southeast Asia,63,97,99.98,83
+AWS,ap-southeast-1,79,106,99.963,85
+AWS,us-east-1,45,61,99.952,88
+GCP,europe-west1,11,60,99.929,73
+AWS,ap-south-1,48,66,99.963,53
+AWS,us-east-1,49,72,99.917,66
+Azure,Australia East,27,37,99.912,90
+Azure,Southeast Asia,76,90,99.92,92
+AWS,us-east-1,16,65,99.938,95
+Azure,Australia East,73,113,99.952,47
+Azure,Central India,56,68,99.903,51
+GCP,us-east1,17,56,99.952,69
+AWS,ap-south-1,13,60,99.913,91
+AWS,us-west-2,60,94,99.968,59
+GCP,asia-east1,34,53,99.968,76
+GCP,us-central1,12,62,99.976,60
+GCP,asia-south1,45,63,99.979,54
+Azure,Australia East,41,90,99.993,76
+AWS,ap-southeast-1,44,76,99.97,68
+Azure,Australia East,68,109,99.942,41
+GCP,us-central1,34,71,99.976,73
+AWS,us-east-1,79,115,99.966,83
+AWS,ap-south-1,68,90,99.994,85
+Azure,East US,50,84,99.921,53
+Azure,Southeast Asia,10,46,99.915,69
+GCP,us-east1,53,84,99.959,91
+AWS,eu-west-1,57,98,99.966,86
+GCP,europe-west1,39,87,99.928,70
+AWS,eu-west-1,72,120,99.961,49
+GCP,us-east1,26,64,99.967,85
+Azure,Southeast Asia,30,64,99.904,47
+GCP,us-central1,16,33,99.986,82
+GCP,asia-east1,17,57,99.994,87
+Azure,Southeast Asia,15,39,99.921,64
+GCP,asia-east1,70,106,99.948,40
+Azure,Southeast Asia,62,76,99.98,45
+Azure,West Europe,61,86,99.968,72
+AWS,us-east-1,60,79,99.927,45
+AWS,us-west-2,58,72,99.99,89
+AWS,us-east-1,55,82,99.997,59
+Azure,East US,40,90,99.9,46
+GCP,us-east1,22,38,99.93,89
+AWS,ap-south-1,40,72,99.97,44
+AWS,eu-west-1,47,85,99.936,87
+Azure,East US,53,76,99.987,89
+GCP,europe-west1,55,100,99.913,76
+AWS,us-west-2,38,84,99.93,81
+AWS,ap-south-1,30,71,99.997,62
+GCP,europe-west1,44,74,99.933,76
+Azure,Australia East,20,58,99.918,77
+Azure,Central India,71,90,99.967,50
+AWS,us-east-1,76,100,99.955,78
+AWS,eu-west-1,53,87,99.941,85
+AWS,ap-south-1,19,36,99.927,70
+AWS,us-west-2,23,72,99.969,80
+Azure,Southeast Asia,41,72,99.954,43
+Azure,East US,66,103,99.906,88
+Azure,Central India,19,37,99.914,56
+GCP,asia-south1,25,51,99.985,47
+AWS,eu-west-1,51,73,99.976,53
+Azure,West Europe,47,70,99.98,48
+Azure,West Europe,32,75,99.954,71
+AWS,us-east-1,40,56,99.945,61
+AWS,us-west-2,45,56,99.902,40
+GCP,us-central1,13,56,99.914,60
+AWS,us-west-2,59,82,99.965,42
+AWS,eu-west-1,60,109,99.903,62
+Azure,West Europe,12,57,99.965,41
+Azure,Southeast Asia,27,73,99.921,78
+AWS,us-east-1,26,65,99.981,65
+GCP,us-east1,36,77,99.984,49
+Azure,Southeast Asia,59,93,99.979,51
+Azure,East US,47,83,99.912,83
+GCP,asia-south1,16,26,99.957,66
+GCP,asia-south1,50,91,99.905,85
+GCP,asia-south1,64,76,99.977,42
+AWS,us-west-2,53,82,99.967,69
+AWS,ap-southeast-1,60,86,99.983,93
+GCP,us-central1,76,114,99.914,40
+Azure,Central India,33,53,99.93,64
+AWS,ap-south-1,22,71,99.977,69
+Azure,West Europe,21,69,99.966,67
+Azure,Southeast Asia,41,68,99.977,48
+GCP,us-central1,36,83,99.922,43
+GCP,us-central1,76,104,99.939,92
+Azure,Central India,66,101,99.927,67
+AWS,us-east-1,20,51,99.988,55
+Azure,Central India,26,50,99.979,57
+AWS,us-east-1,56,66,99.902,50
+Azure,Southeast Asia,58,72,99.98,84
+Azure,West Europe,61,104,99.943,75
+Azure,Central India,32,82,99.926,82
+GCP,europe-west1,30,59,99.997,84
+AWS,eu-west-1,75,119,99.91,57
+GCP,us-east1,47,58,99.914,63
+GCP,us-central1,68,115,99.917,78
+AWS,ap-southeast-1,15,63,99.952,84
+GCP,us-central1,68,78,99.925,95
+Azure,Australia East,53,97,99.904,61
+AWS,ap-south-1,53,79,99.959,95
+AWS,ap-southeast-1,48,92,99.926,48
+Azure,Australia East,54,85,99.944,52
+AWS,us-west-2,18,65,99.914,59
+AWS,ap-southeast-1,45,94,99.904,51
+Azure,Central India,36,79,99.937,91
+AWS,us-east-1,27,52,99.907,85
+AWS,ap-south-1,69,116,99.916,48
+AWS,us-east-1,77,117,99.961,41
+GCP,asia-east1,76,93,99.961,45
+AWS,us-west-2,25,47,99.955,72
+GCP,us-central1,17,53,99.901,45
+GCP,europe-west1,43,87,99.976,76
+Azure,Central India,14,47,99.963,53
+Azure,Southeast Asia,57,68,99.944,48
+AWS,us-east-1,36,64,99.955,64
+Azure,Central India,35,47,99.982,55
+AWS,ap-south-1,76,123,99.901,76
+AWS,ap-south-1,40,52,99.93,57
+Azure,East US,42,75,99.977,91
+AWS,ap-south-1,37,47,99.998,50
+AWS,us-east-1,17,42,99.917,50
+Azure,East US,71,111,99.971,92
+AWS,ap-south-1,13,37,99.989,95
+AWS,ap-southeast-1,26,71,99.972,91
+AWS,us-west-2,57,102,99.996,65
+Azure,Southeast Asia,71,104,99.924,81
+AWS,us-east-1,39,51,99.903,89
+GCP,us-east1,72,98,99.954,40
+GCP,us-east1,62,107,99.973,51
+AWS,ap-south-1,29,50,99.935,85
+Azure,Central India,14,47,99.92,81
+AWS,eu-west-1,50,87,99.952,82
+GCP,us-central1,53,92,99.966,79
+GCP,asia-east1,10,41,99.999,85
+GCP,asia-east1,45,74,99.998,43
+AWS,eu-west-1,40,65,99.923,71
+Azure,Central India,29,52,99.951,79
+AWS,ap-southeast-1,14,25,99.998,43
+GCP,asia-east1,40,61,99.915,91
+GCP,asia-south1,74,116,99.954,46
+Azure,West Europe,73,109,99.925,71
+GCP,europe-west1,34,44,99.995,67
+AWS,us-east-1,76,121,99.909,90
+AWS,us-west-2,28,64,99.955,49
+GCP,asia-south1,17,33,99.947,57
+Azure,Australia East,42,62,99.901,82
+Azure,Southeast Asia,34,68,99.985,66
+Azure,East US,79,91,99.953,71
+AWS,us-west-2,70,81,99.967,60
+AWS,ap-southeast-1,71,90,99.988,60
+Azure,Central India,70,85,99.954,80
+AWS,us-west-2,51,73,99.9,74
+GCP,europe-west1,22,52,99.973,42
+GCP,asia-east1,49,64,99.923,46
+Azure,East US,69,90,99.931,67
+Azure,East US,52,76,99.955,64
+GCP,us-east1,13,40,99.962,78
+Azure,Australia East,49,72,99.986,83
+GCP,asia-south1,67,79,99.997,53
+Azure,East US,70,103,99.99,68
+GCP,us-central1,38,68,99.904,46
+GCP,asia-south1,16,33,99.986,44
+GCP,us-central1,10,24,99.987,88
+AWS,us-east-1,27,42,99.959,80
+GCP,asia-east1,45,65,99.97,65
+GCP,asia-south1,38,72,99.93,65
+AWS,ap-southeast-1,40,74,99.956,53
+GCP,us-central1,45,89,99.958,63
+AWS,us-east-1,42,83,99.964,81
+Azure,Central India,74,112,99.955,93
+AWS,us-west-2,72,98,99.925,53
+AWS,us-west-2,80,90,99.958,48
+Azure,East US,16,66,99.951,50
+GCP,asia-east1,31,52,99.949,56
+GCP,us-east1,11,56,99.906,66
+GCP,asia-east1,56,74,99.961,66
+Azure,Central India,50,77,99.937,51
+AWS,ap-southeast-1,29,43,99.904,56
+GCP,asia-south1,73,88,99.93,58
+GCP,asia-east1,16,36,99.955,63
+Azure,Central India,42,79,99.951,82
+Azure,Australia East,71,119,99.958,85
+AWS,us-east-1,79,125,99.911,64
+Azure,Southeast Asia,80,93,99.916,80
+Azure,Australia East,57,94,99.901,75
+Azure,Southeast Asia,12,32,99.99,93
+GCP,europe-west1,47,89,99.95,74
+GCP,us-east1,11,52,99.911,90
+Azure,Australia East,35,52,99.932,50
+GCP,asia-east1,77,88,99.949,46
+GCP,us-east1,37,51,99.929,65
+Azure,East US,36,83,99.942,63
+Azure,West Europe,18,47,99.995,44
+Azure,Australia East,74,118,99.983,69
+GCP,europe-west1,27,76,99.971,84
+GCP,asia-east1,36,70,99.975,56
+AWS,us-east-1,45,67,99.975,45
+Azure,West Europe,45,90,99.965,77
+AWS,eu-west-1,71,85,99.974,90
+Azure,East US,71,102,99.932,61
+AWS,ap-southeast-1,29,74,99.983,74
+AWS,us-east-1,43,73,99.946,92
+GCP,us-central1,31,71,99.972,81
+AWS,us-west-2,19,69,99.911,51
+GCP,europe-west1,53,87,99.908,66
+Azure,Southeast Asia,46,60,99.928,82
+GCP,asia-south1,60,110,99.945,80
+AWS,ap-southeast-1,78,124,99.963,91
+AWS,us-east-1,36,61,99.972,81
+GCP,us-east1,31,75,99.94,50
+Azure,Central India,45,84,99.938,55
+GCP,us-east1,65,109,99.934,53
+GCP,asia-south1,53,79,99.966,56
+Azure,West Europe,70,81,99.902,86
+AWS,us-east-1,68,79,99.929,73
+Azure,West Europe,19,48,99.912,60
+AWS,ap-south-1,57,100,99.932,94
+AWS,ap-south-1,19,48,99.918,92
+AWS,eu-west-1,52,69,99.94,90
+GCP,asia-east1,21,58,99.922,70
+GCP,us-central1,23,73,99.949,46
+Azure,Australia East,24,54,99.908,93
+Azure,Southeast Asia,37,61,99.902,68
+Azure,Australia East,60,98,99.942,73
+Azure,Australia East,66,94,99.92,43
+AWS,us-west-2,45,85,99.912,43
+Azure,East US,73,96,99.953,48
+AWS,ap-southeast-1,77,123,99.917,71
+AWS,ap-southeast-1,70,110,99.901,43
+GCP,asia-south1,79,121,99.986,92
+Azure,East US,35,68,99.967,78
+AWS,eu-west-1,55,96,99.916,41
+Azure,Australia East,76,91,99.91,45
+AWS,ap-south-1,47,80,99.928,50
+Azure,Southeast Asia,23,39,99.939,90
+AWS,ap-southeast-1,18,58,99.917,43
+Azure,West Europe,70,120,99.99,88
+GCP,europe-west1,67,99,99.921,42
+GCP,europe-west1,63,93,99.953,81
+Azure,East US,16,28,99.96,66
+AWS,ap-south-1,57,82,99.958,74
+Azure,Southeast Asia,69,80,99.985,91
+GCP,europe-west1,73,109,99.951,67
+Azure,Southeast Asia,63,82,99.973,48
+AWS,ap-southeast-1,36,72,99.936,59
+AWS,us-west-2,23,66,99.94,53
+Azure,Australia East,42,64,99.939,52
+Azure,West Europe,70,99,99.907,76
+AWS,ap-southeast-1,48,73,99.945,57
+AWS,eu-west-1,45,58,99.973,82
+AWS,us-west-2,15,32,99.919,84
+AWS,us-west-2,34,72,99.972,49
+GCP,europe-west1,35,78,99.956,80
+Azure,East US,55,79,99.911,59
+AWS,us-east-1,49,80,99.927,84
+GCP,asia-east1,21,42,99.934,55
+AWS,us-west-2,50,91,99.999,70
+Azure,East US,51,72,99.973,80
+AWS,eu-west-1,71,119,99.928,85
+Azure,Australia East,67,85,99.956,74
+AWS,ap-southeast-1,32,65,99.957,70
+Azure,Southeast Asia,35,66,99.94,81
+GCP,asia-south1,42,64,99.969,55
+Azure,Australia East,33,82,99.985,89
+AWS,us-east-1,13,23,99.93,65
+AWS,us-east-1,53,91,99.966,45
+GCP,asia-south1,57,95,99.914,72
+GCP,asia-south1,47,63,99.929,71
+Azure,Australia East,36,55,99.952,68
+Azure,Central India,67,85,99.997,46
+GCP,us-central1,69,109,99.962,87
+AWS,eu-west-1,80,114,99.928,58
+Azure,East US,63,86,99.955,74
+Azure,Southeast Asia,15,38,99.99,81
+Azure,West Europe,80,98,99.904,74
+Azure,East US,66,88,99.956,46
+Azure,Australia East,61,82,99.954,40
+AWS,us-west-2,35,80,99.949,45
+Azure,East US,76,126,99.985,95
+AWS,us-east-1,32,71,99.956,45
+AWS,ap-southeast-1,55,94,99.93,88
+AWS,ap-southeast-1,18,46,99.91,53
+AWS,ap-southeast-1,59,107,99.915,53
+AWS,ap-south-1,60,79,99.991,68
+AWS,us-west-2,61,93,99.911,69
+AWS,eu-west-1,23,57,99.941,56
+AWS,ap-southeast-1,58,83,99.954,47
+Azure,Southeast Asia,42,59,99.969,88
+Azure,Central India,15,28,99.948,72
+GCP,us-central1,33,71,99.977,82
+AWS,ap-southeast-1,61,92,99.951,68
+Azure,Australia East,53,93,99.994,67
+GCP,us-central1,75,112,99.998,50
+Azure,West Europe,20,40,99.92,54
+AWS,eu-west-1,64,102,99.926,51
+GCP,us-central1,55,81,99.986,63
+GCP,us-east1,10,45,99.988,71
+Azure,West Europe,51,69,99.968,89
+Azure,Central India,28,58,99.907,60
+GCP,asia-south1,49,78,99.997,80
+GCP,us-east1,65,108,99.941,78
+AWS,us-west-2,50,65,99.986,86
+Azure,West Europe,74,111,99.97,72
+GCP,asia-south1,14,52,99.955,87
+GCP,asia-east1,69,115,99.921,71
+GCP,asia-east1,41,63,99.911,95
+GCP,us-central1,27,66,99.933,71
+GCP,europe-west1,32,72,99.987,58
+AWS,us-west-2,25,43,99.904,89
+Azure,Southeast Asia,36,67,99.903,80
+GCP,us-central1,63,77,99.958,92
+GCP,asia-east1,66,102,99.984,46
+Azure,East US,10,21,99.993,54
+GCP,asia-east1,28,65,99.988,54
+AWS,us-east-1,16,45,99.909,90
+Azure,Central India,20,57,99.949,89
+AWS,ap-south-1,38,81,99.957,74
+AWS,eu-west-1,45,58,99.937,82
+GCP,us-east1,67,105,99.993,89
+Azure,Central India,58,76,99.977,78
+AWS,ap-south-1,18,64,99.974,41
+AWS,eu-west-1,69,106,99.965,49
+GCP,us-east1,63,111,99.933,84
+AWS,us-west-2,27,48,99.939,41
+AWS,ap-south-1,46,66,99.904,67
+AWS,eu-west-1,77,116,99.951,84
+GCP,europe-west1,63,84,99.951,91
+GCP,us-east1,19,34,99.985,77
+Azure,Australia East,33,62,99.966,78
+Azure,Australia East,60,77,99.947,80
+Azure,Australia East,34,66,99.931,79
+AWS,ap-south-1,76,91,99.924,89
+Azure,East US,26,43,99.939,77
+Azure,Central India,54,64,99.921,93
+Azure,Central India,20,38,99.905,76
+AWS,ap-southeast-1,39,51,99.919,40
+GCP,us-central1,16,46,99.902,95
+GCP,asia-east1,23,33,99.999,61
+GCP,us-central1,54,70,99.977,50
+GCP,europe-west1,44,60,99.946,71
+Azure,Southeast Asia,52,100,99.941,66
+AWS,ap-south-1,40,73,99.98,85
+Azure,Central India,46,94,99.967,62
+GCP,asia-south1,65,99,99.923,40
+GCP,europe-west1,61,109,99.971,43
+GCP,asia-south1,10,48,99.955,88
+AWS,us-east-1,59,99,99.987,91
+GCP,us-central1,74,95,99.96,77
+AWS,us-east-1,20,46,99.964,92
+Azure,East US,72,87,99.986,89
+GCP,asia-east1,28,60,99.972,75
+AWS,us-east-1,31,41,99.96,74
+AWS,ap-south-1,34,75,99.934,54
+GCP,us-east1,53,85,99.935,88
+AWS,ap-southeast-1,50,67,99.969,65
+GCP,europe-west1,74,88,99.939,91
+GCP,europe-west1,41,73,99.924,46
+Azure,Australia East,47,80,99.951,45
+GCP,europe-west1,30,43,99.907,57
+AWS,ap-south-1,52,86,99.936,88
+GCP,us-central1,59,98,99.916,92
+Azure,Central India,67,116,99.953,72
+GCP,asia-south1,60,91,99.921,50
+Azure,Central India,42,73,99.9,80
+GCP,europe-west1,26,72,99.919,68
+AWS,us-west-2,27,72,99.955,48
+AWS,us-west-2,43,92,99.959,64
+AWS,ap-southeast-1,35,85,99.91,80
+Azure,Central India,74,117,99.94,95
+Azure,East US,45,64,99.994,61
+GCP,europe-west1,44,74,99.908,89
+AWS,ap-southeast-1,74,105,99.945,61
+GCP,us-central1,57,100,99.926,48
+GCP,us-east1,60,100,99.911,46
+AWS,us-west-2,18,60,99.933,51
+Azure,Australia East,29,61,99.966,64
+Azure,West Europe,65,97,99.959,43
+AWS,us-west-2,26,39,99.942,60
+AWS,us-west-2,23,65,99.933,92
+Azure,Australia East,66,102,99.969,77
+GCP,asia-east1,62,75,99.949,65
+Azure,Southeast Asia,67,109,99.978,67
+GCP,asia-south1,13,29,99.911,95
+GCP,europe-west1,29,56,99.976,53
+AWS,ap-south-1,74,94,99.992,62
+Azure,East US,79,93,99.97,43
+Azure,West Europe,31,71,99.919,44
+AWS,ap-southeast-1,52,86,99.993,51
+AWS,ap-southeast-1,41,86,99.941,80
+GCP,asia-south1,51,64,99.93,78
+AWS,us-east-1,25,51,99.94,85
+Azure,West Europe,16,65,99.907,78
+AWS,us-west-2,70,115,99.916,41
+GCP,europe-west1,29,57,99.998,56
+AWS,ap-south-1,25,70,99.939,47
+GCP,us-central1,35,78,99.942,48
+Azure,Southeast Asia,79,126,99.969,63
+Azure,Central India,34,50,99.988,62
+Azure,Australia East,27,71,99.931,83
+AWS,eu-west-1,48,98,99.953,72
+AWS,ap-south-1,76,123,99.999,92
+Azure,West Europe,27,60,99.944,74
+Azure,West Europe,12,41,99.979,93
+GCP,us-central1,35,53,99.931,61
+Azure,West Europe,53,85,99.985,44
+AWS,ap-southeast-1,55,71,99.928,65
+Azure,West Europe,27,61,99.905,54
+GCP,us-central1,45,94,99.934,48
+AWS,ap-south-1,31,72,99.972,78
+Azure,Australia East,59,74,99.958,48
+Azure,Southeast Asia,15,28,99.967,70
+AWS,ap-south-1,45,89,99.972,61
+AWS,eu-west-1,13,31,99.946,51
+AWS,us-east-1,32,65,99.911,84
+GCP,us-central1,11,30,99.984,89
+Azure,East US,10,22,99.954,47
+Azure,West Europe,67,96,99.906,56
+Azure,Southeast Asia,64,112,99.96,94
+Azure,West Europe,27,50,99.947,82
+Azure,West Europe,64,97,99.941,79
+GCP,us-east1,17,58,99.927,94
+AWS,us-east-1,54,101,99.934,70
+AWS,ap-south-1,59,87,99.989,67
+AWS,us-east-1,20,30,99.913,64
+AWS,ap-southeast-1,40,67,99.994,60
+AWS,us-east-1,61,110,99.987,59
+Azure,East US,42,64,99.973,80
+AWS,ap-south-1,26,46,99.93,42
+Azure,East US,42,64,99.957,61
+Azure,West Europe,34,69,99.975,70
+GCP,asia-east1,29,58,99.901,83
+Azure,West Europe,67,79,99.971,58
+GCP,asia-east1,49,82,99.991,66
+GCP,us-east1,12,25,99.903,40
+AWS,ap-south-1,73,90,99.906,44
+AWS,ap-southeast-1,54,84,99.964,70
+AWS,us-east-1,35,47,99.901,60
+AWS,us-east-1,32,61,99.999,95
+GCP,us-east1,42,55,99.939,82
+AWS,us-east-1,56,67,99.985,64
+GCP,asia-east1,50,99,99.939,54
+GCP,us-central1,28,39,99.903,94
+GCP,europe-west1,21,71,99.935,59
+AWS,us-west-2,74,108,99.943,48
+Azure,Australia East,70,80,99.951,44
+GCP,us-east1,11,45,99.961,55
+GCP,asia-south1,76,120,99.994,59
+AWS,eu-west-1,38,75,99.973,64
+GCP,asia-south1,37,87,99.957,73
+Azure,Central India,42,74,99.981,40
+GCP,europe-west1,56,79,99.965,65
+GCP,europe-west1,33,65,99.905,71
+Azure,Australia East,10,43,99.974,73
+Azure,Central India,36,58,99.9,81
+Azure,Australia East,22,53,99.935,72
+Azure,East US,66,116,99.929,69
+GCP,us-east1,14,60,99.99,55
+GCP,us-east1,36,83,99.941,89
+AWS,us-west-2,32,54,99.973,83
+Azure,West Europe,21,51,99.975,50
+AWS,ap-south-1,62,111,99.946,73
+AWS,eu-west-1,52,96,99.913,48
+AWS,ap-southeast-1,32,78,99.95,62
+AWS,us-east-1,33,49,99.97,45
+Azure,West Europe,40,62,99.99,76
+Azure,East US,78,101,99.949,69
+AWS,ap-south-1,54,102,99.952,70
+Azure,West Europe,65,112,99.908,69
+AWS,ap-south-1,28,47,99.908,88
+AWS,ap-southeast-1,60,72,99.956,95
+AWS,ap-southeast-1,47,58,99.978,90
+GCP,asia-south1,19,68,99.977,58
+GCP,us-central1,54,69,99.969,92
+GCP,us-central1,47,95,99.909,53
+AWS,ap-southeast-1,38,79,99.946,90
+Azure,West Europe,46,73,99.993,76
+GCP,asia-east1,69,114,99.966,83
+Azure,Central India,59,108,99.98,54
+AWS,us-west-2,29,52,99.959,74
+Azure,Central India,46,96,99.962,76
+Azure,Central India,64,112,99.903,43
+AWS,ap-south-1,50,62,99.997,41
+GCP,asia-south1,65,81,99.903,89
+AWS,ap-southeast-1,31,72,99.985,45
+Azure,Australia East,22,63,99.967,51
+AWS,ap-south-1,42,61,99.99,55
+GCP,us-central1,63,73,99.975,78
+Azure,Central India,11,30,99.933,94
+Azure,Australia East,54,95,99.903,48
+AWS,us-west-2,76,123,99.941,77
+AWS,ap-southeast-1,48,92,99.94,45
+AWS,eu-west-1,33,75,99.989,62
+AWS,us-east-1,29,50,99.954,84
+GCP,asia-south1,54,79,99.998,94
+GCP,asia-east1,59,87,99.96,65
+GCP,us-central1,46,71,99.963,56
+GCP,us-east1,40,67,99.911,74
+GCP,us-east1,34,50,99.931,57
+AWS,eu-west-1,47,75,99.945,69
+Azure,East US,73,93,99.944,95
+AWS,us-east-1,66,105,99.908,86
+Azure,Central India,74,104,99.948,93
+GCP,europe-west1,48,70,99.958,71
+Azure,East US,13,24,99.937,85
+AWS,ap-southeast-1,29,67,99.99,57
+GCP,asia-east1,68,98,99.905,54
+AWS,ap-south-1,50,60,99.978,54
+Azure,Central India,16,26,99.905,47
+GCP,europe-west1,62,86,99.945,45
+AWS,us-west-2,32,70,99.922,70
+AWS,ap-south-1,44,93,99.931,42
+AWS,ap-south-1,49,71,99.901,45
+GCP,asia-south1,58,96,99.972,60
+Azure,Southeast Asia,60,103,99.943,91
+AWS,us-east-1,38,53,99.916,82
+AWS,ap-south-1,64,97,99.947,72
+Azure,East US,35,48,99.942,64
+AWS,us-west-2,26,51,99.933,66
+GCP,asia-east1,25,42,99.941,48
+Azure,West Europe,15,47,99.903,88
+GCP,europe-west1,33,74,99.939,91
+AWS,ap-south-1,36,69,99.997,95
+GCP,europe-west1,23,47,99.95,45
+GCP,us-central1,26,54,99.916,46
+AWS,us-east-1,32,72,99.965,69
+GCP,asia-south1,39,49,99.929,67
+AWS,us-west-2,63,84,99.91,51
+Azure,West Europe,80,91,99.929,83
+GCP,us-east1,32,59,99.955,88
+Azure,Australia East,43,93,99.941,58
+Azure,Australia East,51,78,99.951,60
+GCP,asia-south1,79,92,99.944,62
+GCP,us-east1,29,54,99.991,66
+GCP,us-east1,43,75,99.907,70
+Azure,West Europe,30,64,99.964,81
+Azure,East US,65,99,99.97,77
+AWS,ap-south-1,77,121,99.924,85
+Azure,Central India,38,63,99.99,45
+Azure,Central India,70,91,99.928,91
+Azure,West Europe,26,46,99.938,93
+Azure,Australia East,22,71,99.922,53
+Azure,West Europe,28,64,99.974,82
+GCP,us-central1,12,28,99.98,54
+Azure,Central India,47,64,99.903,56
+Azure,Southeast Asia,20,62,99.908,81
+GCP,asia-east1,38,80,99.931,81
+Azure,Central India,51,87,99.906,50
+GCP,us-east1,16,27,99.988,63
+GCP,asia-east1,52,80,99.951,85
+AWS,us-east-1,27,60,99.941,53
+AWS,eu-west-1,32,82,99.909,90
+Azure,East US,58,88,99.969,40
+AWS,us-east-1,68,99,99.95,83
+Azure,West Europe,54,93,99.965,72
+GCP,us-east1,56,83,99.94,65
+GCP,europe-west1,47,70,99.911,81
+GCP,europe-west1,30,66,99.957,56
+AWS,us-west-2,66,87,99.904,44
+GCP,asia-south1,56,102,99.969,50
+Azure,Southeast Asia,33,69,99.995,87
+Azure,West Europe,20,59,99.956,66
+Azure,Central India,76,97,99.944,49
+GCP,us-central1,52,68,99.973,82
+GCP,us-east1,45,72,99.915,66
+AWS,ap-south-1,71,99,99.929,61
+GCP,europe-west1,25,47,99.973,74
+Azure,Australia East,50,85,99.926,61
+Azure,Southeast Asia,32,42,99.954,76
+GCP,asia-south1,33,49,99.959,48
+AWS,ap-south-1,39,75,99.941,94
+AWS,ap-south-1,11,42,99.955,80
+Azure,Central India,35,58,99.981,59
+GCP,asia-east1,32,49,99.932,41
+AWS,eu-west-1,23,61,99.978,58
+GCP,us-central1,52,84,99.965,82
+AWS,us-west-2,46,63,99.926,80
+AWS,us-west-2,46,66,99.97,69
+AWS,eu-west-1,14,47,99.962,95
+Azure,Southeast Asia,22,65,99.929,51
+GCP,europe-west1,14,38,99.933,43
+AWS,ap-southeast-1,41,61,99.973,42
+AWS,us-west-2,49,75,99.993,65
+AWS,us-west-2,75,118,99.903,91
+GCP,europe-west1,21,49,99.939,56
+GCP,us-central1,32,63,99.931,72
+GCP,asia-east1,38,56,99.938,43
+GCP,asia-east1,64,74,99.973,84
+AWS,ap-southeast-1,61,72,99.919,52
+AWS,us-west-2,14,56,99.981,57
+GCP,asia-east1,42,90,99.976,95
+AWS,ap-south-1,17,31,99.975,66
+Azure,Southeast Asia,75,122,99.926,48
+AWS,ap-southeast-1,66,100,99.939,52
+AWS,us-west-2,60,89,99.906,72
+AWS,eu-west-1,75,108,99.967,84
+GCP,us-central1,52,67,99.989,50
+Azure,East US,77,110,99.959,45
+Azure,Central India,24,70,99.953,53
+GCP,us-central1,48,92,99.917,71
+Azure,East US,64,108,99.958,47
+Azure,Australia East,34,51,99.927,84
+AWS,ap-south-1,50,97,99.968,56
+Azure,Australia East,67,101,99.931,79
+Azure,Central India,20,56,99.939,55
+Azure,Central India,46,57,99.997,78
+AWS,us-west-2,39,55,99.97,64
+Azure,Australia East,24,35,99.901,61
+Azure,East US,10,48,99.919,49
+GCP,europe-west1,26,67,99.928,68
+Azure,Southeast Asia,63,92,99.933,49
+GCP,asia-south1,18,65,99.998,62
+AWS,ap-south-1,23,72,99.945,80
+AWS,eu-west-1,47,86,99.903,64
+AWS,us-west-2,54,71,99.95,84
+GCP,us-central1,24,63,99.901,79
+GCP,us-central1,39,61,99.951,64
+GCP,asia-south1,71,110,99.95,82
+AWS,ap-southeast-1,77,112,99.991,94
+AWS,us-east-1,79,92,99.941,41
+Azure,East US,61,93,99.997,52
+GCP,europe-west1,28,69,99.958,92
+Azure,East US,76,99,99.932,47
+GCP,us-east1,26,49,99.964,87
+GCP,europe-west1,79,99,99.981,95
+AWS,us-east-1,18,44,99.974,82
+GCP,asia-south1,71,104,99.908,54
+GCP,us-central1,20,40,99.919,81
+AWS,ap-south-1,24,38,99.985,72
+Azure,Central India,62,101,99.993,76
+Azure,Southeast Asia,51,75,99.941,41
+GCP,asia-south1,80,111,99.978,54
+GCP,asia-east1,57,70,99.915,66
+AWS,us-east-1,59,96,99.921,89
+GCP,us-central1,42,57,99.908,64
+Azure,Central India,60,76,99.963,55
+AWS,ap-south-1,40,67,99.987,41
+GCP,europe-west1,61,95,99.932,42
+AWS,us-east-1,60,93,99.991,42
+GCP,europe-west1,11,32,99.916,85
+AWS,eu-west-1,49,69,99.979,40
+Azure,Australia East,21,53,99.996,89
+AWS,eu-west-1,53,99,99.921,78
+GCP,us-east1,54,98,99.912,84
+GCP,asia-east1,44,92,99.952,94
+GCP,europe-west1,52,73,99.992,46
+GCP,asia-east1,73,101,99.93,82
+Azure,Central India,43,81,99.946,93
+AWS,eu-west-1,60,110,99.976,77
+GCP,us-east1,30,43,99.915,61
+Azure,West Europe,35,61,99.984,46
+AWS,ap-southeast-1,62,107,99.951,61
+AWS,ap-south-1,12,24,99.968,93
+AWS,ap-southeast-1,25,51,99.953,87
+GCP,europe-west1,22,40,99.925,93
+GCP,us-east1,34,55,99.933,67
+Azure,West Europe,10,58,99.937,50
+Azure,Central India,73,93,99.91,49
+GCP,us-east1,14,39,99.99,49
+Azure,Central India,32,77,99.989,80
+AWS,ap-southeast-1,55,74,99.975,48
+GCP,us-central1,73,91,99.998,77
+GCP,asia-south1,73,93,99.958,81
+GCP,europe-west1,71,112,99.93,54
+GCP,us-central1,77,117,99.902,82
+GCP,asia-east1,74,90,99.953,81
+Azure,Central India,25,71,99.952,64
+AWS,eu-west-1,35,78,99.959,67
+AWS,us-east-1,42,89,99.989,73
+Azure,East US,78,90,99.947,75
+GCP,us-east1,71,115,99.913,68
+Azure,Southeast Asia,39,74,99.961,68
+AWS,us-east-1,58,83,99.957,88
+AWS,ap-southeast-1,11,55,99.957,59
+AWS,eu-west-1,65,92,99.968,44
+AWS,ap-south-1,12,33,99.908,40
+Azure,East US,45,85,99.969,94
+GCP,us-central1,10,55,99.913,85
+Azure,Central India,20,67,99.978,92
+AWS,us-east-1,10,47,99.908,92
+Azure,Australia East,77,112,99.912,58
+Azure,West Europe,68,115,99.925,54
+Azure,Australia East,74,101,99.919,57
+AWS,us-east-1,38,71,99.994,75
+AWS,ap-southeast-1,20,53,99.905,91
+Azure,East US,42,85,99.992,90
+Azure,Southeast Asia,61,99,99.954,82
+AWS,us-west-2,22,70,99.947,60
+GCP,europe-west1,30,62,99.941,65
+Azure,West Europe,63,113,99.995,45
+Azure,West Europe,61,100,99.965,88
+AWS,us-east-1,50,75,99.924,49
+AWS,ap-south-1,14,40,99.901,53
+GCP,asia-south1,13,43,99.988,87
+AWS,ap-south-1,56,104,99.917,54
+GCP,asia-east1,39,56,99.902,44
+Azure,Southeast Asia,69,93,99.905,71
+AWS,ap-south-1,35,69,99.926,81
+AWS,us-west-2,69,96,99.992,56
+GCP,us-east1,47,79,99.942,56
+GCP,asia-east1,53,89,99.925,94
+AWS,us-east-1,12,24,99.912,57
+Azure,Southeast Asia,31,69,99.989,47
+Azure,Australia East,24,44,99.904,90
+AWS,us-west-2,53,71,99.969,70
+AWS,eu-west-1,22,51,99.99,43
+GCP,us-central1,16,44,99.96,82
+GCP,asia-east1,70,95,99.998,49
+Azure,Southeast Asia,67,82,99.977,54
+AWS,ap-south-1,53,100,99.919,83
+GCP,us-east1,11,44,99.915,84
+Azure,East US,58,72,99.921,58
+Azure,Central India,75,119,99.916,59
+GCP,asia-south1,26,76,99.91,53
+AWS,ap-south-1,42,69,99.907,68
+Azure,Australia East,39,49,99.909,91
+AWS,ap-south-1,23,56,99.997,82
+AWS,us-east-1,33,72,99.933,74
+GCP,europe-west1,32,53,99.981,46
+AWS,us-west-2,38,69,99.917,85
+GCP,europe-west1,34,80,99.97,80
+GCP,europe-west1,61,101,99.915,87
+AWS,ap-south-1,43,62,99.957,41
+GCP,us-central1,69,118,99.957,95
+Azure,Australia East,49,69,99.962,79
+GCP,us-east1,54,73,99.991,63
+Azure,Australia East,37,64,99.968,88
+Azure,West Europe,14,47,99.914,62
+Azure,Southeast Asia,37,52,99.92,65
+Azure,Southeast Asia,54,68,99.976,46
+GCP,europe-west1,67,79,99.969,77
+AWS,ap-southeast-1,79,119,99.958,76
+AWS,ap-southeast-1,21,32,99.952,49
+GCP,us-central1,70,111,99.965,45
+Azure,Australia East,18,45,99.952,50
+AWS,eu-west-1,23,56,99.933,43
+GCP,europe-west1,73,123,99.903,69
+GCP,asia-south1,69,107,99.946,40
+Azure,East US,69,83,99.996,82
+Azure,Central India,69,85,99.922,90
+Azure,West Europe,19,60,99.992,75
+Azure,Central India,11,37,99.958,67
+Azure,East US,30,70,99.958,43
+AWS,eu-west-1,42,88,99.911,81
+Azure,Central India,12,59,99.922,63
+AWS,us-west-2,20,47,99.919,68
+AWS,ap-south-1,76,113,99.925,42
+AWS,ap-south-1,29,44,99.945,41
+AWS,us-west-2,79,100,99.918,55
+GCP,asia-south1,30,41,99.913,41
+AWS,us-west-2,77,88,99.939,62
+GCP,us-east1,58,68,99.936,52
+AWS,us-east-1,48,93,99.931,69
+GCP,us-east1,60,98,99.901,78
+GCP,asia-east1,36,72,99.996,57
+AWS,us-west-2,20,33,99.915,54
+GCP,asia-east1,80,97,99.942,75
+Azure,Central India,18,61,99.907,93
+Azure,Australia East,49,63,99.957,47
+AWS,us-east-1,72,122,99.975,47
+Azure,Southeast Asia,69,111,99.941,93
+AWS,us-west-2,69,108,99.978,59
+Azure,Central India,20,61,99.957,94
+Azure,East US,26,43,99.964,61
+Azure,West Europe,57,83,99.928,59
+Azure,West Europe,61,89,99.982,90
+Azure,Southeast Asia,74,122,99.973,43
+Azure,West Europe,74,97,99.998,58
+GCP,asia-east1,64,81,99.93,72
+GCP,asia-south1,21,71,99.993,76
+GCP,europe-west1,68,84,99.91,71
+GCP,asia-east1,12,29,99.923,42
+Azure,East US,64,78,99.923,90
+AWS,ap-south-1,58,104,99.946,89
+Azure,Southeast Asia,59,84,99.956,44
+AWS,us-east-1,76,93,99.962,41
+AWS,us-east-1,46,59,99.922,57
+GCP,us-east1,25,64,99.987,64
+Azure,Australia East,69,119,99.94,61
+Azure,Australia East,55,101,99.937,84
+AWS,ap-south-1,45,81,99.92,40
+GCP,us-east1,31,50,99.958,44
+GCP,europe-west1,51,96,99.917,87
+GCP,europe-west1,15,65,99.94,41
+AWS,ap-southeast-1,43,92,99.937,83
+GCP,asia-south1,32,57,99.937,86
+GCP,us-east1,80,101,99.947,72
+GCP,us-central1,75,99,99.979,72
+Azure,East US,26,63,99.902,56
+AWS,eu-west-1,72,115,99.946,57
+AWS,ap-south-1,33,43,99.916,58
+GCP,us-central1,78,88,99.935,81
+Azure,Australia East,44,75,99.904,42
+AWS,ap-south-1,49,93,99.943,70
+AWS,us-east-1,21,60,99.94,84
+AWS,ap-south-1,53,68,99.912,63
+GCP,asia-east1,50,81,99.959,48
+AWS,us-west-2,48,96,99.961,88
+AWS,us-west-2,37,75,99.92,52
+Azure,Southeast Asia,41,75,99.927,46
+Azure,East US,30,41,99.923,61
+Azure,West Europe,69,89,99.936,92
+GCP,asia-south1,76,124,99.986,85
+GCP,europe-west1,64,104,99.947,68
+GCP,asia-south1,80,93,99.903,92
+Azure,West Europe,49,90,99.939,49
+AWS,us-west-2,18,56,99.991,63
+GCP,us-central1,40,82,99.953,95
+AWS,us-west-2,13,53,99.947,50
+Azure,Central India,50,87,99.964,48
+AWS,us-east-1,13,45,99.916,72
+GCP,us-east1,77,105,99.96,77
+GCP,us-east1,69,101,99.978,54
+GCP,europe-west1,47,85,99.929,85
+AWS,ap-southeast-1,42,59,99.948,56
+AWS,ap-southeast-1,80,125,99.979,50
+AWS,us-east-1,22,46,99.922,87
+AWS,us-east-1,12,43,99.914,77
+GCP,europe-west1,55,79,99.918,71
+AWS,eu-west-1,17,63,99.974,46
+Azure,Central India,35,83,99.958,52
+AWS,ap-southeast-1,68,118,99.963,66
+Azure,East US,14,60,99.908,49
+GCP,europe-west1,78,91,99.963,69
+AWS,us-west-2,23,39,99.981,41
